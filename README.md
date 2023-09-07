@@ -1,6 +1,8 @@
 # Nearest-Weather-Station-Finder-Lausitz-Study
 
+
 ## Google Colab: https://colab.research.google.com/drive/1Q0a07TV23xuD-ScJvYB0rI5msIpzcIsC?usp=sharing
+
 
 ## 1. Setup and Library Installation
 Before starting the analysis, ensure you have the necessary libraries installed and imported.
@@ -32,7 +34,6 @@ weather_stations_gdf = gpd.GeoDataFrame(weather_station_data,
 lausitz_boundary = gpd.read_file('/path_to_your_extracted_shapefile/Lusatia_Boundary_Districts_EPSG4326.shp')
 ```
 ## 3. Initial Visualization: Lausitz Boundary and Weather Stations
-
 ```
 # Plot Lausitz Boundary and Weather Stations
 fig, ax = plt.subplots(figsize=(12, 10))
@@ -45,6 +46,8 @@ ax.legend()
 plt.tight_layout()
 plt.show()
 ```
+
+![Lausitz Boundary and Weather Stations](Lausitz Boundary and Weather Stations.PNG)
 
 ## 4. Data Extraction: Study Blocks from KML File
 Extract study block data manually from the provided KML file.
@@ -81,6 +84,8 @@ ax.legend()
 plt.tight_layout()
 plt.show()
 ```
+
+![Study Blocks with Lausitz Boundary and Weather Stations](Study Blocks with Lausitz Boundary and Weather Stations.PNG)
 
 ## 6. Find Nearest Weather Station for Each Study Block
 Define a function to find the nearest weather station for each study block centroid and apply it.
@@ -119,6 +124,9 @@ plt.tight_layout()
 plt.show()
 ```
 
+![Centroids and Lines to Nearest Weather Stations](Centroids and Lines to Nearest Weather Stations.PNG)
+
+
 ## 8. Summary
 Finally, print a summary dataframe showing the nearest weather station for each study block and the corresponding distance.
 ```
@@ -126,4 +134,21 @@ Finally, print a summary dataframe showing the nearest weather station for each 
 summary_df_new_manual = study_blocks_layer_manual[['Block_Name', 'Nearest_DWD', 'Distance']]
 summary_df_new_manual.columns = ['Block_Name', 'Nearest_DWD', 'Distance (km)']
 print(summary_df_new_manual)
+```
+
+```
+                           Block_Name         Nearest_DWD  Distance (km)
+0                AgroBaLa - Peickwitz  Schipkau-Klettwitz     827.590601
+1   AgroBaLa_IsolatedTreeConservation  Schipkau-Klettwitz     859.385952
+2             AgroBaLa_OpenSpaceField  Schipkau-Klettwitz     802.354061
+3                        AgroBaLa_PV   Schipkau-Klettwitz     924.240790
+4                         Cottbus_BTU             Cottbus      76.124773
+5                    Cottbus_Nutzberg             Cottbus     581.102096
+6                   Cottbus_SmallTown             Cottbus     653.515461
+7             Cottbuser Ostsee - West             Cottbus     406.068250
+8            Cottbuser Ostsee - South             Cottbus     561.289805
+9            Cottbuser Ostsee - North             Cottbus     638.925492
+10         Senftenberg_Rostiger Nagel         Hoyerswerda    1090.178549
+11     Senftenberg_Flooded Vegetation         Hoyerswerda    1239.986323
+12                  Senftenberg_Hafen         Hoyerswerda    1141.104257
 ```
