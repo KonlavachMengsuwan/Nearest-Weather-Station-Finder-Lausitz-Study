@@ -125,7 +125,7 @@ plt.tight_layout()
 plt.show()
 ```
 
-![Centroids and Lines to Nearest Weather Stations](Centroids%20and%20Lines%20to%20Nearest%20Weather%20Stations.png
+![Centroids and Lines to Nearest Weather Stations](Centroids%20and%20Lines%20to%20Nearest%20Weather%20Stations.png)
 
 ## 8. Summary
 Finally, print a summary dataframe showing the nearest weather station for each study block and the corresponding distance.
