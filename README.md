@@ -47,8 +47,7 @@ plt.tight_layout()
 plt.show()
 ```
 
-![](Lausitz Boundary and Weather Stations.png)<!-- -->
-![alt text](Lausitz Boundary and Weather Stations.png)
+![alt text](Centroids and Lines to Nearest Weather Stations.png)
 
 
 ## 4. Data Extraction: Study Blocks from KML File
