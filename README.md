@@ -47,7 +47,7 @@ plt.tight_layout()
 plt.show()
 ```
 
-![Lausitz Boundary and Weather Stations](Lausitz Boundary and Weather Stations.png)
+![](Lausitz Boundary and Weather Stations.png)<!-- -->
 
 ## 4. Data Extraction: Study Blocks from KML File
 Extract study block data manually from the provided KML file.
@@ -85,7 +85,7 @@ plt.tight_layout()
 plt.show()
 ```
 
-![Study Blocks with Lausitz Boundary and Weather Stations](Study Blocks with Lausitz Boundary and Weather Stations.png)
+![](Study Blocks with Lausitz Boundary and Weather Stations.png.png)<!-- -->
 
 ## 6. Find Nearest Weather Station for Each Study Block
 Define a function to find the nearest weather station for each study block centroid and apply it.
@@ -124,7 +124,7 @@ plt.tight_layout()
 plt.show()
 ```
 
-![Centroids and Lines to Nearest Weather Stations](Centroids and Lines to Nearest Weather Stations.png)
+![](Centroids and Lines to Nearest Weather Stations.png)<!-- -->
 
 
 ## 8. Summary
