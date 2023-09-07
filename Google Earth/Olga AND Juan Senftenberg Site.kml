@@ -1,0 +1,1486 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Olga AND Juan: Senftenberg Site</name>
+    <description><![CDATA[Survey Date: 15.08.2023<br>By: Konlavach Mengsuwan]]></description>
+    <Style id="icon-1535-01579B-labelson">
+      <IconStyle>
+        <color>ff9b5701</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="icon-1535-097138-labelson">
+      <IconStyle>
+        <color>ff387109</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="icon-1535-F57C00-labelson">
+      <IconStyle>
+        <color>ff007cf5</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="poly-01579B-8200-0-normal">
+      <LineStyle>
+        <color>ff9b5701</color>
+        <width>8.2</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>009b5701</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <Style id="poly-01579B-8200-0-highlight">
+      <LineStyle>
+        <color>ff9b5701</color>
+        <width>12.3</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>009b5701</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <StyleMap id="poly-01579B-8200-0">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#poly-01579B-8200-0-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#poly-01579B-8200-0-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="poly-0F9D58-8300-0-normal">
+      <LineStyle>
+        <color>ff589d0f</color>
+        <width>8.3</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>00589d0f</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <Style id="poly-0F9D58-8300-0-highlight">
+      <LineStyle>
+        <color>ff589d0f</color>
+        <width>12.45</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>00589d0f</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <StyleMap id="poly-0F9D58-8300-0">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#poly-0F9D58-8300-0-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#poly-0F9D58-8300-0-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="poly-F9A825-8300-0-normal">
+      <LineStyle>
+        <color>ff25a8f9</color>
+        <width>8.3</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>0025a8f9</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <Style id="poly-F9A825-8300-0-highlight">
+      <LineStyle>
+        <color>ff25a8f9</color>
+        <width>12.45</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>0025a8f9</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <StyleMap id="poly-F9A825-8300-0">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#poly-F9A825-8300-0-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#poly-F9A825-8300-0-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>LIL_KliBioTo_StudySites2023</name>
+      <Placemark>
+        <name>Senftenberg_Rostiger Nagel</name>
+        <description><![CDATA[description: <br>id: 11<br>Block_Name: Rostiger Nagel<br>Site_Name: Senftenberg<br>area: 250000<br>perimeter: 2000<br>layer: LIL-KliBioTo-2023_Senftenberg Senftenberg_Extents<br>path: D:/Users/konlavach/Desktop/Study_Plan/2023_06_07_Updated_Request Price Quotation/Cottbus/LIL-KliBioTo-2023_Senftenberg.kml|layername=Senftenberg_Extents]]></description>
+        <styleUrl>#poly-01579B-8200-0</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="id">
+            <value>11</value>
+          </Data>
+          <Data name="Block_Name">
+            <value>Rostiger Nagel</value>
+          </Data>
+          <Data name="Site_Name">
+            <value>Senftenberg</value>
+          </Data>
+          <Data name="area">
+            <value>250000</value>
+          </Data>
+          <Data name="perimeter">
+            <value>2000</value>
+          </Data>
+          <Data name="layer">
+            <value>LIL-KliBioTo-2023_Senftenberg Senftenberg_Extents</value>
+          </Data>
+          <Data name="path">
+            <value>D:/Users/konlavach/Desktop/Study_Plan/2023_06_07_Updated_Request Price Quotation/Cottbus/LIL-KliBioTo-2023_Senftenberg.kml|layername=Senftenberg_Extents</value>
+          </Data>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                14.104547,51.52946,0
+                14.09734,51.529405,0
+                14.097429,51.52491,0
+                14.104636,51.524965,0
+                14.104547,51.52946,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>Senftenberg_Flooded Vegetation</name>
+        <description><![CDATA[description: <br>id: 12<br>Block_Name: Sedlitzer See - Flooded Vegetation<br>Site_Name: Senftenberg<br>area: 250000<br>perimeter: 2000<br>layer: LIL-KliBioTo-2023_Senftenberg Senftenberg_Extents<br>path: D:/Users/konlavach/Desktop/Study_Plan/2023_06_07_Updated_Request Price Quotation/Cottbus/LIL-KliBioTo-2023_Senftenberg.kml|layername=Senftenberg_Extents]]></description>
+        <styleUrl>#poly-F9A825-8300-0</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="id">
+            <value>12</value>
+          </Data>
+          <Data name="Block_Name">
+            <value>Sedlitzer See - Flooded Vegetation</value>
+          </Data>
+          <Data name="Site_Name">
+            <value>Senftenberg</value>
+          </Data>
+          <Data name="area">
+            <value>250000</value>
+          </Data>
+          <Data name="perimeter">
+            <value>2000</value>
+          </Data>
+          <Data name="layer">
+            <value>LIL-KliBioTo-2023_Senftenberg Senftenberg_Extents</value>
+          </Data>
+          <Data name="path">
+            <value>D:/Users/konlavach/Desktop/Study_Plan/2023_06_07_Updated_Request Price Quotation/Cottbus/LIL-KliBioTo-2023_Senftenberg.kml|layername=Senftenberg_Extents</value>
+          </Data>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                14.086508,51.545609,0
+                14.079298,51.545552,0
+                14.079389,51.541057,0
+                14.086598,51.541114,0
+                14.086508,51.545609,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>Senftenberg_Hafen</name>
+        <description><![CDATA[description: <br>id: 13<br>Block_Name: Sedlitzer See - Hafen<br>Site_Name: Senftenberg<br>area: 250000<br>perimeter: 2000<br>layer: LIL-KliBioTo-2023_Senftenberg Senftenberg_Extents<br>path: D:/Users/konlavach/Desktop/Study_Plan/2023_06_07_Updated_Request Price Quotation/Cottbus/LIL-KliBioTo-2023_Senftenberg.kml|layername=Senftenberg_Extents]]></description>
+        <styleUrl>#poly-0F9D58-8300-0</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="id">
+            <value>13</value>
+          </Data>
+          <Data name="Block_Name">
+            <value>Sedlitzer See - Hafen</value>
+          </Data>
+          <Data name="Site_Name">
+            <value>Senftenberg</value>
+          </Data>
+          <Data name="area">
+            <value>250000</value>
+          </Data>
+          <Data name="perimeter">
+            <value>2000</value>
+          </Data>
+          <Data name="layer">
+            <value>LIL-KliBioTo-2023_Senftenberg Senftenberg_Extents</value>
+          </Data>
+          <Data name="path">
+            <value>D:/Users/konlavach/Desktop/Study_Plan/2023_06_07_Updated_Request Price Quotation/Cottbus/LIL-KliBioTo-2023_Senftenberg.kml|layername=Senftenberg_Extents</value>
+          </Data>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                14.118517,51.565231,0
+                14.111304,51.565177,0
+                14.111392,51.560681,0
+                14.118604,51.560736,0
+                14.118517,51.565231,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Survey_Points_2023_ALL</name>
+      <Placemark>
+        <name/>
+        <description><![CDATA[description: <br>tessellate: -1<br>extrude: 0<br>visibility: -1<br>id: 1<br>left: 436274.62504135<br>top: 5710778.21448648<br>right: 436399.62504135<br>bottom: 5710903.21448648<br>layer: Senftenberg_FloodedVegetation_9Points LIL_KliBioTo_StudySites_Extents_Senftenberg_Flooded_Vegetation_Points<br>path: D:/Users/konlavach/Desktop/AIA_Meeting/2023_06_23/Study_Sites/Survey_Points/Senftenberg/Senftenberg_FloodedVegetation_9Points.kml|layername=LIL_KliBioTo_StudySites_Extents_Senftenberg_Flooded_Vegetation_Points]]></description>
+        <styleUrl>#icon-1535-F57C00-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="tessellate">
+            <value>-1</value>
+          </Data>
+          <Data name="extrude">
+            <value>0</value>
+          </Data>
+          <Data name="visibility">
+            <value>-1</value>
+          </Data>
+          <Data name="id">
+            <value>1</value>
+          </Data>
+          <Data name="left">
+            <value>436274.62504135</value>
+          </Data>
+          <Data name="top">
+            <value>5710778.21448648</value>
+          </Data>
+          <Data name="right">
+            <value>436399.62504135</value>
+          </Data>
+          <Data name="bottom">
+            <value>5710903.21448648</value>
+          </Data>
+          <Data name="layer">
+            <value>Senftenberg_FloodedVegetation_9Points LIL_KliBioTo_StudySites_Extents_Senftenberg_Flooded_Vegetation_Points</value>
+          </Data>
+          <Data name="path">
+            <value>D:/Users/konlavach/Desktop/AIA_Meeting/2023_06_23/Study_Sites/Survey_Points/Senftenberg/Senftenberg_FloodedVegetation_9Points.kml|layername=LIL_KliBioTo_StudySites_Extents_Senftenberg_Flooded_Vegetation_Points</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            14.0810592,51.5452094,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <description><![CDATA[description: <br>tessellate: -1<br>extrude: 0<br>visibility: -1<br>id: 2<br>left: 436274.62504135<br>top: 5710653.21448648<br>right: 436399.62504135<br>bottom: 5710778.21448648<br>layer: Senftenberg_FloodedVegetation_9Points LIL_KliBioTo_StudySites_Extents_Senftenberg_Flooded_Vegetation_Points<br>path: D:/Users/konlavach/Desktop/AIA_Meeting/2023_06_23/Study_Sites/Survey_Points/Senftenberg/Senftenberg_FloodedVegetation_9Points.kml|layername=LIL_KliBioTo_StudySites_Extents_Senftenberg_Flooded_Vegetation_Points]]></description>
+        <styleUrl>#icon-1535-F57C00-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="tessellate">
+            <value>-1</value>
+          </Data>
+          <Data name="extrude">
+            <value>0</value>
+          </Data>
+          <Data name="visibility">
+            <value>-1</value>
+          </Data>
+          <Data name="id">
+            <value>2</value>
+          </Data>
+          <Data name="left">
+            <value>436274.62504135</value>
+          </Data>
+          <Data name="top">
+            <value>5710653.21448648</value>
+          </Data>
+          <Data name="right">
+            <value>436399.62504135</value>
+          </Data>
+          <Data name="bottom">
+            <value>5710778.21448648</value>
+          </Data>
+          <Data name="layer">
+            <value>Senftenberg_FloodedVegetation_9Points LIL_KliBioTo_StudySites_Extents_Senftenberg_Flooded_Vegetation_Points</value>
+          </Data>
+          <Data name="path">
+            <value>D:/Users/konlavach/Desktop/AIA_Meeting/2023_06_23/Study_Sites/Survey_Points/Senftenberg/Senftenberg_FloodedVegetation_9Points.kml|layername=LIL_KliBioTo_StudySites_Extents_Senftenberg_Flooded_Vegetation_Points</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            14.0815261,51.5427044,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <description><![CDATA[description: <br>tessellate: -1<br>extrude: 0<br>visibility: -1<br>id: 3<br>left: 436274.62504135<br>top: 5710528.21448648<br>right: 436399.62504135<br>bottom: 5710653.21448648<br>layer: Senftenberg_FloodedVegetation_9Points LIL_KliBioTo_StudySites_Extents_Senftenberg_Flooded_Vegetation_Points<br>path: D:/Users/konlavach/Desktop/AIA_Meeting/2023_06_23/Study_Sites/Survey_Points/Senftenberg/Senftenberg_FloodedVegetation_9Points.kml|layername=LIL_KliBioTo_StudySites_Extents_Senftenberg_Flooded_Vegetation_Points]]></description>
+        <styleUrl>#icon-1535-F57C00-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="tessellate">
+            <value>-1</value>
+          </Data>
+          <Data name="extrude">
+            <value>0</value>
+          </Data>
+          <Data name="visibility">
+            <value>-1</value>
+          </Data>
+          <Data name="id">
+            <value>3</value>
+          </Data>
+          <Data name="left">
+            <value>436274.62504135</value>
+          </Data>
+          <Data name="top">
+            <value>5710528.21448648</value>
+          </Data>
+          <Data name="right">
+            <value>436399.62504135</value>
+          </Data>
+          <Data name="bottom">
+            <value>5710653.21448648</value>
+          </Data>
+          <Data name="layer">
+            <value>Senftenberg_FloodedVegetation_9Points LIL_KliBioTo_StudySites_Extents_Senftenberg_Flooded_Vegetation_Points</value>
+          </Data>
+          <Data name="path">
+            <value>D:/Users/konlavach/Desktop/AIA_Meeting/2023_06_23/Study_Sites/Survey_Points/Senftenberg/Senftenberg_FloodedVegetation_9Points.kml|layername=LIL_KliBioTo_StudySites_Extents_Senftenberg_Flooded_Vegetation_Points</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            14.0814471,51.5412334,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <description><![CDATA[description: <br>tessellate: -1<br>extrude: 0<br>visibility: -1<br>id: 4<br>left: 436399.62504135<br>top: 5710778.21448648<br>right: 436524.62504135<br>bottom: 5710903.21448648<br>layer: Senftenberg_FloodedVegetation_9Points LIL_KliBioTo_StudySites_Extents_Senftenberg_Flooded_Vegetation_Points<br>path: D:/Users/konlavach/Desktop/AIA_Meeting/2023_06_23/Study_Sites/Survey_Points/Senftenberg/Senftenberg_FloodedVegetation_9Points.kml|layername=LIL_KliBioTo_StudySites_Extents_Senftenberg_Flooded_Vegetation_Points]]></description>
+        <styleUrl>#icon-1535-F57C00-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="tessellate">
+            <value>-1</value>
+          </Data>
+          <Data name="extrude">
+            <value>0</value>
+          </Data>
+          <Data name="visibility">
+            <value>-1</value>
+          </Data>
+          <Data name="id">
+            <value>4</value>
+          </Data>
+          <Data name="left">
+            <value>436399.62504135</value>
+          </Data>
+          <Data name="top">
+            <value>5710778.21448648</value>
+          </Data>
+          <Data name="right">
+            <value>436524.62504135</value>
+          </Data>
+          <Data name="bottom">
+            <value>5710903.21448648</value>
+          </Data>
+          <Data name="layer">
+            <value>Senftenberg_FloodedVegetation_9Points LIL_KliBioTo_StudySites_Extents_Senftenberg_Flooded_Vegetation_Points</value>
+          </Data>
+          <Data name="path">
+            <value>D:/Users/konlavach/Desktop/AIA_Meeting/2023_06_23/Study_Sites/Survey_Points/Senftenberg/Senftenberg_FloodedVegetation_9Points.kml|layername=LIL_KliBioTo_StudySites_Extents_Senftenberg_Flooded_Vegetation_Points</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            14.0812475,51.5443887,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <description><![CDATA[description: <br>tessellate: -1<br>extrude: 0<br>visibility: -1<br>id: 5<br>left: 436399.62504135<br>top: 5710653.21448648<br>right: 436524.62504135<br>bottom: 5710778.21448648<br>layer: Senftenberg_FloodedVegetation_9Points LIL_KliBioTo_StudySites_Extents_Senftenberg_Flooded_Vegetation_Points<br>path: D:/Users/konlavach/Desktop/AIA_Meeting/2023_06_23/Study_Sites/Survey_Points/Senftenberg/Senftenberg_FloodedVegetation_9Points.kml|layername=LIL_KliBioTo_StudySites_Extents_Senftenberg_Flooded_Vegetation_Points]]></description>
+        <styleUrl>#icon-1535-F57C00-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="tessellate">
+            <value>-1</value>
+          </Data>
+          <Data name="extrude">
+            <value>0</value>
+          </Data>
+          <Data name="visibility">
+            <value>-1</value>
+          </Data>
+          <Data name="id">
+            <value>5</value>
+          </Data>
+          <Data name="left">
+            <value>436399.62504135</value>
+          </Data>
+          <Data name="top">
+            <value>5710653.21448648</value>
+          </Data>
+          <Data name="right">
+            <value>436524.62504135</value>
+          </Data>
+          <Data name="bottom">
+            <value>5710778.21448648</value>
+          </Data>
+          <Data name="layer">
+            <value>Senftenberg_FloodedVegetation_9Points LIL_KliBioTo_StudySites_Extents_Senftenberg_Flooded_Vegetation_Points</value>
+          </Data>
+          <Data name="path">
+            <value>D:/Users/konlavach/Desktop/AIA_Meeting/2023_06_23/Study_Sites/Survey_Points/Senftenberg/Senftenberg_FloodedVegetation_9Points.kml|layername=LIL_KliBioTo_StudySites_Extents_Senftenberg_Flooded_Vegetation_Points</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            14.0815095,51.5423139,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <description><![CDATA[description: <br>tessellate: -1<br>extrude: 0<br>visibility: -1<br>id: 6<br>left: 436399.62504135<br>top: 5710528.21448648<br>right: 436524.62504135<br>bottom: 5710653.21448648<br>layer: Senftenberg_FloodedVegetation_9Points LIL_KliBioTo_StudySites_Extents_Senftenberg_Flooded_Vegetation_Points<br>path: D:/Users/konlavach/Desktop/AIA_Meeting/2023_06_23/Study_Sites/Survey_Points/Senftenberg/Senftenberg_FloodedVegetation_9Points.kml|layername=LIL_KliBioTo_StudySites_Extents_Senftenberg_Flooded_Vegetation_Points]]></description>
+        <styleUrl>#icon-1535-F57C00-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="tessellate">
+            <value>-1</value>
+          </Data>
+          <Data name="extrude">
+            <value>0</value>
+          </Data>
+          <Data name="visibility">
+            <value>-1</value>
+          </Data>
+          <Data name="id">
+            <value>6</value>
+          </Data>
+          <Data name="left">
+            <value>436399.62504135</value>
+          </Data>
+          <Data name="top">
+            <value>5710528.21448648</value>
+          </Data>
+          <Data name="right">
+            <value>436524.62504135</value>
+          </Data>
+          <Data name="bottom">
+            <value>5710653.21448648</value>
+          </Data>
+          <Data name="layer">
+            <value>Senftenberg_FloodedVegetation_9Points LIL_KliBioTo_StudySites_Extents_Senftenberg_Flooded_Vegetation_Points</value>
+          </Data>
+          <Data name="path">
+            <value>D:/Users/konlavach/Desktop/AIA_Meeting/2023_06_23/Study_Sites/Survey_Points/Senftenberg/Senftenberg_FloodedVegetation_9Points.kml|layername=LIL_KliBioTo_StudySites_Extents_Senftenberg_Flooded_Vegetation_Points</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            14.0814816,51.5416294,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <description><![CDATA[description: <br>tessellate: -1<br>extrude: 0<br>visibility: -1<br>id: 7<br>left: 436524.62504135<br>top: 5710778.21448648<br>right: 436649.62504135<br>bottom: 5710903.21448648<br>layer: Senftenberg_FloodedVegetation_9Points LIL_KliBioTo_StudySites_Extents_Senftenberg_Flooded_Vegetation_Points<br>path: D:/Users/konlavach/Desktop/AIA_Meeting/2023_06_23/Study_Sites/Survey_Points/Senftenberg/Senftenberg_FloodedVegetation_9Points.kml|layername=LIL_KliBioTo_StudySites_Extents_Senftenberg_Flooded_Vegetation_Points]]></description>
+        <styleUrl>#icon-1535-F57C00-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="tessellate">
+            <value>-1</value>
+          </Data>
+          <Data name="extrude">
+            <value>0</value>
+          </Data>
+          <Data name="visibility">
+            <value>-1</value>
+          </Data>
+          <Data name="id">
+            <value>7</value>
+          </Data>
+          <Data name="left">
+            <value>436524.62504135</value>
+          </Data>
+          <Data name="top">
+            <value>5710778.21448648</value>
+          </Data>
+          <Data name="right">
+            <value>436649.62504135</value>
+          </Data>
+          <Data name="bottom">
+            <value>5710903.21448648</value>
+          </Data>
+          <Data name="layer">
+            <value>Senftenberg_FloodedVegetation_9Points LIL_KliBioTo_StudySites_Extents_Senftenberg_Flooded_Vegetation_Points</value>
+          </Data>
+          <Data name="path">
+            <value>D:/Users/konlavach/Desktop/AIA_Meeting/2023_06_23/Study_Sites/Survey_Points/Senftenberg/Senftenberg_FloodedVegetation_9Points.kml|layername=LIL_KliBioTo_StudySites_Extents_Senftenberg_Flooded_Vegetation_Points</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            14.0814308,51.5437263,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <description><![CDATA[description: <br>tessellate: -1<br>extrude: 0<br>visibility: -1<br>id: 8<br>left: 436524.62504135<br>top: 5710653.21448648<br>right: 436649.62504135<br>bottom: 5710778.21448648<br>layer: Senftenberg_FloodedVegetation_9Points LIL_KliBioTo_StudySites_Extents_Senftenberg_Flooded_Vegetation_Points<br>path: D:/Users/konlavach/Desktop/AIA_Meeting/2023_06_23/Study_Sites/Survey_Points/Senftenberg/Senftenberg_FloodedVegetation_9Points.kml|layername=LIL_KliBioTo_StudySites_Extents_Senftenberg_Flooded_Vegetation_Points]]></description>
+        <styleUrl>#icon-1535-F57C00-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="tessellate">
+            <value>-1</value>
+          </Data>
+          <Data name="extrude">
+            <value>0</value>
+          </Data>
+          <Data name="visibility">
+            <value>-1</value>
+          </Data>
+          <Data name="id">
+            <value>8</value>
+          </Data>
+          <Data name="left">
+            <value>436524.62504135</value>
+          </Data>
+          <Data name="top">
+            <value>5710653.21448648</value>
+          </Data>
+          <Data name="right">
+            <value>436649.62504135</value>
+          </Data>
+          <Data name="bottom">
+            <value>5710778.21448648</value>
+          </Data>
+          <Data name="layer">
+            <value>Senftenberg_FloodedVegetation_9Points LIL_KliBioTo_StudySites_Extents_Senftenberg_Flooded_Vegetation_Points</value>
+          </Data>
+          <Data name="path">
+            <value>D:/Users/konlavach/Desktop/AIA_Meeting/2023_06_23/Study_Sites/Survey_Points/Senftenberg/Senftenberg_FloodedVegetation_9Points.kml|layername=LIL_KliBioTo_StudySites_Extents_Senftenberg_Flooded_Vegetation_Points</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            14.0815597,51.5431394,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <description><![CDATA[description: <br>tessellate: -1<br>extrude: 0<br>visibility: -1<br>id: 9<br>left: 436524.62504135<br>top: 5710528.21448648<br>right: 436649.62504135<br>bottom: 5710653.21448648<br>layer: Senftenberg_FloodedVegetation_9Points LIL_KliBioTo_StudySites_Extents_Senftenberg_Flooded_Vegetation_Points<br>path: D:/Users/konlavach/Desktop/AIA_Meeting/2023_06_23/Study_Sites/Survey_Points/Senftenberg/Senftenberg_FloodedVegetation_9Points.kml|layername=LIL_KliBioTo_StudySites_Extents_Senftenberg_Flooded_Vegetation_Points]]></description>
+        <styleUrl>#icon-1535-F57C00-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="tessellate">
+            <value>-1</value>
+          </Data>
+          <Data name="extrude">
+            <value>0</value>
+          </Data>
+          <Data name="visibility">
+            <value>-1</value>
+          </Data>
+          <Data name="id">
+            <value>9</value>
+          </Data>
+          <Data name="left">
+            <value>436524.62504135</value>
+          </Data>
+          <Data name="top">
+            <value>5710528.21448648</value>
+          </Data>
+          <Data name="right">
+            <value>436649.62504135</value>
+          </Data>
+          <Data name="bottom">
+            <value>5710653.21448648</value>
+          </Data>
+          <Data name="layer">
+            <value>Senftenberg_FloodedVegetation_9Points LIL_KliBioTo_StudySites_Extents_Senftenberg_Flooded_Vegetation_Points</value>
+          </Data>
+          <Data name="path">
+            <value>D:/Users/konlavach/Desktop/AIA_Meeting/2023_06_23/Study_Sites/Survey_Points/Senftenberg/Senftenberg_FloodedVegetation_9Points.kml|layername=LIL_KliBioTo_StudySites_Extents_Senftenberg_Flooded_Vegetation_Points</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            14.0815012,51.5419537,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <description><![CDATA[description: <br>tessellate: -1<br>extrude: 0<br>visibility: -1<br>id: 1<br>left: 438520.719263584<br>top: 5712932.97260757<br>right: 438645.719263584<br>bottom: 5713057.97260757<br>layer: Senftenberg_Hafen_9Points LIL_KliBioTo_StudySites_Extents_Senftenberg_Hafen_Points<br>path: D:/Users/konlavach/Desktop/AIA_Meeting/2023_06_23/Study_Sites/Survey_Points/Senftenberg/Senftenberg_Hafen_9Points.kml|layername=LIL_KliBioTo_StudySites_Extents_Senftenberg_Hafen_Points]]></description>
+        <styleUrl>#icon-1535-097138-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="tessellate">
+            <value>-1</value>
+          </Data>
+          <Data name="extrude">
+            <value>0</value>
+          </Data>
+          <Data name="visibility">
+            <value>-1</value>
+          </Data>
+          <Data name="id">
+            <value>1</value>
+          </Data>
+          <Data name="left">
+            <value>438520.719263584</value>
+          </Data>
+          <Data name="top">
+            <value>5712932.97260757</value>
+          </Data>
+          <Data name="right">
+            <value>438645.719263584</value>
+          </Data>
+          <Data name="bottom">
+            <value>5713057.97260757</value>
+          </Data>
+          <Data name="layer">
+            <value>Senftenberg_Hafen_9Points LIL_KliBioTo_StudySites_Extents_Senftenberg_Hafen_Points</value>
+          </Data>
+          <Data name="path">
+            <value>D:/Users/konlavach/Desktop/AIA_Meeting/2023_06_23/Study_Sites/Survey_Points/Senftenberg/Senftenberg_Hafen_9Points.kml|layername=LIL_KliBioTo_StudySites_Extents_Senftenberg_Hafen_Points</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            14.1117415,51.5628261,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <description><![CDATA[description: <br>tessellate: -1<br>extrude: 0<br>visibility: -1<br>id: 2<br>left: 438520.719263584<br>top: 5712807.97260757<br>right: 438645.719263584<br>bottom: 5712932.97260757<br>layer: Senftenberg_Hafen_9Points LIL_KliBioTo_StudySites_Extents_Senftenberg_Hafen_Points<br>path: D:/Users/konlavach/Desktop/AIA_Meeting/2023_06_23/Study_Sites/Survey_Points/Senftenberg/Senftenberg_Hafen_9Points.kml|layername=LIL_KliBioTo_StudySites_Extents_Senftenberg_Hafen_Points]]></description>
+        <styleUrl>#icon-1535-097138-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="tessellate">
+            <value>-1</value>
+          </Data>
+          <Data name="extrude">
+            <value>0</value>
+          </Data>
+          <Data name="visibility">
+            <value>-1</value>
+          </Data>
+          <Data name="id">
+            <value>2</value>
+          </Data>
+          <Data name="left">
+            <value>438520.719263584</value>
+          </Data>
+          <Data name="top">
+            <value>5712807.97260757</value>
+          </Data>
+          <Data name="right">
+            <value>438645.719263584</value>
+          </Data>
+          <Data name="bottom">
+            <value>5712932.97260757</value>
+          </Data>
+          <Data name="layer">
+            <value>Senftenberg_Hafen_9Points LIL_KliBioTo_StudySites_Extents_Senftenberg_Hafen_Points</value>
+          </Data>
+          <Data name="path">
+            <value>D:/Users/konlavach/Desktop/AIA_Meeting/2023_06_23/Study_Sites/Survey_Points/Senftenberg/Senftenberg_Hafen_9Points.kml|layername=LIL_KliBioTo_StudySites_Extents_Senftenberg_Hafen_Points</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            14.1130429,51.5623257,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <description><![CDATA[description: <br>tessellate: -1<br>extrude: 0<br>visibility: -1<br>id: 3<br>left: 438520.719263584<br>top: 5712682.97260757<br>right: 438645.719263584<br>bottom: 5712807.97260757<br>layer: Senftenberg_Hafen_9Points LIL_KliBioTo_StudySites_Extents_Senftenberg_Hafen_Points<br>path: D:/Users/konlavach/Desktop/AIA_Meeting/2023_06_23/Study_Sites/Survey_Points/Senftenberg/Senftenberg_Hafen_9Points.kml|layername=LIL_KliBioTo_StudySites_Extents_Senftenberg_Hafen_Points]]></description>
+        <styleUrl>#icon-1535-097138-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="tessellate">
+            <value>-1</value>
+          </Data>
+          <Data name="extrude">
+            <value>0</value>
+          </Data>
+          <Data name="visibility">
+            <value>-1</value>
+          </Data>
+          <Data name="id">
+            <value>3</value>
+          </Data>
+          <Data name="left">
+            <value>438520.719263584</value>
+          </Data>
+          <Data name="top">
+            <value>5712682.97260757</value>
+          </Data>
+          <Data name="right">
+            <value>438645.719263584</value>
+          </Data>
+          <Data name="bottom">
+            <value>5712807.97260757</value>
+          </Data>
+          <Data name="layer">
+            <value>Senftenberg_Hafen_9Points LIL_KliBioTo_StudySites_Extents_Senftenberg_Hafen_Points</value>
+          </Data>
+          <Data name="path">
+            <value>D:/Users/konlavach/Desktop/AIA_Meeting/2023_06_23/Study_Sites/Survey_Points/Senftenberg/Senftenberg_Hafen_9Points.kml|layername=LIL_KliBioTo_StudySites_Extents_Senftenberg_Hafen_Points</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            14.1117707,51.561822,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <description><![CDATA[description: <br>tessellate: -1<br>extrude: 0<br>visibility: -1<br>id: 4<br>left: 438645.719263584<br>top: 5712932.97260757<br>right: 438770.719263584<br>bottom: 5713057.97260757<br>layer: Senftenberg_Hafen_9Points LIL_KliBioTo_StudySites_Extents_Senftenberg_Hafen_Points<br>path: D:/Users/konlavach/Desktop/AIA_Meeting/2023_06_23/Study_Sites/Survey_Points/Senftenberg/Senftenberg_Hafen_9Points.kml|layername=LIL_KliBioTo_StudySites_Extents_Senftenberg_Hafen_Points]]></description>
+        <styleUrl>#icon-1535-097138-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="tessellate">
+            <value>-1</value>
+          </Data>
+          <Data name="extrude">
+            <value>0</value>
+          </Data>
+          <Data name="visibility">
+            <value>-1</value>
+          </Data>
+          <Data name="id">
+            <value>4</value>
+          </Data>
+          <Data name="left">
+            <value>438645.719263584</value>
+          </Data>
+          <Data name="top">
+            <value>5712932.97260757</value>
+          </Data>
+          <Data name="right">
+            <value>438770.719263584</value>
+          </Data>
+          <Data name="bottom">
+            <value>5713057.97260757</value>
+          </Data>
+          <Data name="layer">
+            <value>Senftenberg_Hafen_9Points LIL_KliBioTo_StudySites_Extents_Senftenberg_Hafen_Points</value>
+          </Data>
+          <Data name="path">
+            <value>D:/Users/konlavach/Desktop/AIA_Meeting/2023_06_23/Study_Sites/Survey_Points/Senftenberg/Senftenberg_Hafen_9Points.kml|layername=LIL_KliBioTo_StudySites_Extents_Senftenberg_Hafen_Points</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            14.1117005,51.5634404,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <description><![CDATA[description: <br>tessellate: -1<br>extrude: 0<br>visibility: -1<br>id: 5<br>left: 438645.719263584<br>top: 5712807.97260757<br>right: 438770.719263584<br>bottom: 5712932.97260757<br>layer: Senftenberg_Hafen_9Points LIL_KliBioTo_StudySites_Extents_Senftenberg_Hafen_Points<br>path: D:/Users/konlavach/Desktop/AIA_Meeting/2023_06_23/Study_Sites/Survey_Points/Senftenberg/Senftenberg_Hafen_9Points.kml|layername=LIL_KliBioTo_StudySites_Extents_Senftenberg_Hafen_Points]]></description>
+        <styleUrl>#icon-1535-097138-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="tessellate">
+            <value>-1</value>
+          </Data>
+          <Data name="extrude">
+            <value>0</value>
+          </Data>
+          <Data name="visibility">
+            <value>-1</value>
+          </Data>
+          <Data name="id">
+            <value>5</value>
+          </Data>
+          <Data name="left">
+            <value>438645.719263584</value>
+          </Data>
+          <Data name="top">
+            <value>5712807.97260757</value>
+          </Data>
+          <Data name="right">
+            <value>438770.719263584</value>
+          </Data>
+          <Data name="bottom">
+            <value>5712932.97260757</value>
+          </Data>
+          <Data name="layer">
+            <value>Senftenberg_Hafen_9Points LIL_KliBioTo_StudySites_Extents_Senftenberg_Hafen_Points</value>
+          </Data>
+          <Data name="path">
+            <value>D:/Users/konlavach/Desktop/AIA_Meeting/2023_06_23/Study_Sites/Survey_Points/Senftenberg/Senftenberg_Hafen_9Points.kml|layername=LIL_KliBioTo_StudySites_Extents_Senftenberg_Hafen_Points</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            14.1149424,51.5617311,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <description><![CDATA[description: <br>tessellate: -1<br>extrude: 0<br>visibility: -1<br>id: 6<br>left: 438645.719263584<br>top: 5712682.97260757<br>right: 438770.719263584<br>bottom: 5712807.97260757<br>layer: Senftenberg_Hafen_9Points LIL_KliBioTo_StudySites_Extents_Senftenberg_Hafen_Points<br>path: D:/Users/konlavach/Desktop/AIA_Meeting/2023_06_23/Study_Sites/Survey_Points/Senftenberg/Senftenberg_Hafen_9Points.kml|layername=LIL_KliBioTo_StudySites_Extents_Senftenberg_Hafen_Points]]></description>
+        <styleUrl>#icon-1535-097138-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="tessellate">
+            <value>-1</value>
+          </Data>
+          <Data name="extrude">
+            <value>0</value>
+          </Data>
+          <Data name="visibility">
+            <value>-1</value>
+          </Data>
+          <Data name="id">
+            <value>6</value>
+          </Data>
+          <Data name="left">
+            <value>438645.719263584</value>
+          </Data>
+          <Data name="top">
+            <value>5712682.97260757</value>
+          </Data>
+          <Data name="right">
+            <value>438770.719263584</value>
+          </Data>
+          <Data name="bottom">
+            <value>5712807.97260757</value>
+          </Data>
+          <Data name="layer">
+            <value>Senftenberg_Hafen_9Points LIL_KliBioTo_StudySites_Extents_Senftenberg_Hafen_Points</value>
+          </Data>
+          <Data name="path">
+            <value>D:/Users/konlavach/Desktop/AIA_Meeting/2023_06_23/Study_Sites/Survey_Points/Senftenberg/Senftenberg_Hafen_9Points.kml|layername=LIL_KliBioTo_StudySites_Extents_Senftenberg_Hafen_Points</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            14.1135684,51.5620261,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <description><![CDATA[description: <br>tessellate: -1<br>extrude: 0<br>visibility: -1<br>id: 7<br>left: 438770.719263584<br>top: 5712932.97260757<br>right: 438895.719263584<br>bottom: 5713057.97260757<br>layer: Senftenberg_Hafen_9Points LIL_KliBioTo_StudySites_Extents_Senftenberg_Hafen_Points<br>path: D:/Users/konlavach/Desktop/AIA_Meeting/2023_06_23/Study_Sites/Survey_Points/Senftenberg/Senftenberg_Hafen_9Points.kml|layername=LIL_KliBioTo_StudySites_Extents_Senftenberg_Hafen_Points]]></description>
+        <styleUrl>#icon-1535-097138-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="tessellate">
+            <value>-1</value>
+          </Data>
+          <Data name="extrude">
+            <value>0</value>
+          </Data>
+          <Data name="visibility">
+            <value>-1</value>
+          </Data>
+          <Data name="id">
+            <value>7</value>
+          </Data>
+          <Data name="left">
+            <value>438770.719263584</value>
+          </Data>
+          <Data name="top">
+            <value>5712932.97260757</value>
+          </Data>
+          <Data name="right">
+            <value>438895.719263584</value>
+          </Data>
+          <Data name="bottom">
+            <value>5713057.97260757</value>
+          </Data>
+          <Data name="layer">
+            <value>Senftenberg_Hafen_9Points LIL_KliBioTo_StudySites_Extents_Senftenberg_Hafen_Points</value>
+          </Data>
+          <Data name="path">
+            <value>D:/Users/konlavach/Desktop/AIA_Meeting/2023_06_23/Study_Sites/Survey_Points/Senftenberg/Senftenberg_Hafen_9Points.kml|layername=LIL_KliBioTo_StudySites_Extents_Senftenberg_Hafen_Points</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            14.1181745,51.5617751,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <description><![CDATA[description: <br>tessellate: -1<br>extrude: 0<br>visibility: -1<br>id: 8<br>left: 438770.719263584<br>top: 5712807.97260757<br>right: 438895.719263584<br>bottom: 5712932.97260757<br>layer: Senftenberg_Hafen_9Points LIL_KliBioTo_StudySites_Extents_Senftenberg_Hafen_Points<br>path: D:/Users/konlavach/Desktop/AIA_Meeting/2023_06_23/Study_Sites/Survey_Points/Senftenberg/Senftenberg_Hafen_9Points.kml|layername=LIL_KliBioTo_StudySites_Extents_Senftenberg_Hafen_Points]]></description>
+        <styleUrl>#icon-1535-097138-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="tessellate">
+            <value>-1</value>
+          </Data>
+          <Data name="extrude">
+            <value>0</value>
+          </Data>
+          <Data name="visibility">
+            <value>-1</value>
+          </Data>
+          <Data name="id">
+            <value>8</value>
+          </Data>
+          <Data name="left">
+            <value>438770.719263584</value>
+          </Data>
+          <Data name="top">
+            <value>5712807.97260757</value>
+          </Data>
+          <Data name="right">
+            <value>438895.719263584</value>
+          </Data>
+          <Data name="bottom">
+            <value>5712932.97260757</value>
+          </Data>
+          <Data name="layer">
+            <value>Senftenberg_Hafen_9Points LIL_KliBioTo_StudySites_Extents_Senftenberg_Hafen_Points</value>
+          </Data>
+          <Data name="path">
+            <value>D:/Users/konlavach/Desktop/AIA_Meeting/2023_06_23/Study_Sites/Survey_Points/Senftenberg/Senftenberg_Hafen_9Points.kml|layername=LIL_KliBioTo_StudySites_Extents_Senftenberg_Hafen_Points</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            14.1180168,51.561599,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <description><![CDATA[description: <br>tessellate: -1<br>extrude: 0<br>visibility: -1<br>id: 9<br>left: 438770.719263584<br>top: 5712682.97260757<br>right: 438895.719263584<br>bottom: 5712807.97260757<br>layer: Senftenberg_Hafen_9Points LIL_KliBioTo_StudySites_Extents_Senftenberg_Hafen_Points<br>path: D:/Users/konlavach/Desktop/AIA_Meeting/2023_06_23/Study_Sites/Survey_Points/Senftenberg/Senftenberg_Hafen_9Points.kml|layername=LIL_KliBioTo_StudySites_Extents_Senftenberg_Hafen_Points]]></description>
+        <styleUrl>#icon-1535-097138-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="tessellate">
+            <value>-1</value>
+          </Data>
+          <Data name="extrude">
+            <value>0</value>
+          </Data>
+          <Data name="visibility">
+            <value>-1</value>
+          </Data>
+          <Data name="id">
+            <value>9</value>
+          </Data>
+          <Data name="left">
+            <value>438770.719263584</value>
+          </Data>
+          <Data name="top">
+            <value>5712682.97260757</value>
+          </Data>
+          <Data name="right">
+            <value>438895.719263584</value>
+          </Data>
+          <Data name="bottom">
+            <value>5712807.97260757</value>
+          </Data>
+          <Data name="layer">
+            <value>Senftenberg_Hafen_9Points LIL_KliBioTo_StudySites_Extents_Senftenberg_Hafen_Points</value>
+          </Data>
+          <Data name="path">
+            <value>D:/Users/konlavach/Desktop/AIA_Meeting/2023_06_23/Study_Sites/Survey_Points/Senftenberg/Senftenberg_Hafen_9Points.kml|layername=LIL_KliBioTo_StudySites_Extents_Senftenberg_Hafen_Points</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            14.1166588,51.5617066,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <description><![CDATA[description: <br>tessellate: -1<br>extrude: 0<br>visibility: -1<br>id: 1<br>left: 437503.660216842<br>top: 5708966.71131788<br>right: 437628.660216842<br>bottom: 5709091.71131788<br>layer: Senftenberg_RostigerNagel_9Points LIL_KliBioTo_StudySites_Extents_Senftenberg_Rostiger_Nagel_Points<br>path: D:/Users/konlavach/Desktop/AIA_Meeting/2023_06_23/Study_Sites/Survey_Points/Senftenberg/Senftenberg_RostigerNagel_9Points.kml|layername=LIL_KliBioTo_StudySites_Extents_Senftenberg_Rostiger_Nagel_Points]]></description>
+        <styleUrl>#icon-1535-01579B-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="tessellate">
+            <value>-1</value>
+          </Data>
+          <Data name="extrude">
+            <value>0</value>
+          </Data>
+          <Data name="visibility">
+            <value>-1</value>
+          </Data>
+          <Data name="id">
+            <value>1</value>
+          </Data>
+          <Data name="left">
+            <value>437503.660216842</value>
+          </Data>
+          <Data name="top">
+            <value>5708966.71131788</value>
+          </Data>
+          <Data name="right">
+            <value>437628.660216842</value>
+          </Data>
+          <Data name="bottom">
+            <value>5709091.71131788</value>
+          </Data>
+          <Data name="layer">
+            <value>Senftenberg_RostigerNagel_9Points LIL_KliBioTo_StudySites_Extents_Senftenberg_Rostiger_Nagel_Points</value>
+          </Data>
+          <Data name="path">
+            <value>D:/Users/konlavach/Desktop/AIA_Meeting/2023_06_23/Study_Sites/Survey_Points/Senftenberg/Senftenberg_RostigerNagel_9Points.kml|layername=LIL_KliBioTo_StudySites_Extents_Senftenberg_Rostiger_Nagel_Points</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            14.0984303,51.5284041,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <description><![CDATA[description: <br>tessellate: -1<br>extrude: 0<br>visibility: -1<br>id: 2<br>left: 437503.660216842<br>top: 5708841.71131788<br>right: 437628.660216842<br>bottom: 5708966.71131788<br>layer: Senftenberg_RostigerNagel_9Points LIL_KliBioTo_StudySites_Extents_Senftenberg_Rostiger_Nagel_Points<br>path: D:/Users/konlavach/Desktop/AIA_Meeting/2023_06_23/Study_Sites/Survey_Points/Senftenberg/Senftenberg_RostigerNagel_9Points.kml|layername=LIL_KliBioTo_StudySites_Extents_Senftenberg_Rostiger_Nagel_Points]]></description>
+        <styleUrl>#icon-1535-01579B-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="tessellate">
+            <value>-1</value>
+          </Data>
+          <Data name="extrude">
+            <value>0</value>
+          </Data>
+          <Data name="visibility">
+            <value>-1</value>
+          </Data>
+          <Data name="id">
+            <value>2</value>
+          </Data>
+          <Data name="left">
+            <value>437503.660216842</value>
+          </Data>
+          <Data name="top">
+            <value>5708841.71131788</value>
+          </Data>
+          <Data name="right">
+            <value>437628.660216842</value>
+          </Data>
+          <Data name="bottom">
+            <value>5708966.71131788</value>
+          </Data>
+          <Data name="layer">
+            <value>Senftenberg_RostigerNagel_9Points LIL_KliBioTo_StudySites_Extents_Senftenberg_Rostiger_Nagel_Points</value>
+          </Data>
+          <Data name="path">
+            <value>D:/Users/konlavach/Desktop/AIA_Meeting/2023_06_23/Study_Sites/Survey_Points/Senftenberg/Senftenberg_RostigerNagel_9Points.kml|layername=LIL_KliBioTo_StudySites_Extents_Senftenberg_Rostiger_Nagel_Points</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            14.0995359,51.5272243,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <description><![CDATA[description: <br>tessellate: -1<br>extrude: 0<br>visibility: -1<br>id: 3<br>left: 437503.660216842<br>top: 5708716.71131788<br>right: 437628.660216842<br>bottom: 5708841.71131788<br>layer: Senftenberg_RostigerNagel_9Points LIL_KliBioTo_StudySites_Extents_Senftenberg_Rostiger_Nagel_Points<br>path: D:/Users/konlavach/Desktop/AIA_Meeting/2023_06_23/Study_Sites/Survey_Points/Senftenberg/Senftenberg_RostigerNagel_9Points.kml|layername=LIL_KliBioTo_StudySites_Extents_Senftenberg_Rostiger_Nagel_Points]]></description>
+        <styleUrl>#icon-1535-01579B-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="tessellate">
+            <value>-1</value>
+          </Data>
+          <Data name="extrude">
+            <value>0</value>
+          </Data>
+          <Data name="visibility">
+            <value>-1</value>
+          </Data>
+          <Data name="id">
+            <value>3</value>
+          </Data>
+          <Data name="left">
+            <value>437503.660216842</value>
+          </Data>
+          <Data name="top">
+            <value>5708716.71131788</value>
+          </Data>
+          <Data name="right">
+            <value>437628.660216842</value>
+          </Data>
+          <Data name="bottom">
+            <value>5708841.71131788</value>
+          </Data>
+          <Data name="layer">
+            <value>Senftenberg_RostigerNagel_9Points LIL_KliBioTo_StudySites_Extents_Senftenberg_Rostiger_Nagel_Points</value>
+          </Data>
+          <Data name="path">
+            <value>D:/Users/konlavach/Desktop/AIA_Meeting/2023_06_23/Study_Sites/Survey_Points/Senftenberg/Senftenberg_RostigerNagel_9Points.kml|layername=LIL_KliBioTo_StudySites_Extents_Senftenberg_Rostiger_Nagel_Points</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            14.0986496,51.526102,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <description><![CDATA[description: <br>tessellate: -1<br>extrude: 0<br>visibility: -1<br>id: 4<br>left: 437628.660216842<br>top: 5708966.71131788<br>right: 437753.660216842<br>bottom: 5709091.71131788<br>layer: Senftenberg_RostigerNagel_9Points LIL_KliBioTo_StudySites_Extents_Senftenberg_Rostiger_Nagel_Points<br>path: D:/Users/konlavach/Desktop/AIA_Meeting/2023_06_23/Study_Sites/Survey_Points/Senftenberg/Senftenberg_RostigerNagel_9Points.kml|layername=LIL_KliBioTo_StudySites_Extents_Senftenberg_Rostiger_Nagel_Points]]></description>
+        <styleUrl>#icon-1535-01579B-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="tessellate">
+            <value>-1</value>
+          </Data>
+          <Data name="extrude">
+            <value>0</value>
+          </Data>
+          <Data name="visibility">
+            <value>-1</value>
+          </Data>
+          <Data name="id">
+            <value>4</value>
+          </Data>
+          <Data name="left">
+            <value>437628.660216842</value>
+          </Data>
+          <Data name="top">
+            <value>5708966.71131788</value>
+          </Data>
+          <Data name="right">
+            <value>437753.660216842</value>
+          </Data>
+          <Data name="bottom">
+            <value>5709091.71131788</value>
+          </Data>
+          <Data name="layer">
+            <value>Senftenberg_RostigerNagel_9Points LIL_KliBioTo_StudySites_Extents_Senftenberg_Rostiger_Nagel_Points</value>
+          </Data>
+          <Data name="path">
+            <value>D:/Users/konlavach/Desktop/AIA_Meeting/2023_06_23/Study_Sites/Survey_Points/Senftenberg/Senftenberg_RostigerNagel_9Points.kml|layername=LIL_KliBioTo_StudySites_Extents_Senftenberg_Rostiger_Nagel_Points</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            14.1002296,51.5284197,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <description><![CDATA[description: <br>tessellate: -1<br>extrude: 0<br>visibility: -1<br>id: 5<br>left: 437628.660216842<br>top: 5708841.71131788<br>right: 437753.660216842<br>bottom: 5708966.71131788<br>layer: Senftenberg_RostigerNagel_9Points LIL_KliBioTo_StudySites_Extents_Senftenberg_Rostiger_Nagel_Points<br>path: D:/Users/konlavach/Desktop/AIA_Meeting/2023_06_23/Study_Sites/Survey_Points/Senftenberg/Senftenberg_RostigerNagel_9Points.kml|layername=LIL_KliBioTo_StudySites_Extents_Senftenberg_Rostiger_Nagel_Points]]></description>
+        <styleUrl>#icon-1535-01579B-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="tessellate">
+            <value>-1</value>
+          </Data>
+          <Data name="extrude">
+            <value>0</value>
+          </Data>
+          <Data name="visibility">
+            <value>-1</value>
+          </Data>
+          <Data name="id">
+            <value>5</value>
+          </Data>
+          <Data name="left">
+            <value>437628.660216842</value>
+          </Data>
+          <Data name="top">
+            <value>5708841.71131788</value>
+          </Data>
+          <Data name="right">
+            <value>437753.660216842</value>
+          </Data>
+          <Data name="bottom">
+            <value>5708966.71131788</value>
+          </Data>
+          <Data name="layer">
+            <value>Senftenberg_RostigerNagel_9Points LIL_KliBioTo_StudySites_Extents_Senftenberg_Rostiger_Nagel_Points</value>
+          </Data>
+          <Data name="path">
+            <value>D:/Users/konlavach/Desktop/AIA_Meeting/2023_06_23/Study_Sites/Survey_Points/Senftenberg/Senftenberg_RostigerNagel_9Points.kml|layername=LIL_KliBioTo_StudySites_Extents_Senftenberg_Rostiger_Nagel_Points</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            14.1009007,51.5273725,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <description><![CDATA[description: <br>tessellate: -1<br>extrude: 0<br>visibility: -1<br>id: 6<br>left: 437628.660216842<br>top: 5708716.71131788<br>right: 437753.660216842<br>bottom: 5708841.71131788<br>layer: Senftenberg_RostigerNagel_9Points LIL_KliBioTo_StudySites_Extents_Senftenberg_Rostiger_Nagel_Points<br>path: D:/Users/konlavach/Desktop/AIA_Meeting/2023_06_23/Study_Sites/Survey_Points/Senftenberg/Senftenberg_RostigerNagel_9Points.kml|layername=LIL_KliBioTo_StudySites_Extents_Senftenberg_Rostiger_Nagel_Points]]></description>
+        <styleUrl>#icon-1535-01579B-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="tessellate">
+            <value>-1</value>
+          </Data>
+          <Data name="extrude">
+            <value>0</value>
+          </Data>
+          <Data name="visibility">
+            <value>-1</value>
+          </Data>
+          <Data name="id">
+            <value>6</value>
+          </Data>
+          <Data name="left">
+            <value>437628.660216842</value>
+          </Data>
+          <Data name="top">
+            <value>5708716.71131788</value>
+          </Data>
+          <Data name="right">
+            <value>437753.660216842</value>
+          </Data>
+          <Data name="bottom">
+            <value>5708841.71131788</value>
+          </Data>
+          <Data name="layer">
+            <value>Senftenberg_RostigerNagel_9Points LIL_KliBioTo_StudySites_Extents_Senftenberg_Rostiger_Nagel_Points</value>
+          </Data>
+          <Data name="path">
+            <value>D:/Users/konlavach/Desktop/AIA_Meeting/2023_06_23/Study_Sites/Survey_Points/Senftenberg/Senftenberg_RostigerNagel_9Points.kml|layername=LIL_KliBioTo_StudySites_Extents_Senftenberg_Rostiger_Nagel_Points</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            14.0994019,51.5260509,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <description><![CDATA[description: <br>tessellate: -1<br>extrude: 0<br>visibility: -1<br>id: 7<br>left: 437753.660216842<br>top: 5708966.71131788<br>right: 437878.660216842<br>bottom: 5709091.71131788<br>layer: Senftenberg_RostigerNagel_9Points LIL_KliBioTo_StudySites_Extents_Senftenberg_Rostiger_Nagel_Points<br>path: D:/Users/konlavach/Desktop/AIA_Meeting/2023_06_23/Study_Sites/Survey_Points/Senftenberg/Senftenberg_RostigerNagel_9Points.kml|layername=LIL_KliBioTo_StudySites_Extents_Senftenberg_Rostiger_Nagel_Points]]></description>
+        <styleUrl>#icon-1535-01579B-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="tessellate">
+            <value>-1</value>
+          </Data>
+          <Data name="extrude">
+            <value>0</value>
+          </Data>
+          <Data name="visibility">
+            <value>-1</value>
+          </Data>
+          <Data name="id">
+            <value>7</value>
+          </Data>
+          <Data name="left">
+            <value>437753.660216842</value>
+          </Data>
+          <Data name="top">
+            <value>5708966.71131788</value>
+          </Data>
+          <Data name="right">
+            <value>437878.660216842</value>
+          </Data>
+          <Data name="bottom">
+            <value>5709091.71131788</value>
+          </Data>
+          <Data name="layer">
+            <value>Senftenberg_RostigerNagel_9Points LIL_KliBioTo_StudySites_Extents_Senftenberg_Rostiger_Nagel_Points</value>
+          </Data>
+          <Data name="path">
+            <value>D:/Users/konlavach/Desktop/AIA_Meeting/2023_06_23/Study_Sites/Survey_Points/Senftenberg/Senftenberg_RostigerNagel_9Points.kml|layername=LIL_KliBioTo_StudySites_Extents_Senftenberg_Rostiger_Nagel_Points</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            14.1019592,51.5268818,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <description><![CDATA[description: <br>tessellate: -1<br>extrude: 0<br>visibility: -1<br>id: 8<br>left: 437753.660216842<br>top: 5708841.71131788<br>right: 437878.660216842<br>bottom: 5708966.71131788<br>layer: Senftenberg_RostigerNagel_9Points LIL_KliBioTo_StudySites_Extents_Senftenberg_Rostiger_Nagel_Points<br>path: D:/Users/konlavach/Desktop/AIA_Meeting/2023_06_23/Study_Sites/Survey_Points/Senftenberg/Senftenberg_RostigerNagel_9Points.kml|layername=LIL_KliBioTo_StudySites_Extents_Senftenberg_Rostiger_Nagel_Points]]></description>
+        <styleUrl>#icon-1535-01579B-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="tessellate">
+            <value>-1</value>
+          </Data>
+          <Data name="extrude">
+            <value>0</value>
+          </Data>
+          <Data name="visibility">
+            <value>-1</value>
+          </Data>
+          <Data name="id">
+            <value>8</value>
+          </Data>
+          <Data name="left">
+            <value>437753.660216842</value>
+          </Data>
+          <Data name="top">
+            <value>5708841.71131788</value>
+          </Data>
+          <Data name="right">
+            <value>437878.660216842</value>
+          </Data>
+          <Data name="bottom">
+            <value>5708966.71131788</value>
+          </Data>
+          <Data name="layer">
+            <value>Senftenberg_RostigerNagel_9Points LIL_KliBioTo_StudySites_Extents_Senftenberg_Rostiger_Nagel_Points</value>
+          </Data>
+          <Data name="path">
+            <value>D:/Users/konlavach/Desktop/AIA_Meeting/2023_06_23/Study_Sites/Survey_Points/Senftenberg/Senftenberg_RostigerNagel_9Points.kml|layername=LIL_KliBioTo_StudySites_Extents_Senftenberg_Rostiger_Nagel_Points</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            14.1025337,51.5265071,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <description><![CDATA[description: <br>tessellate: -1<br>extrude: 0<br>visibility: -1<br>id: 9<br>left: 437753.660216842<br>top: 5708716.71131788<br>right: 437878.660216842<br>bottom: 5708841.71131788<br>layer: Senftenberg_RostigerNagel_9Points LIL_KliBioTo_StudySites_Extents_Senftenberg_Rostiger_Nagel_Points<br>path: D:/Users/konlavach/Desktop/AIA_Meeting/2023_06_23/Study_Sites/Survey_Points/Senftenberg/Senftenberg_RostigerNagel_9Points.kml|layername=LIL_KliBioTo_StudySites_Extents_Senftenberg_Rostiger_Nagel_Points]]></description>
+        <styleUrl>#icon-1535-01579B-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="tessellate">
+            <value>-1</value>
+          </Data>
+          <Data name="extrude">
+            <value>0</value>
+          </Data>
+          <Data name="visibility">
+            <value>-1</value>
+          </Data>
+          <Data name="id">
+            <value>9</value>
+          </Data>
+          <Data name="left">
+            <value>437753.660216842</value>
+          </Data>
+          <Data name="top">
+            <value>5708716.71131788</value>
+          </Data>
+          <Data name="right">
+            <value>437878.660216842</value>
+          </Data>
+          <Data name="bottom">
+            <value>5708841.71131788</value>
+          </Data>
+          <Data name="layer">
+            <value>Senftenberg_RostigerNagel_9Points LIL_KliBioTo_StudySites_Extents_Senftenberg_Rostiger_Nagel_Points</value>
+          </Data>
+          <Data name="path">
+            <value>D:/Users/konlavach/Desktop/AIA_Meeting/2023_06_23/Study_Sites/Survey_Points/Senftenberg/Senftenberg_RostigerNagel_9Points.kml|layername=LIL_KliBioTo_StudySites_Extents_Senftenberg_Rostiger_Nagel_Points</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            14.1032772,51.5260189,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

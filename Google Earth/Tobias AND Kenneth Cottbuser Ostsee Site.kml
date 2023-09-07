@@ -1,0 +1,1487 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Tobias AND Kenneth: Cottbuser Ostsee Site</name>
+    <description><![CDATA[Survey Date: 15.08.2023<br>By: Konlavach Mengsuwan<br>Contributors:<br>1. Tobias: Cottbuser Ostsee Site<br>2. Kenneth: Cottbuser Ostsee Site<br>]]></description>
+    <Style id="icon-1535-006064-labelson">
+      <IconStyle>
+        <color>ff646000</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="icon-1535-097138-labelson">
+      <IconStyle>
+        <color>ff387109</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="icon-1899-0288D1-labelson">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+    </Style>
+    <Style id="poly-0288D1-8300-0-normal">
+      <LineStyle>
+        <color>ffd18802</color>
+        <width>8.3</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>00d18802</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <Style id="poly-0288D1-8300-0-highlight">
+      <LineStyle>
+        <color>ffd18802</color>
+        <width>12.45</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>00d18802</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <StyleMap id="poly-0288D1-8300-0">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#poly-0288D1-8300-0-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#poly-0288D1-8300-0-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="poly-097138-8001-0-normal">
+      <LineStyle>
+        <color>ff387109</color>
+        <width>8.001</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>00387109</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <Style id="poly-097138-8001-0-highlight">
+      <LineStyle>
+        <color>ff387109</color>
+        <width>12.0015</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>00387109</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <StyleMap id="poly-097138-8001-0">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#poly-097138-8001-0-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#poly-097138-8001-0-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="poly-E65100-8500-0-normal">
+      <LineStyle>
+        <color>ff0051e6</color>
+        <width>8.5</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>000051e6</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <Style id="poly-E65100-8500-0-highlight">
+      <LineStyle>
+        <color>ff0051e6</color>
+        <width>12.75</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>000051e6</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <StyleMap id="poly-E65100-8500-0">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#poly-E65100-8500-0-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#poly-E65100-8500-0-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>LIL_KliBioTo_StudySites2023</name>
+      <Placemark>
+        <name>Cottbuser Ostsee - West</name>
+        <description><![CDATA[description: <br>id: 8<br>Block_Name: Cottbuser Ostsee - West<br>Site_Name: Cottbuser Ostsee<br>area: 250000.000488281<br>perimeter: 2000<br>layer: LIL-KliBioTo-2023_Cottbuser Ostsee Cottbuser_Ostsee_Extents<br>path: D:/Users/konlavach/Desktop/Study_Plan/2023_06_07_Updated_Request Price Quotation/Cottbus/LIL-KliBioTo-2023_Cottbuser Ostsee.kml|layername=Cottbuser_Ostsee_Extents]]></description>
+        <styleUrl>#poly-E65100-8500-0</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="id">
+            <value>8</value>
+          </Data>
+          <Data name="Block_Name">
+            <value>Cottbuser Ostsee - West</value>
+          </Data>
+          <Data name="Site_Name">
+            <value>Cottbuser Ostsee</value>
+          </Data>
+          <Data name="area">
+            <value>250000.000488281</value>
+          </Data>
+          <Data name="perimeter">
+            <value>2000</value>
+          </Data>
+          <Data name="layer">
+            <value>LIL-KliBioTo-2023_Cottbuser Ostsee Cottbuser_Ostsee_Extents</value>
+          </Data>
+          <Data name="path">
+            <value>D:/Users/konlavach/Desktop/Study_Plan/2023_06_07_Updated_Request Price Quotation/Cottbus/LIL-KliBioTo-2023_Cottbuser Ostsee.kml|layername=Cottbuser_Ostsee_Extents</value>
+          </Data>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                14.382639,51.791875,0
+                14.37539,51.791837,0
+                14.375452,51.787341,0
+                14.382701,51.78738,0
+                14.382639,51.791875,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>Cottbuser Ostsee - South</name>
+        <description><![CDATA[description: <br>id: 9<br>Block_Name: Cottbuser Ostsee - South<br>Site_Name: Cottbuser Ostsee<br>area: 250000<br>perimeter: 2000<br>layer: LIL-KliBioTo-2023_Cottbuser Ostsee Cottbuser_Ostsee_Extents<br>path: D:/Users/konlavach/Desktop/Study_Plan/2023_06_07_Updated_Request Price Quotation/Cottbus/LIL-KliBioTo-2023_Cottbuser Ostsee.kml|layername=Cottbuser_Ostsee_Extents]]></description>
+        <styleUrl>#poly-0288D1-8300-0</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="id">
+            <value>9</value>
+          </Data>
+          <Data name="Block_Name">
+            <value>Cottbuser Ostsee - South</value>
+          </Data>
+          <Data name="Site_Name">
+            <value>Cottbuser Ostsee</value>
+          </Data>
+          <Data name="area">
+            <value>250000</value>
+          </Data>
+          <Data name="perimeter">
+            <value>2000</value>
+          </Data>
+          <Data name="layer">
+            <value>LIL-KliBioTo-2023_Cottbuser Ostsee Cottbuser_Ostsee_Extents</value>
+          </Data>
+          <Data name="path">
+            <value>D:/Users/konlavach/Desktop/Study_Plan/2023_06_07_Updated_Request Price Quotation/Cottbus/LIL-KliBioTo-2023_Cottbuser Ostsee.kml|layername=Cottbuser_Ostsee_Extents</value>
+          </Data>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                14.408269,51.771861,0
+                14.401022,51.771825,0
+                14.401082,51.767329,0
+                14.408327,51.767366,0
+                14.408269,51.771861,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>Cottbuser Ostsee - North</name>
+        <description><![CDATA[description: <br>id: 10<br>Block_Name: Cottbuser Ostsee - North<br>Site_Name: Cottbuser Ostsee<br>area: 250000.000488281<br>perimeter: 2000<br>layer: LIL-KliBioTo-2023_Cottbuser Ostsee Cottbuser_Ostsee_Extents<br>path: D:/Users/konlavach/Desktop/Study_Plan/2023_06_07_Updated_Request Price Quotation/Cottbus/LIL-KliBioTo-2023_Cottbuser Ostsee.kml|layername=Cottbuser_Ostsee_Extents]]></description>
+        <styleUrl>#poly-097138-8001-0</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="id">
+            <value>10</value>
+          </Data>
+          <Data name="Block_Name">
+            <value>Cottbuser Ostsee - North</value>
+          </Data>
+          <Data name="Site_Name">
+            <value>Cottbuser Ostsee</value>
+          </Data>
+          <Data name="area">
+            <value>250000.000488281</value>
+          </Data>
+          <Data name="perimeter">
+            <value>2000</value>
+          </Data>
+          <Data name="layer">
+            <value>LIL-KliBioTo-2023_Cottbuser Ostsee Cottbuser_Ostsee_Extents</value>
+          </Data>
+          <Data name="path">
+            <value>D:/Users/konlavach/Desktop/Study_Plan/2023_06_07_Updated_Request Price Quotation/Cottbus/LIL-KliBioTo-2023_Cottbuser Ostsee.kml|layername=Cottbuser_Ostsee_Extents</value>
+          </Data>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                14.414773,51.812084,0
+                14.407521,51.812048,0
+                14.40758,51.807553,0
+                14.414832,51.807589,0
+                14.414773,51.812084,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Survey_Points_2023_ALL</name>
+      <Placemark>
+        <name/>
+        <description><![CDATA[description: <br>tessellate: -1<br>extrude: 0<br>visibility: -1<br>id: 1<br>left: 459276.965734748<br>top: 5740179.02526564<br>right: 459401.965734748<br>bottom: 5740304.02526564<br>layer: Cottbuser Ostsee_North_9Points LIL_KliBioTo_StudySites_Extents_Cottbuser_Ostsee___North_Points<br>path: D:/Users/konlavach/Desktop/AIA_Meeting/2023_06_23/Study_Sites/Survey_Points/Cottbuser Ostsee/Cottbuser Ostsee_North_9Points.kml|layername=LIL_KliBioTo_StudySites_Extents_Cottbuser_Ostsee___North_Points]]></description>
+        <styleUrl>#icon-1535-006064-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="tessellate">
+            <value>-1</value>
+          </Data>
+          <Data name="extrude">
+            <value>0</value>
+          </Data>
+          <Data name="visibility">
+            <value>-1</value>
+          </Data>
+          <Data name="id">
+            <value>1</value>
+          </Data>
+          <Data name="left">
+            <value>459276.965734748</value>
+          </Data>
+          <Data name="top">
+            <value>5740179.02526564</value>
+          </Data>
+          <Data name="right">
+            <value>459401.965734748</value>
+          </Data>
+          <Data name="bottom">
+            <value>5740304.02526564</value>
+          </Data>
+          <Data name="layer">
+            <value>Cottbuser Ostsee_North_9Points LIL_KliBioTo_StudySites_Extents_Cottbuser_Ostsee___North_Points</value>
+          </Data>
+          <Data name="path">
+            <value>D:/Users/konlavach/Desktop/AIA_Meeting/2023_06_23/Study_Sites/Survey_Points/Cottbuser Ostsee/Cottbuser Ostsee_North_9Points.kml|layername=LIL_KliBioTo_StudySites_Extents_Cottbuser_Ostsee___North_Points</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            14.4081839,51.811367,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <description><![CDATA[description: <br>tessellate: -1<br>extrude: 0<br>visibility: -1<br>id: 2<br>left: 459276.965734748<br>top: 5740054.02526564<br>right: 459401.965734748<br>bottom: 5740179.02526564<br>layer: Cottbuser Ostsee_North_9Points LIL_KliBioTo_StudySites_Extents_Cottbuser_Ostsee___North_Points<br>path: D:/Users/konlavach/Desktop/AIA_Meeting/2023_06_23/Study_Sites/Survey_Points/Cottbuser Ostsee/Cottbuser Ostsee_North_9Points.kml|layername=LIL_KliBioTo_StudySites_Extents_Cottbuser_Ostsee___North_Points]]></description>
+        <styleUrl>#icon-1535-006064-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="tessellate">
+            <value>-1</value>
+          </Data>
+          <Data name="extrude">
+            <value>0</value>
+          </Data>
+          <Data name="visibility">
+            <value>-1</value>
+          </Data>
+          <Data name="id">
+            <value>2</value>
+          </Data>
+          <Data name="left">
+            <value>459276.965734748</value>
+          </Data>
+          <Data name="top">
+            <value>5740054.02526564</value>
+          </Data>
+          <Data name="right">
+            <value>459401.965734748</value>
+          </Data>
+          <Data name="bottom">
+            <value>5740179.02526564</value>
+          </Data>
+          <Data name="layer">
+            <value>Cottbuser Ostsee_North_9Points LIL_KliBioTo_StudySites_Extents_Cottbuser_Ostsee___North_Points</value>
+          </Data>
+          <Data name="path">
+            <value>D:/Users/konlavach/Desktop/AIA_Meeting/2023_06_23/Study_Sites/Survey_Points/Cottbuser Ostsee/Cottbuser Ostsee_North_9Points.kml|layername=LIL_KliBioTo_StudySites_Extents_Cottbuser_Ostsee___North_Points</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            14.4081024,51.8088079,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <description><![CDATA[description: <br>tessellate: -1<br>extrude: 0<br>visibility: -1<br>id: 3<br>left: 459276.965734748<br>top: 5739929.02526564<br>right: 459401.965734748<br>bottom: 5740054.02526564<br>layer: Cottbuser Ostsee_North_9Points LIL_KliBioTo_StudySites_Extents_Cottbuser_Ostsee___North_Points<br>path: D:/Users/konlavach/Desktop/AIA_Meeting/2023_06_23/Study_Sites/Survey_Points/Cottbuser Ostsee/Cottbuser Ostsee_North_9Points.kml|layername=LIL_KliBioTo_StudySites_Extents_Cottbuser_Ostsee___North_Points]]></description>
+        <styleUrl>#icon-1535-006064-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="tessellate">
+            <value>-1</value>
+          </Data>
+          <Data name="extrude">
+            <value>0</value>
+          </Data>
+          <Data name="visibility">
+            <value>-1</value>
+          </Data>
+          <Data name="id">
+            <value>3</value>
+          </Data>
+          <Data name="left">
+            <value>459276.965734748</value>
+          </Data>
+          <Data name="top">
+            <value>5739929.02526564</value>
+          </Data>
+          <Data name="right">
+            <value>459401.965734748</value>
+          </Data>
+          <Data name="bottom">
+            <value>5740054.02526564</value>
+          </Data>
+          <Data name="layer">
+            <value>Cottbuser Ostsee_North_9Points LIL_KliBioTo_StudySites_Extents_Cottbuser_Ostsee___North_Points</value>
+          </Data>
+          <Data name="path">
+            <value>D:/Users/konlavach/Desktop/AIA_Meeting/2023_06_23/Study_Sites/Survey_Points/Cottbuser Ostsee/Cottbuser Ostsee_North_9Points.kml|layername=LIL_KliBioTo_StudySites_Extents_Cottbuser_Ostsee___North_Points</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            14.4090126,51.8086262,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <description><![CDATA[description: <br>tessellate: -1<br>extrude: 0<br>visibility: -1<br>id: 4<br>left: 459401.965734748<br>top: 5740179.02526564<br>right: 459526.965734748<br>bottom: 5740304.02526564<br>layer: Cottbuser Ostsee_North_9Points LIL_KliBioTo_StudySites_Extents_Cottbuser_Ostsee___North_Points<br>path: D:/Users/konlavach/Desktop/AIA_Meeting/2023_06_23/Study_Sites/Survey_Points/Cottbuser Ostsee/Cottbuser Ostsee_North_9Points.kml|layername=LIL_KliBioTo_StudySites_Extents_Cottbuser_Ostsee___North_Points]]></description>
+        <styleUrl>#icon-1535-006064-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="tessellate">
+            <value>-1</value>
+          </Data>
+          <Data name="extrude">
+            <value>0</value>
+          </Data>
+          <Data name="visibility">
+            <value>-1</value>
+          </Data>
+          <Data name="id">
+            <value>4</value>
+          </Data>
+          <Data name="left">
+            <value>459401.965734748</value>
+          </Data>
+          <Data name="top">
+            <value>5740179.02526564</value>
+          </Data>
+          <Data name="right">
+            <value>459526.965734748</value>
+          </Data>
+          <Data name="bottom">
+            <value>5740304.02526564</value>
+          </Data>
+          <Data name="layer">
+            <value>Cottbuser Ostsee_North_9Points LIL_KliBioTo_StudySites_Extents_Cottbuser_Ostsee___North_Points</value>
+          </Data>
+          <Data name="path">
+            <value>D:/Users/konlavach/Desktop/AIA_Meeting/2023_06_23/Study_Sites/Survey_Points/Cottbuser Ostsee/Cottbuser Ostsee_North_9Points.kml|layername=LIL_KliBioTo_StudySites_Extents_Cottbuser_Ostsee___North_Points</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            14.4116116,51.8081489,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <description><![CDATA[description: <br>tessellate: -1<br>extrude: 0<br>visibility: -1<br>id: 5<br>left: 459401.965734748<br>top: 5740054.02526564<br>right: 459526.965734748<br>bottom: 5740179.02526564<br>layer: Cottbuser Ostsee_North_9Points LIL_KliBioTo_StudySites_Extents_Cottbuser_Ostsee___North_Points<br>path: D:/Users/konlavach/Desktop/AIA_Meeting/2023_06_23/Study_Sites/Survey_Points/Cottbuser Ostsee/Cottbuser Ostsee_North_9Points.kml|layername=LIL_KliBioTo_StudySites_Extents_Cottbuser_Ostsee___North_Points]]></description>
+        <styleUrl>#icon-1535-006064-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="tessellate">
+            <value>-1</value>
+          </Data>
+          <Data name="extrude">
+            <value>0</value>
+          </Data>
+          <Data name="visibility">
+            <value>-1</value>
+          </Data>
+          <Data name="id">
+            <value>5</value>
+          </Data>
+          <Data name="left">
+            <value>459401.965734748</value>
+          </Data>
+          <Data name="top">
+            <value>5740054.02526564</value>
+          </Data>
+          <Data name="right">
+            <value>459526.965734748</value>
+          </Data>
+          <Data name="bottom">
+            <value>5740179.02526564</value>
+          </Data>
+          <Data name="layer">
+            <value>Cottbuser Ostsee_North_9Points LIL_KliBioTo_StudySites_Extents_Cottbuser_Ostsee___North_Points</value>
+          </Data>
+          <Data name="path">
+            <value>D:/Users/konlavach/Desktop/AIA_Meeting/2023_06_23/Study_Sites/Survey_Points/Cottbuser Ostsee/Cottbuser Ostsee_North_9Points.kml|layername=LIL_KliBioTo_StudySites_Extents_Cottbuser_Ostsee___North_Points</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            14.4099449,51.8084587,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <description><![CDATA[description: <br>tessellate: -1<br>extrude: 0<br>visibility: -1<br>id: 6<br>left: 459401.965734748<br>top: 5739929.02526564<br>right: 459526.965734748<br>bottom: 5740054.02526564<br>layer: Cottbuser Ostsee_North_9Points LIL_KliBioTo_StudySites_Extents_Cottbuser_Ostsee___North_Points<br>path: D:/Users/konlavach/Desktop/AIA_Meeting/2023_06_23/Study_Sites/Survey_Points/Cottbuser Ostsee/Cottbuser Ostsee_North_9Points.kml|layername=LIL_KliBioTo_StudySites_Extents_Cottbuser_Ostsee___North_Points]]></description>
+        <styleUrl>#icon-1535-006064-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="tessellate">
+            <value>-1</value>
+          </Data>
+          <Data name="extrude">
+            <value>0</value>
+          </Data>
+          <Data name="visibility">
+            <value>-1</value>
+          </Data>
+          <Data name="id">
+            <value>6</value>
+          </Data>
+          <Data name="left">
+            <value>459401.965734748</value>
+          </Data>
+          <Data name="top">
+            <value>5739929.02526564</value>
+          </Data>
+          <Data name="right">
+            <value>459526.965734748</value>
+          </Data>
+          <Data name="bottom">
+            <value>5740054.02526564</value>
+          </Data>
+          <Data name="layer">
+            <value>Cottbuser Ostsee_North_9Points LIL_KliBioTo_StudySites_Extents_Cottbuser_Ostsee___North_Points</value>
+          </Data>
+          <Data name="path">
+            <value>D:/Users/konlavach/Desktop/AIA_Meeting/2023_06_23/Study_Sites/Survey_Points/Cottbuser Ostsee/Cottbuser Ostsee_North_9Points.kml|layername=LIL_KliBioTo_StudySites_Extents_Cottbuser_Ostsee___North_Points</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            14.4105258,51.8083479,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <description><![CDATA[description: <br>tessellate: -1<br>extrude: 0<br>visibility: -1<br>id: 7<br>left: 459526.965734748<br>top: 5740179.02526564<br>right: 459651.965734748<br>bottom: 5740304.02526564<br>layer: Cottbuser Ostsee_North_9Points LIL_KliBioTo_StudySites_Extents_Cottbuser_Ostsee___North_Points<br>path: D:/Users/konlavach/Desktop/AIA_Meeting/2023_06_23/Study_Sites/Survey_Points/Cottbuser Ostsee/Cottbuser Ostsee_North_9Points.kml|layername=LIL_KliBioTo_StudySites_Extents_Cottbuser_Ostsee___North_Points]]></description>
+        <styleUrl>#icon-1535-006064-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="tessellate">
+            <value>-1</value>
+          </Data>
+          <Data name="extrude">
+            <value>0</value>
+          </Data>
+          <Data name="visibility">
+            <value>-1</value>
+          </Data>
+          <Data name="id">
+            <value>7</value>
+          </Data>
+          <Data name="left">
+            <value>459526.965734748</value>
+          </Data>
+          <Data name="top">
+            <value>5740179.02526564</value>
+          </Data>
+          <Data name="right">
+            <value>459651.965734748</value>
+          </Data>
+          <Data name="bottom">
+            <value>5740304.02526564</value>
+          </Data>
+          <Data name="layer">
+            <value>Cottbuser Ostsee_North_9Points LIL_KliBioTo_StudySites_Extents_Cottbuser_Ostsee___North_Points</value>
+          </Data>
+          <Data name="path">
+            <value>D:/Users/konlavach/Desktop/AIA_Meeting/2023_06_23/Study_Sites/Survey_Points/Cottbuser Ostsee/Cottbuser Ostsee_North_9Points.kml|layername=LIL_KliBioTo_StudySites_Extents_Cottbuser_Ostsee___North_Points</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            14.4123316,51.8080171,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <description><![CDATA[description: <br>tessellate: -1<br>extrude: 0<br>visibility: -1<br>id: 8<br>left: 459526.965734748<br>top: 5740054.02526564<br>right: 459651.965734748<br>bottom: 5740179.02526564<br>layer: Cottbuser Ostsee_North_9Points LIL_KliBioTo_StudySites_Extents_Cottbuser_Ostsee___North_Points<br>path: D:/Users/konlavach/Desktop/AIA_Meeting/2023_06_23/Study_Sites/Survey_Points/Cottbuser Ostsee/Cottbuser Ostsee_North_9Points.kml|layername=LIL_KliBioTo_StudySites_Extents_Cottbuser_Ostsee___North_Points]]></description>
+        <styleUrl>#icon-1535-006064-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="tessellate">
+            <value>-1</value>
+          </Data>
+          <Data name="extrude">
+            <value>0</value>
+          </Data>
+          <Data name="visibility">
+            <value>-1</value>
+          </Data>
+          <Data name="id">
+            <value>8</value>
+          </Data>
+          <Data name="left">
+            <value>459526.965734748</value>
+          </Data>
+          <Data name="top">
+            <value>5740054.02526564</value>
+          </Data>
+          <Data name="right">
+            <value>459651.965734748</value>
+          </Data>
+          <Data name="bottom">
+            <value>5740179.02526564</value>
+          </Data>
+          <Data name="layer">
+            <value>Cottbuser Ostsee_North_9Points LIL_KliBioTo_StudySites_Extents_Cottbuser_Ostsee___North_Points</value>
+          </Data>
+          <Data name="path">
+            <value>D:/Users/konlavach/Desktop/AIA_Meeting/2023_06_23/Study_Sites/Survey_Points/Cottbuser Ostsee/Cottbuser Ostsee_North_9Points.kml|layername=LIL_KliBioTo_StudySites_Extents_Cottbuser_Ostsee___North_Points</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            14.4131124,51.8078756,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <description><![CDATA[description: <br>tessellate: -1<br>extrude: 0<br>visibility: -1<br>id: 9<br>left: 459526.965734748<br>top: 5739929.02526564<br>right: 459651.965734748<br>bottom: 5740054.02526564<br>layer: Cottbuser Ostsee_North_9Points LIL_KliBioTo_StudySites_Extents_Cottbuser_Ostsee___North_Points<br>path: D:/Users/konlavach/Desktop/AIA_Meeting/2023_06_23/Study_Sites/Survey_Points/Cottbuser Ostsee/Cottbuser Ostsee_North_9Points.kml|layername=LIL_KliBioTo_StudySites_Extents_Cottbuser_Ostsee___North_Points]]></description>
+        <styleUrl>#icon-1535-006064-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="tessellate">
+            <value>-1</value>
+          </Data>
+          <Data name="extrude">
+            <value>0</value>
+          </Data>
+          <Data name="visibility">
+            <value>-1</value>
+          </Data>
+          <Data name="id">
+            <value>9</value>
+          </Data>
+          <Data name="left">
+            <value>459526.965734748</value>
+          </Data>
+          <Data name="top">
+            <value>5739929.02526564</value>
+          </Data>
+          <Data name="right">
+            <value>459651.965734748</value>
+          </Data>
+          <Data name="bottom">
+            <value>5740054.02526564</value>
+          </Data>
+          <Data name="layer">
+            <value>Cottbuser Ostsee_North_9Points LIL_KliBioTo_StudySites_Extents_Cottbuser_Ostsee___North_Points</value>
+          </Data>
+          <Data name="path">
+            <value>D:/Users/konlavach/Desktop/AIA_Meeting/2023_06_23/Study_Sites/Survey_Points/Cottbuser Ostsee/Cottbuser Ostsee_North_9Points.kml|layername=LIL_KliBioTo_StudySites_Extents_Cottbuser_Ostsee___North_Points</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            14.4140769,51.8076877,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <description><![CDATA[description: <br>tessellate: -1<br>extrude: 0<br>visibility: -1<br>id: 1<br>left: 458792.197894091<br>top: 5735709.17838055<br>right: 458917.197894091<br>bottom: 5735834.17838055<br>layer: Cottbuser Ostsee_South_9Points <br>path: D:/Users/konlavach/Desktop/AIA_Meeting/2023_06_23/Study_Sites/Survey_Points/Cottbuser Ostsee/Cottbuser Ostsee_South_9Points.kml|layername=LIL_KliBioTo_StudySites_Extents_Cottbuser_Ostsee___South_Points]]></description>
+        <styleUrl>#icon-1899-0288D1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="tessellate">
+            <value>-1</value>
+          </Data>
+          <Data name="extrude">
+            <value>0</value>
+          </Data>
+          <Data name="visibility">
+            <value>-1</value>
+          </Data>
+          <Data name="id">
+            <value>1</value>
+          </Data>
+          <Data name="left">
+            <value>458792.197894091</value>
+          </Data>
+          <Data name="top">
+            <value>5735709.17838055</value>
+          </Data>
+          <Data name="right">
+            <value>458917.197894091</value>
+          </Data>
+          <Data name="bottom">
+            <value>5735834.17838055</value>
+          </Data>
+          <Data name="layer">
+            <value>Cottbuser Ostsee_South_9Points </value>
+          </Data>
+          <Data name="path">
+            <value>D:/Users/konlavach/Desktop/AIA_Meeting/2023_06_23/Study_Sites/Survey_Points/Cottbuser Ostsee/Cottbuser Ostsee_South_9Points.kml|layername=LIL_KliBioTo_StudySites_Extents_Cottbuser_Ostsee___South_Points</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            14.4027783,51.7702713,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <description><![CDATA[description: <br>tessellate: -1<br>extrude: 0<br>visibility: -1<br>id: 2<br>left: 458792.197894091<br>top: 5735584.17838055<br>right: 458917.197894091<br>bottom: 5735709.17838055<br>layer: Cottbuser Ostsee_South_9Points <br>path: D:/Users/konlavach/Desktop/AIA_Meeting/2023_06_23/Study_Sites/Survey_Points/Cottbuser Ostsee/Cottbuser Ostsee_South_9Points.kml|layername=LIL_KliBioTo_StudySites_Extents_Cottbuser_Ostsee___South_Points]]></description>
+        <styleUrl>#icon-1899-0288D1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="tessellate">
+            <value>-1</value>
+          </Data>
+          <Data name="extrude">
+            <value>0</value>
+          </Data>
+          <Data name="visibility">
+            <value>-1</value>
+          </Data>
+          <Data name="id">
+            <value>2</value>
+          </Data>
+          <Data name="left">
+            <value>458792.197894091</value>
+          </Data>
+          <Data name="top">
+            <value>5735584.17838055</value>
+          </Data>
+          <Data name="right">
+            <value>458917.197894091</value>
+          </Data>
+          <Data name="bottom">
+            <value>5735709.17838055</value>
+          </Data>
+          <Data name="layer">
+            <value>Cottbuser Ostsee_South_9Points </value>
+          </Data>
+          <Data name="path">
+            <value>D:/Users/konlavach/Desktop/AIA_Meeting/2023_06_23/Study_Sites/Survey_Points/Cottbuser Ostsee/Cottbuser Ostsee_South_9Points.kml|layername=LIL_KliBioTo_StudySites_Extents_Cottbuser_Ostsee___South_Points</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            14.4026162,51.769062,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <description><![CDATA[description: <br>tessellate: -1<br>extrude: 0<br>visibility: -1<br>id: 3<br>left: 458792.197894091<br>top: 5735459.17838055<br>right: 458917.197894091<br>bottom: 5735584.17838055<br>layer: Cottbuser Ostsee_South_9Points <br>path: D:/Users/konlavach/Desktop/AIA_Meeting/2023_06_23/Study_Sites/Survey_Points/Cottbuser Ostsee/Cottbuser Ostsee_South_9Points.kml|layername=LIL_KliBioTo_StudySites_Extents_Cottbuser_Ostsee___South_Points]]></description>
+        <styleUrl>#icon-1899-0288D1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="tessellate">
+            <value>-1</value>
+          </Data>
+          <Data name="extrude">
+            <value>0</value>
+          </Data>
+          <Data name="visibility">
+            <value>-1</value>
+          </Data>
+          <Data name="id">
+            <value>3</value>
+          </Data>
+          <Data name="left">
+            <value>458792.197894091</value>
+          </Data>
+          <Data name="top">
+            <value>5735459.17838055</value>
+          </Data>
+          <Data name="right">
+            <value>458917.197894091</value>
+          </Data>
+          <Data name="bottom">
+            <value>5735584.17838055</value>
+          </Data>
+          <Data name="layer">
+            <value>Cottbuser Ostsee_South_9Points </value>
+          </Data>
+          <Data name="path">
+            <value>D:/Users/konlavach/Desktop/AIA_Meeting/2023_06_23/Study_Sites/Survey_Points/Cottbuser Ostsee/Cottbuser Ostsee_South_9Points.kml|layername=LIL_KliBioTo_StudySites_Extents_Cottbuser_Ostsee___South_Points</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            14.4030326,51.7683363,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <description><![CDATA[description: <br>tessellate: -1<br>extrude: 0<br>visibility: -1<br>id: 4<br>left: 458917.197894091<br>top: 5735709.17838055<br>right: 459042.197894091<br>bottom: 5735834.17838055<br>layer: Cottbuser Ostsee_South_9Points <br>path: D:/Users/konlavach/Desktop/AIA_Meeting/2023_06_23/Study_Sites/Survey_Points/Cottbuser Ostsee/Cottbuser Ostsee_South_9Points.kml|layername=LIL_KliBioTo_StudySites_Extents_Cottbuser_Ostsee___South_Points]]></description>
+        <styleUrl>#icon-1899-0288D1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="tessellate">
+            <value>-1</value>
+          </Data>
+          <Data name="extrude">
+            <value>0</value>
+          </Data>
+          <Data name="visibility">
+            <value>-1</value>
+          </Data>
+          <Data name="id">
+            <value>4</value>
+          </Data>
+          <Data name="left">
+            <value>458917.197894091</value>
+          </Data>
+          <Data name="top">
+            <value>5735709.17838055</value>
+          </Data>
+          <Data name="right">
+            <value>459042.197894091</value>
+          </Data>
+          <Data name="bottom">
+            <value>5735834.17838055</value>
+          </Data>
+          <Data name="layer">
+            <value>Cottbuser Ostsee_South_9Points </value>
+          </Data>
+          <Data name="path">
+            <value>D:/Users/konlavach/Desktop/AIA_Meeting/2023_06_23/Study_Sites/Survey_Points/Cottbuser Ostsee/Cottbuser Ostsee_South_9Points.kml|layername=LIL_KliBioTo_StudySites_Extents_Cottbuser_Ostsee___South_Points</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            14.4057748,51.7675426,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <description><![CDATA[description: <br>tessellate: -1<br>extrude: 0<br>visibility: -1<br>id: 5<br>left: 458917.197894091<br>top: 5735584.17838055<br>right: 459042.197894091<br>bottom: 5735709.17838055<br>layer: Cottbuser Ostsee_South_9Points <br>path: D:/Users/konlavach/Desktop/AIA_Meeting/2023_06_23/Study_Sites/Survey_Points/Cottbuser Ostsee/Cottbuser Ostsee_South_9Points.kml|layername=LIL_KliBioTo_StudySites_Extents_Cottbuser_Ostsee___South_Points]]></description>
+        <styleUrl>#icon-1899-0288D1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="tessellate">
+            <value>-1</value>
+          </Data>
+          <Data name="extrude">
+            <value>0</value>
+          </Data>
+          <Data name="visibility">
+            <value>-1</value>
+          </Data>
+          <Data name="id">
+            <value>5</value>
+          </Data>
+          <Data name="left">
+            <value>458917.197894091</value>
+          </Data>
+          <Data name="top">
+            <value>5735584.17838055</value>
+          </Data>
+          <Data name="right">
+            <value>459042.197894091</value>
+          </Data>
+          <Data name="bottom">
+            <value>5735709.17838055</value>
+          </Data>
+          <Data name="layer">
+            <value>Cottbuser Ostsee_South_9Points </value>
+          </Data>
+          <Data name="path">
+            <value>D:/Users/konlavach/Desktop/AIA_Meeting/2023_06_23/Study_Sites/Survey_Points/Cottbuser Ostsee/Cottbuser Ostsee_South_9Points.kml|layername=LIL_KliBioTo_StudySites_Extents_Cottbuser_Ostsee___South_Points</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            14.4045895,51.7695623,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <description><![CDATA[description: <br>tessellate: -1<br>extrude: 0<br>visibility: -1<br>id: 6<br>left: 458917.197894091<br>top: 5735459.17838055<br>right: 459042.197894091<br>bottom: 5735584.17838055<br>layer: Cottbuser Ostsee_South_9Points <br>path: D:/Users/konlavach/Desktop/AIA_Meeting/2023_06_23/Study_Sites/Survey_Points/Cottbuser Ostsee/Cottbuser Ostsee_South_9Points.kml|layername=LIL_KliBioTo_StudySites_Extents_Cottbuser_Ostsee___South_Points]]></description>
+        <styleUrl>#icon-1899-0288D1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="tessellate">
+            <value>-1</value>
+          </Data>
+          <Data name="extrude">
+            <value>0</value>
+          </Data>
+          <Data name="visibility">
+            <value>-1</value>
+          </Data>
+          <Data name="id">
+            <value>6</value>
+          </Data>
+          <Data name="left">
+            <value>458917.197894091</value>
+          </Data>
+          <Data name="top">
+            <value>5735459.17838055</value>
+          </Data>
+          <Data name="right">
+            <value>459042.197894091</value>
+          </Data>
+          <Data name="bottom">
+            <value>5735584.17838055</value>
+          </Data>
+          <Data name="layer">
+            <value>Cottbuser Ostsee_South_9Points </value>
+          </Data>
+          <Data name="path">
+            <value>D:/Users/konlavach/Desktop/AIA_Meeting/2023_06_23/Study_Sites/Survey_Points/Cottbuser Ostsee/Cottbuser Ostsee_South_9Points.kml|layername=LIL_KliBioTo_StudySites_Extents_Cottbuser_Ostsee___South_Points</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            14.4042223,51.7679436,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <description><![CDATA[description: <br>tessellate: -1<br>extrude: 0<br>visibility: -1<br>id: 7<br>left: 459042.197894091<br>top: 5735709.17838055<br>right: 459167.197894091<br>bottom: 5735834.17838055<br>layer: Cottbuser Ostsee_South_9Points <br>path: D:/Users/konlavach/Desktop/AIA_Meeting/2023_06_23/Study_Sites/Survey_Points/Cottbuser Ostsee/Cottbuser Ostsee_South_9Points.kml|layername=LIL_KliBioTo_StudySites_Extents_Cottbuser_Ostsee___South_Points]]></description>
+        <styleUrl>#icon-1899-0288D1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="tessellate">
+            <value>-1</value>
+          </Data>
+          <Data name="extrude">
+            <value>0</value>
+          </Data>
+          <Data name="visibility">
+            <value>-1</value>
+          </Data>
+          <Data name="id">
+            <value>7</value>
+          </Data>
+          <Data name="left">
+            <value>459042.197894091</value>
+          </Data>
+          <Data name="top">
+            <value>5735709.17838055</value>
+          </Data>
+          <Data name="right">
+            <value>459167.197894091</value>
+          </Data>
+          <Data name="bottom">
+            <value>5735834.17838055</value>
+          </Data>
+          <Data name="layer">
+            <value>Cottbuser Ostsee_South_9Points </value>
+          </Data>
+          <Data name="path">
+            <value>D:/Users/konlavach/Desktop/AIA_Meeting/2023_06_23/Study_Sites/Survey_Points/Cottbuser Ostsee/Cottbuser Ostsee_South_9Points.kml|layername=LIL_KliBioTo_StudySites_Extents_Cottbuser_Ostsee___South_Points</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            14.4074581,51.7686205,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <description><![CDATA[description: <br>tessellate: -1<br>extrude: 0<br>visibility: -1<br>id: 8<br>left: 459042.197894091<br>top: 5735584.17838055<br>right: 459167.197894091<br>bottom: 5735709.17838055<br>layer: Cottbuser Ostsee_South_9Points <br>path: D:/Users/konlavach/Desktop/AIA_Meeting/2023_06_23/Study_Sites/Survey_Points/Cottbuser Ostsee/Cottbuser Ostsee_South_9Points.kml|layername=LIL_KliBioTo_StudySites_Extents_Cottbuser_Ostsee___South_Points]]></description>
+        <styleUrl>#icon-1899-0288D1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="tessellate">
+            <value>-1</value>
+          </Data>
+          <Data name="extrude">
+            <value>0</value>
+          </Data>
+          <Data name="visibility">
+            <value>-1</value>
+          </Data>
+          <Data name="id">
+            <value>8</value>
+          </Data>
+          <Data name="left">
+            <value>459042.197894091</value>
+          </Data>
+          <Data name="top">
+            <value>5735584.17838055</value>
+          </Data>
+          <Data name="right">
+            <value>459167.197894091</value>
+          </Data>
+          <Data name="bottom">
+            <value>5735709.17838055</value>
+          </Data>
+          <Data name="layer">
+            <value>Cottbuser Ostsee_South_9Points </value>
+          </Data>
+          <Data name="path">
+            <value>D:/Users/konlavach/Desktop/AIA_Meeting/2023_06_23/Study_Sites/Survey_Points/Cottbuser Ostsee/Cottbuser Ostsee_South_9Points.kml|layername=LIL_KliBioTo_StudySites_Extents_Cottbuser_Ostsee___South_Points</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            14.4063103,51.7690049,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <description><![CDATA[description: <br>tessellate: -1<br>extrude: 0<br>visibility: -1<br>id: 9<br>left: 459042.197894091<br>top: 5735459.17838055<br>right: 459167.197894091<br>bottom: 5735584.17838055<br>layer: Cottbuser Ostsee_South_9Points <br>path: D:/Users/konlavach/Desktop/AIA_Meeting/2023_06_23/Study_Sites/Survey_Points/Cottbuser Ostsee/Cottbuser Ostsee_South_9Points.kml|layername=LIL_KliBioTo_StudySites_Extents_Cottbuser_Ostsee___South_Points]]></description>
+        <styleUrl>#icon-1899-0288D1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="tessellate">
+            <value>-1</value>
+          </Data>
+          <Data name="extrude">
+            <value>0</value>
+          </Data>
+          <Data name="visibility">
+            <value>-1</value>
+          </Data>
+          <Data name="id">
+            <value>9</value>
+          </Data>
+          <Data name="left">
+            <value>459042.197894091</value>
+          </Data>
+          <Data name="top">
+            <value>5735459.17838055</value>
+          </Data>
+          <Data name="right">
+            <value>459167.197894091</value>
+          </Data>
+          <Data name="bottom">
+            <value>5735584.17838055</value>
+          </Data>
+          <Data name="layer">
+            <value>Cottbuser Ostsee_South_9Points </value>
+          </Data>
+          <Data name="path">
+            <value>D:/Users/konlavach/Desktop/AIA_Meeting/2023_06_23/Study_Sites/Survey_Points/Cottbuser Ostsee/Cottbuser Ostsee_South_9Points.kml|layername=LIL_KliBioTo_StudySites_Extents_Cottbuser_Ostsee___South_Points</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            14.4070633,51.7679692,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <description><![CDATA[description: <br>tessellate: -1<br>extrude: 0<br>visibility: -1<br>id: 1<br>left: 457042.496957545<br>top: 5737949.87462107<br>right: 457167.496957545<br>bottom: 5738074.87462107<br>layer: Cottbuser Ostsee_West_9Points LIL_KliBioTo_StudySites_Extents_Cottbuser_Ostsee___West_Points<br>path: D:/Users/konlavach/Desktop/AIA_Meeting/2023_06_23/Study_Sites/Survey_Points/Cottbuser Ostsee/Cottbuser Ostsee_West_9Points.kml|layername=LIL_KliBioTo_StudySites_Extents_Cottbuser_Ostsee___West_Points]]></description>
+        <styleUrl>#icon-1535-097138-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="tessellate">
+            <value>-1</value>
+          </Data>
+          <Data name="extrude">
+            <value>0</value>
+          </Data>
+          <Data name="visibility">
+            <value>-1</value>
+          </Data>
+          <Data name="id">
+            <value>1</value>
+          </Data>
+          <Data name="left">
+            <value>457042.496957545</value>
+          </Data>
+          <Data name="top">
+            <value>5737949.87462107</value>
+          </Data>
+          <Data name="right">
+            <value>457167.496957545</value>
+          </Data>
+          <Data name="bottom">
+            <value>5738074.87462107</value>
+          </Data>
+          <Data name="layer">
+            <value>Cottbuser Ostsee_West_9Points LIL_KliBioTo_StudySites_Extents_Cottbuser_Ostsee___West_Points</value>
+          </Data>
+          <Data name="path">
+            <value>D:/Users/konlavach/Desktop/AIA_Meeting/2023_06_23/Study_Sites/Survey_Points/Cottbuser Ostsee/Cottbuser Ostsee_West_9Points.kml|layername=LIL_KliBioTo_StudySites_Extents_Cottbuser_Ostsee___West_Points</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            14.3783821,51.7905211,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <description><![CDATA[description: <br>tessellate: -1<br>extrude: 0<br>visibility: -1<br>id: 2<br>left: 457042.496957545<br>top: 5737824.87462107<br>right: 457167.496957545<br>bottom: 5737949.87462107<br>layer: Cottbuser Ostsee_West_9Points LIL_KliBioTo_StudySites_Extents_Cottbuser_Ostsee___West_Points<br>path: D:/Users/konlavach/Desktop/AIA_Meeting/2023_06_23/Study_Sites/Survey_Points/Cottbuser Ostsee/Cottbuser Ostsee_West_9Points.kml|layername=LIL_KliBioTo_StudySites_Extents_Cottbuser_Ostsee___West_Points]]></description>
+        <styleUrl>#icon-1535-097138-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="tessellate">
+            <value>-1</value>
+          </Data>
+          <Data name="extrude">
+            <value>0</value>
+          </Data>
+          <Data name="visibility">
+            <value>-1</value>
+          </Data>
+          <Data name="id">
+            <value>2</value>
+          </Data>
+          <Data name="left">
+            <value>457042.496957545</value>
+          </Data>
+          <Data name="top">
+            <value>5737824.87462107</value>
+          </Data>
+          <Data name="right">
+            <value>457167.496957545</value>
+          </Data>
+          <Data name="bottom">
+            <value>5737949.87462107</value>
+          </Data>
+          <Data name="layer">
+            <value>Cottbuser Ostsee_West_9Points LIL_KliBioTo_StudySites_Extents_Cottbuser_Ostsee___West_Points</value>
+          </Data>
+          <Data name="path">
+            <value>D:/Users/konlavach/Desktop/AIA_Meeting/2023_06_23/Study_Sites/Survey_Points/Cottbuser Ostsee/Cottbuser Ostsee_West_9Points.kml|layername=LIL_KliBioTo_StudySites_Extents_Cottbuser_Ostsee___West_Points</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            14.377635,51.7895341,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <description><![CDATA[description: <br>tessellate: -1<br>extrude: 0<br>visibility: -1<br>id: 3<br>left: 457042.496957545<br>top: 5737699.87462107<br>right: 457167.496957545<br>bottom: 5737824.87462107<br>layer: Cottbuser Ostsee_West_9Points LIL_KliBioTo_StudySites_Extents_Cottbuser_Ostsee___West_Points<br>path: D:/Users/konlavach/Desktop/AIA_Meeting/2023_06_23/Study_Sites/Survey_Points/Cottbuser Ostsee/Cottbuser Ostsee_West_9Points.kml|layername=LIL_KliBioTo_StudySites_Extents_Cottbuser_Ostsee___West_Points]]></description>
+        <styleUrl>#icon-1535-097138-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="tessellate">
+            <value>-1</value>
+          </Data>
+          <Data name="extrude">
+            <value>0</value>
+          </Data>
+          <Data name="visibility">
+            <value>-1</value>
+          </Data>
+          <Data name="id">
+            <value>3</value>
+          </Data>
+          <Data name="left">
+            <value>457042.496957545</value>
+          </Data>
+          <Data name="top">
+            <value>5737699.87462107</value>
+          </Data>
+          <Data name="right">
+            <value>457167.496957545</value>
+          </Data>
+          <Data name="bottom">
+            <value>5737824.87462107</value>
+          </Data>
+          <Data name="layer">
+            <value>Cottbuser Ostsee_West_9Points LIL_KliBioTo_StudySites_Extents_Cottbuser_Ostsee___West_Points</value>
+          </Data>
+          <Data name="path">
+            <value>D:/Users/konlavach/Desktop/AIA_Meeting/2023_06_23/Study_Sites/Survey_Points/Cottbuser Ostsee/Cottbuser Ostsee_West_9Points.kml|layername=LIL_KliBioTo_StudySites_Extents_Cottbuser_Ostsee___West_Points</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            14.3769258,51.7885711,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <description><![CDATA[description: <br>tessellate: -1<br>extrude: 0<br>visibility: -1<br>id: 4<br>left: 457167.496957545<br>top: 5737949.87462107<br>right: 457292.496957545<br>bottom: 5738074.87462107<br>layer: Cottbuser Ostsee_West_9Points LIL_KliBioTo_StudySites_Extents_Cottbuser_Ostsee___West_Points<br>path: D:/Users/konlavach/Desktop/AIA_Meeting/2023_06_23/Study_Sites/Survey_Points/Cottbuser Ostsee/Cottbuser Ostsee_West_9Points.kml|layername=LIL_KliBioTo_StudySites_Extents_Cottbuser_Ostsee___West_Points]]></description>
+        <styleUrl>#icon-1535-097138-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="tessellate">
+            <value>-1</value>
+          </Data>
+          <Data name="extrude">
+            <value>0</value>
+          </Data>
+          <Data name="visibility">
+            <value>-1</value>
+          </Data>
+          <Data name="id">
+            <value>4</value>
+          </Data>
+          <Data name="left">
+            <value>457167.496957545</value>
+          </Data>
+          <Data name="top">
+            <value>5737949.87462107</value>
+          </Data>
+          <Data name="right">
+            <value>457292.496957545</value>
+          </Data>
+          <Data name="bottom">
+            <value>5738074.87462107</value>
+          </Data>
+          <Data name="layer">
+            <value>Cottbuser Ostsee_West_9Points LIL_KliBioTo_StudySites_Extents_Cottbuser_Ostsee___West_Points</value>
+          </Data>
+          <Data name="path">
+            <value>D:/Users/konlavach/Desktop/AIA_Meeting/2023_06_23/Study_Sites/Survey_Points/Cottbuser Ostsee/Cottbuser Ostsee_West_9Points.kml|layername=LIL_KliBioTo_StudySites_Extents_Cottbuser_Ostsee___West_Points</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            14.3788195,51.7908845,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <description><![CDATA[description: <br>tessellate: -1<br>extrude: 0<br>visibility: -1<br>id: 5<br>left: 457167.496957545<br>top: 5737824.87462107<br>right: 457292.496957545<br>bottom: 5737949.87462107<br>layer: Cottbuser Ostsee_West_9Points LIL_KliBioTo_StudySites_Extents_Cottbuser_Ostsee___West_Points<br>path: D:/Users/konlavach/Desktop/AIA_Meeting/2023_06_23/Study_Sites/Survey_Points/Cottbuser Ostsee/Cottbuser Ostsee_West_9Points.kml|layername=LIL_KliBioTo_StudySites_Extents_Cottbuser_Ostsee___West_Points]]></description>
+        <styleUrl>#icon-1535-097138-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="tessellate">
+            <value>-1</value>
+          </Data>
+          <Data name="extrude">
+            <value>0</value>
+          </Data>
+          <Data name="visibility">
+            <value>-1</value>
+          </Data>
+          <Data name="id">
+            <value>5</value>
+          </Data>
+          <Data name="left">
+            <value>457167.496957545</value>
+          </Data>
+          <Data name="top">
+            <value>5737824.87462107</value>
+          </Data>
+          <Data name="right">
+            <value>457292.496957545</value>
+          </Data>
+          <Data name="bottom">
+            <value>5737949.87462107</value>
+          </Data>
+          <Data name="layer">
+            <value>Cottbuser Ostsee_West_9Points LIL_KliBioTo_StudySites_Extents_Cottbuser_Ostsee___West_Points</value>
+          </Data>
+          <Data name="path">
+            <value>D:/Users/konlavach/Desktop/AIA_Meeting/2023_06_23/Study_Sites/Survey_Points/Cottbuser Ostsee/Cottbuser Ostsee_West_9Points.kml|layername=LIL_KliBioTo_StudySites_Extents_Cottbuser_Ostsee___West_Points</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            14.3801122,51.7897605,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <description><![CDATA[description: <br>tessellate: -1<br>extrude: 0<br>visibility: -1<br>id: 6<br>left: 457167.496957545<br>top: 5737699.87462107<br>right: 457292.496957545<br>bottom: 5737824.87462107<br>layer: Cottbuser Ostsee_West_9Points LIL_KliBioTo_StudySites_Extents_Cottbuser_Ostsee___West_Points<br>path: D:/Users/konlavach/Desktop/AIA_Meeting/2023_06_23/Study_Sites/Survey_Points/Cottbuser Ostsee/Cottbuser Ostsee_West_9Points.kml|layername=LIL_KliBioTo_StudySites_Extents_Cottbuser_Ostsee___West_Points]]></description>
+        <styleUrl>#icon-1535-097138-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="tessellate">
+            <value>-1</value>
+          </Data>
+          <Data name="extrude">
+            <value>0</value>
+          </Data>
+          <Data name="visibility">
+            <value>-1</value>
+          </Data>
+          <Data name="id">
+            <value>6</value>
+          </Data>
+          <Data name="left">
+            <value>457167.496957545</value>
+          </Data>
+          <Data name="top">
+            <value>5737699.87462107</value>
+          </Data>
+          <Data name="right">
+            <value>457292.496957545</value>
+          </Data>
+          <Data name="bottom">
+            <value>5737824.87462107</value>
+          </Data>
+          <Data name="layer">
+            <value>Cottbuser Ostsee_West_9Points LIL_KliBioTo_StudySites_Extents_Cottbuser_Ostsee___West_Points</value>
+          </Data>
+          <Data name="path">
+            <value>D:/Users/konlavach/Desktop/AIA_Meeting/2023_06_23/Study_Sites/Survey_Points/Cottbuser Ostsee/Cottbuser Ostsee_West_9Points.kml|layername=LIL_KliBioTo_StudySites_Extents_Cottbuser_Ostsee___West_Points</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            14.3812283,51.7886174,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <description><![CDATA[description: <br>tessellate: -1<br>extrude: 0<br>visibility: -1<br>id: 7<br>left: 457292.496957545<br>top: 5737949.87462107<br>right: 457417.496957545<br>bottom: 5738074.87462107<br>layer: Cottbuser Ostsee_West_9Points LIL_KliBioTo_StudySites_Extents_Cottbuser_Ostsee___West_Points<br>path: D:/Users/konlavach/Desktop/AIA_Meeting/2023_06_23/Study_Sites/Survey_Points/Cottbuser Ostsee/Cottbuser Ostsee_West_9Points.kml|layername=LIL_KliBioTo_StudySites_Extents_Cottbuser_Ostsee___West_Points]]></description>
+        <styleUrl>#icon-1535-097138-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="tessellate">
+            <value>-1</value>
+          </Data>
+          <Data name="extrude">
+            <value>0</value>
+          </Data>
+          <Data name="visibility">
+            <value>-1</value>
+          </Data>
+          <Data name="id">
+            <value>7</value>
+          </Data>
+          <Data name="left">
+            <value>457292.496957545</value>
+          </Data>
+          <Data name="top">
+            <value>5737949.87462107</value>
+          </Data>
+          <Data name="right">
+            <value>457417.496957545</value>
+          </Data>
+          <Data name="bottom">
+            <value>5738074.87462107</value>
+          </Data>
+          <Data name="layer">
+            <value>Cottbuser Ostsee_West_9Points LIL_KliBioTo_StudySites_Extents_Cottbuser_Ostsee___West_Points</value>
+          </Data>
+          <Data name="path">
+            <value>D:/Users/konlavach/Desktop/AIA_Meeting/2023_06_23/Study_Sites/Survey_Points/Cottbuser Ostsee/Cottbuser Ostsee_West_9Points.kml|layername=LIL_KliBioTo_StudySites_Extents_Cottbuser_Ostsee___West_Points</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            14.3797545,51.7907456,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <description><![CDATA[description: <br>tessellate: -1<br>extrude: 0<br>visibility: -1<br>id: 8<br>left: 457292.496957545<br>top: 5737824.87462107<br>right: 457417.496957545<br>bottom: 5737949.87462107<br>layer: Cottbuser Ostsee_West_9Points LIL_KliBioTo_StudySites_Extents_Cottbuser_Ostsee___West_Points<br>path: D:/Users/konlavach/Desktop/AIA_Meeting/2023_06_23/Study_Sites/Survey_Points/Cottbuser Ostsee/Cottbuser Ostsee_West_9Points.kml|layername=LIL_KliBioTo_StudySites_Extents_Cottbuser_Ostsee___West_Points]]></description>
+        <styleUrl>#icon-1535-097138-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="tessellate">
+            <value>-1</value>
+          </Data>
+          <Data name="extrude">
+            <value>0</value>
+          </Data>
+          <Data name="visibility">
+            <value>-1</value>
+          </Data>
+          <Data name="id">
+            <value>8</value>
+          </Data>
+          <Data name="left">
+            <value>457292.496957545</value>
+          </Data>
+          <Data name="top">
+            <value>5737824.87462107</value>
+          </Data>
+          <Data name="right">
+            <value>457417.496957545</value>
+          </Data>
+          <Data name="bottom">
+            <value>5737949.87462107</value>
+          </Data>
+          <Data name="layer">
+            <value>Cottbuser Ostsee_West_9Points LIL_KliBioTo_StudySites_Extents_Cottbuser_Ostsee___West_Points</value>
+          </Data>
+          <Data name="path">
+            <value>D:/Users/konlavach/Desktop/AIA_Meeting/2023_06_23/Study_Sites/Survey_Points/Cottbuser Ostsee/Cottbuser Ostsee_West_9Points.kml|layername=LIL_KliBioTo_StudySites_Extents_Cottbuser_Ostsee___West_Points</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            14.3806153,51.7892528,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <description><![CDATA[description: <br>tessellate: -1<br>extrude: 0<br>visibility: -1<br>id: 9<br>left: 457292.496957545<br>top: 5737699.87462107<br>right: 457417.496957545<br>bottom: 5737824.87462107<br>layer: Cottbuser Ostsee_West_9Points LIL_KliBioTo_StudySites_Extents_Cottbuser_Ostsee___West_Points<br>path: D:/Users/konlavach/Desktop/AIA_Meeting/2023_06_23/Study_Sites/Survey_Points/Cottbuser Ostsee/Cottbuser Ostsee_West_9Points.kml|layername=LIL_KliBioTo_StudySites_Extents_Cottbuser_Ostsee___West_Points]]></description>
+        <styleUrl>#icon-1535-097138-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="tessellate">
+            <value>-1</value>
+          </Data>
+          <Data name="extrude">
+            <value>0</value>
+          </Data>
+          <Data name="visibility">
+            <value>-1</value>
+          </Data>
+          <Data name="id">
+            <value>9</value>
+          </Data>
+          <Data name="left">
+            <value>457292.496957545</value>
+          </Data>
+          <Data name="top">
+            <value>5737699.87462107</value>
+          </Data>
+          <Data name="right">
+            <value>457417.496957545</value>
+          </Data>
+          <Data name="bottom">
+            <value>5737824.87462107</value>
+          </Data>
+          <Data name="layer">
+            <value>Cottbuser Ostsee_West_9Points LIL_KliBioTo_StudySites_Extents_Cottbuser_Ostsee___West_Points</value>
+          </Data>
+          <Data name="path">
+            <value>D:/Users/konlavach/Desktop/AIA_Meeting/2023_06_23/Study_Sites/Survey_Points/Cottbuser Ostsee/Cottbuser Ostsee_West_9Points.kml|layername=LIL_KliBioTo_StudySites_Extents_Cottbuser_Ostsee___West_Points</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            14.3817981,51.7879903,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

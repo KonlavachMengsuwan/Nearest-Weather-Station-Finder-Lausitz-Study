@@ -1,0 +1,1486 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Kazunori AND Ronnie: Cottbus</name>
+    <description><![CDATA[Survey Date: 15.08.2023<br>By: Konlavach Mengsuwan]]></description>
+    <Style id="icon-1535-0097A7-labelson">
+      <IconStyle>
+        <color>ffa79700</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="icon-1535-A52714-labelson">
+      <IconStyle>
+        <color>ff1427a5</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="icon-1535-E65100-labelson">
+      <IconStyle>
+        <color>ff0051e6</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="poly-1A237E-7801-0-normal">
+      <LineStyle>
+        <color>ff7e231a</color>
+        <width>7.801</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>007e231a</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <Style id="poly-1A237E-7801-0-highlight">
+      <LineStyle>
+        <color>ff7e231a</color>
+        <width>11.7015</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>007e231a</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <StyleMap id="poly-1A237E-7801-0">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#poly-1A237E-7801-0-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#poly-1A237E-7801-0-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="poly-795548-8001-0-normal">
+      <LineStyle>
+        <color>ff485579</color>
+        <width>8.001</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>00485579</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <Style id="poly-795548-8001-0-highlight">
+      <LineStyle>
+        <color>ff485579</color>
+        <width>12.0015</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>00485579</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <StyleMap id="poly-795548-8001-0">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#poly-795548-8001-0-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#poly-795548-8001-0-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="poly-F9A825-8200-0-normal">
+      <LineStyle>
+        <color>ff25a8f9</color>
+        <width>8.2</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>0025a8f9</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <Style id="poly-F9A825-8200-0-highlight">
+      <LineStyle>
+        <color>ff25a8f9</color>
+        <width>12.3</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>0025a8f9</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <StyleMap id="poly-F9A825-8200-0">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#poly-F9A825-8200-0-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#poly-F9A825-8200-0-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>LIL_KliBioTo_StudySites2023</name>
+      <Placemark>
+        <name>Cottbus_BTU</name>
+        <description><![CDATA[description: <br>id: 1<br>Block_Name: Cottbus_BTU<br>Site_Name: Cottbus<br>area: 250000<br>perimeter: 2000<br>layer: LIL-KliBioTo-2023_Cottbus Cottbus_Extent<br>path: D:/Users/konlavach/Desktop/Study_Plan/2023_06_07_Updated_Request Price Quotation/Cottbus/LIL-KliBioTo-2023_Cottbus.kml|layername=Cottbus_Extent]]></description>
+        <styleUrl>#poly-F9A825-8200-0</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="id">
+            <value>1</value>
+          </Data>
+          <Data name="Block_Name">
+            <value>Cottbus_BTU</value>
+          </Data>
+          <Data name="Site_Name">
+            <value>Cottbus</value>
+          </Data>
+          <Data name="area">
+            <value>250000</value>
+          </Data>
+          <Data name="perimeter">
+            <value>2000</value>
+          </Data>
+          <Data name="layer">
+            <value>LIL-KliBioTo-2023_Cottbus Cottbus_Extent</value>
+          </Data>
+          <Data name="path">
+            <value>D:/Users/konlavach/Desktop/Study_Plan/2023_06_07_Updated_Request Price Quotation/Cottbus/LIL-KliBioTo-2023_Cottbus.kml|layername=Cottbus_Extent</value>
+          </Data>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                14.329461,51.770391,0
+                14.322215,51.77035,0
+                14.322282,51.765854,0
+                14.329527,51.765896,0
+                14.329461,51.770391,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>Cottbus_Nutzberg</name>
+        <description><![CDATA[description: <br>id: 2<br>Block_Name: Cottbus_Nutzberg<br>Site_Name: Cottbus<br>area: 250000<br>perimeter: 2000<br>layer: LIL-KliBioTo-2023_Cottbus Cottbus_Extent<br>path: D:/Users/konlavach/Desktop/Study_Plan/2023_06_07_Updated_Request Price Quotation/Cottbus/LIL-KliBioTo-2023_Cottbus.kml|layername=Cottbus_Extent]]></description>
+        <styleUrl>#poly-795548-8001-0</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="id">
+            <value>2</value>
+          </Data>
+          <Data name="Block_Name">
+            <value>Cottbus_Nutzberg</value>
+          </Data>
+          <Data name="Site_Name">
+            <value>Cottbus</value>
+          </Data>
+          <Data name="area">
+            <value>250000</value>
+          </Data>
+          <Data name="perimeter">
+            <value>2000</value>
+          </Data>
+          <Data name="layer">
+            <value>LIL-KliBioTo-2023_Cottbus Cottbus_Extent</value>
+          </Data>
+          <Data name="path">
+            <value>D:/Users/konlavach/Desktop/Study_Plan/2023_06_07_Updated_Request Price Quotation/Cottbus/LIL-KliBioTo-2023_Cottbus.kml|layername=Cottbus_Extent</value>
+          </Data>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                14.401796,51.737028,0
+                14.394556,51.73699,0
+                14.394616,51.732495,0
+                14.401856,51.732532,0
+                14.401796,51.737028,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>Cottbus_SmallTown</name>
+        <description><![CDATA[description: <br>id: 3<br>Block_Name: Cottbus_SmallTown<br>Site_Name: Cottbus<br>area: 250000<br>perimeter: 2000<br>layer: LIL-KliBioTo-2023_Cottbus Cottbus_Extent<br>path: D:/Users/konlavach/Desktop/Study_Plan/2023_06_07_Updated_Request Price Quotation/Cottbus/LIL-KliBioTo-2023_Cottbus.kml|layername=Cottbus_Extent]]></description>
+        <styleUrl>#poly-1A237E-7801-0</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="id">
+            <value>3</value>
+          </Data>
+          <Data name="Block_Name">
+            <value>Cottbus_SmallTown</value>
+          </Data>
+          <Data name="Site_Name">
+            <value>Cottbus</value>
+          </Data>
+          <Data name="area">
+            <value>250000</value>
+          </Data>
+          <Data name="perimeter">
+            <value>2000</value>
+          </Data>
+          <Data name="layer">
+            <value>LIL-KliBioTo-2023_Cottbus Cottbus_Extent</value>
+          </Data>
+          <Data name="path">
+            <value>D:/Users/konlavach/Desktop/Study_Plan/2023_06_07_Updated_Request Price Quotation/Cottbus/LIL-KliBioTo-2023_Cottbus.kml|layername=Cottbus_Extent</value>
+          </Data>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                14.41798,51.746565,0
+                14.410738,51.746529,0
+                14.410796,51.742034,0
+                14.418037,51.74207,0
+                14.41798,51.746565,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Survey_Points_2023_ALL</name>
+      <Placemark>
+        <name/>
+        <description><![CDATA[description: <br>tessellate: -1<br>extrude: 0<br>visibility: -1<br>id: 1<br>left: 453352.573695352<br>top: 5735593.27358146<br>right: 453477.573695352<br>bottom: 5735718.27358146<br>layer: Cottbus_BTU_9Points<br>path: D:/Users/konlavach/Desktop/AIA_Meeting/2023_06_23/Study_Sites/Survey_Points/Cottbus/Cottbus_BTU_9Points.kml|layername=Cottbus_BTU_9Points]]></description>
+        <styleUrl>#icon-1535-E65100-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="tessellate">
+            <value>-1</value>
+          </Data>
+          <Data name="extrude">
+            <value>0</value>
+          </Data>
+          <Data name="visibility">
+            <value>-1</value>
+          </Data>
+          <Data name="id">
+            <value>1</value>
+          </Data>
+          <Data name="left">
+            <value>453352.573695352</value>
+          </Data>
+          <Data name="top">
+            <value>5735593.27358146</value>
+          </Data>
+          <Data name="right">
+            <value>453477.573695352</value>
+          </Data>
+          <Data name="bottom">
+            <value>5735718.27358146</value>
+          </Data>
+          <Data name="layer">
+            <value>Cottbus_BTU_9Points</value>
+          </Data>
+          <Data name="path">
+            <value>D:/Users/konlavach/Desktop/AIA_Meeting/2023_06_23/Study_Sites/Survey_Points/Cottbus/Cottbus_BTU_9Points.kml|layername=Cottbus_BTU_9Points</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            14.3243291,51.769204,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <description><![CDATA[description: <br>tessellate: -1<br>extrude: 0<br>visibility: -1<br>id: 2<br>left: 453352.573695352<br>top: 5735468.27358146<br>right: 453477.573695352<br>bottom: 5735593.27358146<br>layer: Cottbus_BTU_9Points<br>path: D:/Users/konlavach/Desktop/AIA_Meeting/2023_06_23/Study_Sites/Survey_Points/Cottbus/Cottbus_BTU_9Points.kml|layername=Cottbus_BTU_9Points]]></description>
+        <styleUrl>#icon-1535-E65100-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="tessellate">
+            <value>-1</value>
+          </Data>
+          <Data name="extrude">
+            <value>0</value>
+          </Data>
+          <Data name="visibility">
+            <value>-1</value>
+          </Data>
+          <Data name="id">
+            <value>2</value>
+          </Data>
+          <Data name="left">
+            <value>453352.573695352</value>
+          </Data>
+          <Data name="top">
+            <value>5735468.27358146</value>
+          </Data>
+          <Data name="right">
+            <value>453477.573695352</value>
+          </Data>
+          <Data name="bottom">
+            <value>5735593.27358146</value>
+          </Data>
+          <Data name="layer">
+            <value>Cottbus_BTU_9Points</value>
+          </Data>
+          <Data name="path">
+            <value>D:/Users/konlavach/Desktop/AIA_Meeting/2023_06_23/Study_Sites/Survey_Points/Cottbus/Cottbus_BTU_9Points.kml|layername=Cottbus_BTU_9Points</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            14.3238633,51.7681673,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <description><![CDATA[description: <br>tessellate: -1<br>extrude: 0<br>visibility: -1<br>id: 3<br>left: 453352.573695352<br>top: 5735343.27358146<br>right: 453477.573695352<br>bottom: 5735468.27358146<br>layer: Cottbus_BTU_9Points<br>path: D:/Users/konlavach/Desktop/AIA_Meeting/2023_06_23/Study_Sites/Survey_Points/Cottbus/Cottbus_BTU_9Points.kml|layername=Cottbus_BTU_9Points]]></description>
+        <styleUrl>#icon-1535-E65100-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="tessellate">
+            <value>-1</value>
+          </Data>
+          <Data name="extrude">
+            <value>0</value>
+          </Data>
+          <Data name="visibility">
+            <value>-1</value>
+          </Data>
+          <Data name="id">
+            <value>3</value>
+          </Data>
+          <Data name="left">
+            <value>453352.573695352</value>
+          </Data>
+          <Data name="top">
+            <value>5735343.27358146</value>
+          </Data>
+          <Data name="right">
+            <value>453477.573695352</value>
+          </Data>
+          <Data name="bottom">
+            <value>5735468.27358146</value>
+          </Data>
+          <Data name="layer">
+            <value>Cottbus_BTU_9Points</value>
+          </Data>
+          <Data name="path">
+            <value>D:/Users/konlavach/Desktop/AIA_Meeting/2023_06_23/Study_Sites/Survey_Points/Cottbus/Cottbus_BTU_9Points.kml|layername=Cottbus_BTU_9Points</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            14.3234887,51.7673387,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <description><![CDATA[description: <br>tessellate: -1<br>extrude: 0<br>visibility: -1<br>id: 4<br>left: 453477.573695352<br>top: 5735593.27358146<br>right: 453602.573695352<br>bottom: 5735718.27358146<br>layer: Cottbus_BTU_9Points<br>path: D:/Users/konlavach/Desktop/AIA_Meeting/2023_06_23/Study_Sites/Survey_Points/Cottbus/Cottbus_BTU_9Points.kml|layername=Cottbus_BTU_9Points]]></description>
+        <styleUrl>#icon-1535-E65100-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="tessellate">
+            <value>-1</value>
+          </Data>
+          <Data name="extrude">
+            <value>0</value>
+          </Data>
+          <Data name="visibility">
+            <value>-1</value>
+          </Data>
+          <Data name="id">
+            <value>4</value>
+          </Data>
+          <Data name="left">
+            <value>453477.573695352</value>
+          </Data>
+          <Data name="top">
+            <value>5735593.27358146</value>
+          </Data>
+          <Data name="right">
+            <value>453602.573695352</value>
+          </Data>
+          <Data name="bottom">
+            <value>5735718.27358146</value>
+          </Data>
+          <Data name="layer">
+            <value>Cottbus_BTU_9Points</value>
+          </Data>
+          <Data name="path">
+            <value>D:/Users/konlavach/Desktop/AIA_Meeting/2023_06_23/Study_Sites/Survey_Points/Cottbus/Cottbus_BTU_9Points.kml|layername=Cottbus_BTU_9Points</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            14.325382,51.7692764,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <description><![CDATA[description: <br>tessellate: -1<br>extrude: 0<br>visibility: -1<br>id: 5<br>left: 453477.573695352<br>top: 5735468.27358146<br>right: 453602.573695352<br>bottom: 5735593.27358146<br>layer: Cottbus_BTU_9Points<br>path: D:/Users/konlavach/Desktop/AIA_Meeting/2023_06_23/Study_Sites/Survey_Points/Cottbus/Cottbus_BTU_9Points.kml|layername=Cottbus_BTU_9Points]]></description>
+        <styleUrl>#icon-1535-E65100-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="tessellate">
+            <value>-1</value>
+          </Data>
+          <Data name="extrude">
+            <value>0</value>
+          </Data>
+          <Data name="visibility">
+            <value>-1</value>
+          </Data>
+          <Data name="id">
+            <value>5</value>
+          </Data>
+          <Data name="left">
+            <value>453477.573695352</value>
+          </Data>
+          <Data name="top">
+            <value>5735468.27358146</value>
+          </Data>
+          <Data name="right">
+            <value>453602.573695352</value>
+          </Data>
+          <Data name="bottom">
+            <value>5735593.27358146</value>
+          </Data>
+          <Data name="layer">
+            <value>Cottbus_BTU_9Points</value>
+          </Data>
+          <Data name="path">
+            <value>D:/Users/konlavach/Desktop/AIA_Meeting/2023_06_23/Study_Sites/Survey_Points/Cottbus/Cottbus_BTU_9Points.kml|layername=Cottbus_BTU_9Points</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            14.325803,51.7681175,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <description><![CDATA[description: <br>tessellate: -1<br>extrude: 0<br>visibility: -1<br>id: 6<br>left: 453477.573695352<br>top: 5735343.27358146<br>right: 453602.573695352<br>bottom: 5735468.27358146<br>layer: Cottbus_BTU_9Points<br>path: D:/Users/konlavach/Desktop/AIA_Meeting/2023_06_23/Study_Sites/Survey_Points/Cottbus/Cottbus_BTU_9Points.kml|layername=Cottbus_BTU_9Points]]></description>
+        <styleUrl>#icon-1535-E65100-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="tessellate">
+            <value>-1</value>
+          </Data>
+          <Data name="extrude">
+            <value>0</value>
+          </Data>
+          <Data name="visibility">
+            <value>-1</value>
+          </Data>
+          <Data name="id">
+            <value>6</value>
+          </Data>
+          <Data name="left">
+            <value>453477.573695352</value>
+          </Data>
+          <Data name="top">
+            <value>5735343.27358146</value>
+          </Data>
+          <Data name="right">
+            <value>453602.573695352</value>
+          </Data>
+          <Data name="bottom">
+            <value>5735468.27358146</value>
+          </Data>
+          <Data name="layer">
+            <value>Cottbus_BTU_9Points</value>
+          </Data>
+          <Data name="path">
+            <value>D:/Users/konlavach/Desktop/AIA_Meeting/2023_06_23/Study_Sites/Survey_Points/Cottbus/Cottbus_BTU_9Points.kml|layername=Cottbus_BTU_9Points</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            14.3262907,51.7669977,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <description><![CDATA[description: <br>tessellate: -1<br>extrude: 0<br>visibility: -1<br>id: 7<br>left: 453602.573695352<br>top: 5735593.27358146<br>right: 453727.573695352<br>bottom: 5735718.27358146<br>layer: Cottbus_BTU_9Points<br>path: D:/Users/konlavach/Desktop/AIA_Meeting/2023_06_23/Study_Sites/Survey_Points/Cottbus/Cottbus_BTU_9Points.kml|layername=Cottbus_BTU_9Points]]></description>
+        <styleUrl>#icon-1535-E65100-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="tessellate">
+            <value>-1</value>
+          </Data>
+          <Data name="extrude">
+            <value>0</value>
+          </Data>
+          <Data name="visibility">
+            <value>-1</value>
+          </Data>
+          <Data name="id">
+            <value>7</value>
+          </Data>
+          <Data name="left">
+            <value>453602.573695352</value>
+          </Data>
+          <Data name="top">
+            <value>5735593.27358146</value>
+          </Data>
+          <Data name="right">
+            <value>453727.573695352</value>
+          </Data>
+          <Data name="bottom">
+            <value>5735718.27358146</value>
+          </Data>
+          <Data name="layer">
+            <value>Cottbus_BTU_9Points</value>
+          </Data>
+          <Data name="path">
+            <value>D:/Users/konlavach/Desktop/AIA_Meeting/2023_06_23/Study_Sites/Survey_Points/Cottbus/Cottbus_BTU_9Points.kml|layername=Cottbus_BTU_9Points</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            14.3278635,51.7668148,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <description><![CDATA[description: <br>tessellate: -1<br>extrude: 0<br>visibility: -1<br>id: 8<br>left: 453602.573695352<br>top: 5735468.27358146<br>right: 453727.573695352<br>bottom: 5735593.27358146<br>layer: Cottbus_BTU_9Points<br>path: D:/Users/konlavach/Desktop/AIA_Meeting/2023_06_23/Study_Sites/Survey_Points/Cottbus/Cottbus_BTU_9Points.kml|layername=Cottbus_BTU_9Points]]></description>
+        <styleUrl>#icon-1535-E65100-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="tessellate">
+            <value>-1</value>
+          </Data>
+          <Data name="extrude">
+            <value>0</value>
+          </Data>
+          <Data name="visibility">
+            <value>-1</value>
+          </Data>
+          <Data name="id">
+            <value>8</value>
+          </Data>
+          <Data name="left">
+            <value>453602.573695352</value>
+          </Data>
+          <Data name="top">
+            <value>5735468.27358146</value>
+          </Data>
+          <Data name="right">
+            <value>453727.573695352</value>
+          </Data>
+          <Data name="bottom">
+            <value>5735593.27358146</value>
+          </Data>
+          <Data name="layer">
+            <value>Cottbus_BTU_9Points</value>
+          </Data>
+          <Data name="path">
+            <value>D:/Users/konlavach/Desktop/AIA_Meeting/2023_06_23/Study_Sites/Survey_Points/Cottbus/Cottbus_BTU_9Points.kml|layername=Cottbus_BTU_9Points</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            14.3274594,51.7683333,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <description><![CDATA[description: <br>tessellate: -1<br>extrude: 0<br>visibility: -1<br>id: 9<br>left: 453602.573695352<br>top: 5735343.27358146<br>right: 453727.573695352<br>bottom: 5735468.27358146<br>layer: Cottbus_BTU_9Points<br>path: D:/Users/konlavach/Desktop/AIA_Meeting/2023_06_23/Study_Sites/Survey_Points/Cottbus/Cottbus_BTU_9Points.kml|layername=Cottbus_BTU_9Points]]></description>
+        <styleUrl>#icon-1535-E65100-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="tessellate">
+            <value>-1</value>
+          </Data>
+          <Data name="extrude">
+            <value>0</value>
+          </Data>
+          <Data name="visibility">
+            <value>-1</value>
+          </Data>
+          <Data name="id">
+            <value>9</value>
+          </Data>
+          <Data name="left">
+            <value>453602.573695352</value>
+          </Data>
+          <Data name="top">
+            <value>5735343.27358146</value>
+          </Data>
+          <Data name="right">
+            <value>453727.573695352</value>
+          </Data>
+          <Data name="bottom">
+            <value>5735468.27358146</value>
+          </Data>
+          <Data name="layer">
+            <value>Cottbus_BTU_9Points</value>
+          </Data>
+          <Data name="path">
+            <value>D:/Users/konlavach/Desktop/AIA_Meeting/2023_06_23/Study_Sites/Survey_Points/Cottbus/Cottbus_BTU_9Points.kml|layername=Cottbus_BTU_9Points</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            14.328543,51.7673033,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <description><![CDATA[description: <br>tessellate: -1<br>extrude: 0<br>visibility: -1<br>id: 1<br>left: 458313.824049783<br>top: 5731838.76444087<br>right: 458438.824049783<br>bottom: 5731963.76444087<br>layer: Cottbus_Nutzberg_9Points<br>path: D:/Users/konlavach/Desktop/AIA_Meeting/2023_06_23/Study_Sites/Survey_Points/Cottbus/Cottbus_Nutzberg_9Points.kml|layername=Cottbus_Nutzberg_9Points]]></description>
+        <styleUrl>#icon-1535-A52714-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="tessellate">
+            <value>-1</value>
+          </Data>
+          <Data name="extrude">
+            <value>0</value>
+          </Data>
+          <Data name="visibility">
+            <value>-1</value>
+          </Data>
+          <Data name="id">
+            <value>1</value>
+          </Data>
+          <Data name="left">
+            <value>458313.824049783</value>
+          </Data>
+          <Data name="top">
+            <value>5731838.76444087</value>
+          </Data>
+          <Data name="right">
+            <value>458438.824049783</value>
+          </Data>
+          <Data name="bottom">
+            <value>5731963.76444087</value>
+          </Data>
+          <Data name="layer">
+            <value>Cottbus_Nutzberg_9Points</value>
+          </Data>
+          <Data name="path">
+            <value>D:/Users/konlavach/Desktop/AIA_Meeting/2023_06_23/Study_Sites/Survey_Points/Cottbus/Cottbus_Nutzberg_9Points.kml|layername=Cottbus_Nutzberg_9Points</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            14.3958694,51.7367269,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <description><![CDATA[description: <br>tessellate: -1<br>extrude: 0<br>visibility: -1<br>id: 2<br>left: 458313.824049783<br>top: 5731713.76444087<br>right: 458438.824049783<br>bottom: 5731838.76444087<br>layer: Cottbus_Nutzberg_9Points<br>path: D:/Users/konlavach/Desktop/AIA_Meeting/2023_06_23/Study_Sites/Survey_Points/Cottbus/Cottbus_Nutzberg_9Points.kml|layername=Cottbus_Nutzberg_9Points]]></description>
+        <styleUrl>#icon-1535-A52714-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="tessellate">
+            <value>-1</value>
+          </Data>
+          <Data name="extrude">
+            <value>0</value>
+          </Data>
+          <Data name="visibility">
+            <value>-1</value>
+          </Data>
+          <Data name="id">
+            <value>2</value>
+          </Data>
+          <Data name="left">
+            <value>458313.824049783</value>
+          </Data>
+          <Data name="top">
+            <value>5731713.76444087</value>
+          </Data>
+          <Data name="right">
+            <value>458438.824049783</value>
+          </Data>
+          <Data name="bottom">
+            <value>5731838.76444087</value>
+          </Data>
+          <Data name="layer">
+            <value>Cottbus_Nutzberg_9Points</value>
+          </Data>
+          <Data name="path">
+            <value>D:/Users/konlavach/Desktop/AIA_Meeting/2023_06_23/Study_Sites/Survey_Points/Cottbus/Cottbus_Nutzberg_9Points.kml|layername=Cottbus_Nutzberg_9Points</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            14.3968138,51.7359202,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <description><![CDATA[description: <br>tessellate: -1<br>extrude: 0<br>visibility: -1<br>id: 3<br>left: 458313.824049783<br>top: 5731588.76444087<br>right: 458438.824049783<br>bottom: 5731713.76444087<br>layer: Cottbus_Nutzberg_9Points<br>path: D:/Users/konlavach/Desktop/AIA_Meeting/2023_06_23/Study_Sites/Survey_Points/Cottbus/Cottbus_Nutzberg_9Points.kml|layername=Cottbus_Nutzberg_9Points]]></description>
+        <styleUrl>#icon-1535-A52714-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="tessellate">
+            <value>-1</value>
+          </Data>
+          <Data name="extrude">
+            <value>0</value>
+          </Data>
+          <Data name="visibility">
+            <value>-1</value>
+          </Data>
+          <Data name="id">
+            <value>3</value>
+          </Data>
+          <Data name="left">
+            <value>458313.824049783</value>
+          </Data>
+          <Data name="top">
+            <value>5731588.76444087</value>
+          </Data>
+          <Data name="right">
+            <value>458438.824049783</value>
+          </Data>
+          <Data name="bottom">
+            <value>5731713.76444087</value>
+          </Data>
+          <Data name="layer">
+            <value>Cottbus_Nutzberg_9Points</value>
+          </Data>
+          <Data name="path">
+            <value>D:/Users/konlavach/Desktop/AIA_Meeting/2023_06_23/Study_Sites/Survey_Points/Cottbus/Cottbus_Nutzberg_9Points.kml|layername=Cottbus_Nutzberg_9Points</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            14.3962642,51.7339906,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <description><![CDATA[description: <br>tessellate: -1<br>extrude: 0<br>visibility: -1<br>id: 4<br>left: 458438.824049783<br>top: 5731838.76444087<br>right: 458563.824049783<br>bottom: 5731963.76444087<br>layer: Cottbus_Nutzberg_9Points<br>path: D:/Users/konlavach/Desktop/AIA_Meeting/2023_06_23/Study_Sites/Survey_Points/Cottbus/Cottbus_Nutzberg_9Points.kml|layername=Cottbus_Nutzberg_9Points]]></description>
+        <styleUrl>#icon-1535-A52714-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="tessellate">
+            <value>-1</value>
+          </Data>
+          <Data name="extrude">
+            <value>0</value>
+          </Data>
+          <Data name="visibility">
+            <value>-1</value>
+          </Data>
+          <Data name="id">
+            <value>4</value>
+          </Data>
+          <Data name="left">
+            <value>458438.824049783</value>
+          </Data>
+          <Data name="top">
+            <value>5731838.76444087</value>
+          </Data>
+          <Data name="right">
+            <value>458563.824049783</value>
+          </Data>
+          <Data name="bottom">
+            <value>5731963.76444087</value>
+          </Data>
+          <Data name="layer">
+            <value>Cottbus_Nutzberg_9Points</value>
+          </Data>
+          <Data name="path">
+            <value>D:/Users/konlavach/Desktop/AIA_Meeting/2023_06_23/Study_Sites/Survey_Points/Cottbus/Cottbus_Nutzberg_9Points.kml|layername=Cottbus_Nutzberg_9Points</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            14.3974537,51.7353738,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <description><![CDATA[description: <br>tessellate: -1<br>extrude: 0<br>visibility: -1<br>id: 5<br>left: 458438.824049783<br>top: 5731713.76444087<br>right: 458563.824049783<br>bottom: 5731838.76444087<br>layer: Cottbus_Nutzberg_9Points<br>path: D:/Users/konlavach/Desktop/AIA_Meeting/2023_06_23/Study_Sites/Survey_Points/Cottbus/Cottbus_Nutzberg_9Points.kml|layername=Cottbus_Nutzberg_9Points]]></description>
+        <styleUrl>#icon-1535-A52714-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="tessellate">
+            <value>-1</value>
+          </Data>
+          <Data name="extrude">
+            <value>0</value>
+          </Data>
+          <Data name="visibility">
+            <value>-1</value>
+          </Data>
+          <Data name="id">
+            <value>5</value>
+          </Data>
+          <Data name="left">
+            <value>458438.824049783</value>
+          </Data>
+          <Data name="top">
+            <value>5731713.76444087</value>
+          </Data>
+          <Data name="right">
+            <value>458563.824049783</value>
+          </Data>
+          <Data name="bottom">
+            <value>5731838.76444087</value>
+          </Data>
+          <Data name="layer">
+            <value>Cottbus_Nutzberg_9Points</value>
+          </Data>
+          <Data name="path">
+            <value>D:/Users/konlavach/Desktop/AIA_Meeting/2023_06_23/Study_Sites/Survey_Points/Cottbus/Cottbus_Nutzberg_9Points.kml|layername=Cottbus_Nutzberg_9Points</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            14.3981879,51.7347581,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <description><![CDATA[description: <br>tessellate: -1<br>extrude: 0<br>visibility: -1<br>id: 6<br>left: 458438.824049783<br>top: 5731588.76444087<br>right: 458563.824049783<br>bottom: 5731713.76444087<br>layer: Cottbus_Nutzberg_9Points<br>path: D:/Users/konlavach/Desktop/AIA_Meeting/2023_06_23/Study_Sites/Survey_Points/Cottbus/Cottbus_Nutzberg_9Points.kml|layername=Cottbus_Nutzberg_9Points]]></description>
+        <styleUrl>#icon-1535-A52714-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="tessellate">
+            <value>-1</value>
+          </Data>
+          <Data name="extrude">
+            <value>0</value>
+          </Data>
+          <Data name="visibility">
+            <value>-1</value>
+          </Data>
+          <Data name="id">
+            <value>6</value>
+          </Data>
+          <Data name="left">
+            <value>458438.824049783</value>
+          </Data>
+          <Data name="top">
+            <value>5731588.76444087</value>
+          </Data>
+          <Data name="right">
+            <value>458563.824049783</value>
+          </Data>
+          <Data name="bottom">
+            <value>5731713.76444087</value>
+          </Data>
+          <Data name="layer">
+            <value>Cottbus_Nutzberg_9Points</value>
+          </Data>
+          <Data name="path">
+            <value>D:/Users/konlavach/Desktop/AIA_Meeting/2023_06_23/Study_Sites/Survey_Points/Cottbus/Cottbus_Nutzberg_9Points.kml|layername=Cottbus_Nutzberg_9Points</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            14.3989271,51.7341391,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <description><![CDATA[description: <br>tessellate: -1<br>extrude: 0<br>visibility: -1<br>id: 7<br>left: 458563.824049783<br>top: 5731838.76444087<br>right: 458688.824049783<br>bottom: 5731963.76444087<br>layer: Cottbus_Nutzberg_9Points<br>path: D:/Users/konlavach/Desktop/AIA_Meeting/2023_06_23/Study_Sites/Survey_Points/Cottbus/Cottbus_Nutzberg_9Points.kml|layername=Cottbus_Nutzberg_9Points]]></description>
+        <styleUrl>#icon-1535-A52714-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="tessellate">
+            <value>-1</value>
+          </Data>
+          <Data name="extrude">
+            <value>0</value>
+          </Data>
+          <Data name="visibility">
+            <value>-1</value>
+          </Data>
+          <Data name="id">
+            <value>7</value>
+          </Data>
+          <Data name="left">
+            <value>458563.824049783</value>
+          </Data>
+          <Data name="top">
+            <value>5731838.76444087</value>
+          </Data>
+          <Data name="right">
+            <value>458688.824049783</value>
+          </Data>
+          <Data name="bottom">
+            <value>5731963.76444087</value>
+          </Data>
+          <Data name="layer">
+            <value>Cottbus_Nutzberg_9Points</value>
+          </Data>
+          <Data name="path">
+            <value>D:/Users/konlavach/Desktop/AIA_Meeting/2023_06_23/Study_Sites/Survey_Points/Cottbus/Cottbus_Nutzberg_9Points.kml|layername=Cottbus_Nutzberg_9Points</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            14.3997667,51.7360689,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <description><![CDATA[description: <br>tessellate: -1<br>extrude: 0<br>visibility: -1<br>id: 8<br>left: 458563.824049783<br>top: 5731713.76444087<br>right: 458688.824049783<br>bottom: 5731838.76444087<br>layer: Cottbus_Nutzberg_9Points<br>path: D:/Users/konlavach/Desktop/AIA_Meeting/2023_06_23/Study_Sites/Survey_Points/Cottbus/Cottbus_Nutzberg_9Points.kml|layername=Cottbus_Nutzberg_9Points]]></description>
+        <styleUrl>#icon-1535-A52714-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="tessellate">
+            <value>-1</value>
+          </Data>
+          <Data name="extrude">
+            <value>0</value>
+          </Data>
+          <Data name="visibility">
+            <value>-1</value>
+          </Data>
+          <Data name="id">
+            <value>8</value>
+          </Data>
+          <Data name="left">
+            <value>458563.824049783</value>
+          </Data>
+          <Data name="top">
+            <value>5731713.76444087</value>
+          </Data>
+          <Data name="right">
+            <value>458688.824049783</value>
+          </Data>
+          <Data name="bottom">
+            <value>5731838.76444087</value>
+          </Data>
+          <Data name="layer">
+            <value>Cottbus_Nutzberg_9Points</value>
+          </Data>
+          <Data name="path">
+            <value>D:/Users/konlavach/Desktop/AIA_Meeting/2023_06_23/Study_Sites/Survey_Points/Cottbus/Cottbus_Nutzberg_9Points.kml|layername=Cottbus_Nutzberg_9Points</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            14.3994507,51.7357206,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <description><![CDATA[description: <br>tessellate: -1<br>extrude: 0<br>visibility: -1<br>id: 9<br>left: 458563.824049783<br>top: 5731588.76444087<br>right: 458688.824049783<br>bottom: 5731713.76444087<br>layer: Cottbus_Nutzberg_9Points<br>path: D:/Users/konlavach/Desktop/AIA_Meeting/2023_06_23/Study_Sites/Survey_Points/Cottbus/Cottbus_Nutzberg_9Points.kml|layername=Cottbus_Nutzberg_9Points]]></description>
+        <styleUrl>#icon-1535-A52714-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="tessellate">
+            <value>-1</value>
+          </Data>
+          <Data name="extrude">
+            <value>0</value>
+          </Data>
+          <Data name="visibility">
+            <value>-1</value>
+          </Data>
+          <Data name="id">
+            <value>9</value>
+          </Data>
+          <Data name="left">
+            <value>458563.824049783</value>
+          </Data>
+          <Data name="top">
+            <value>5731588.76444087</value>
+          </Data>
+          <Data name="right">
+            <value>458688.824049783</value>
+          </Data>
+          <Data name="bottom">
+            <value>5731713.76444087</value>
+          </Data>
+          <Data name="layer">
+            <value>Cottbus_Nutzberg_9Points</value>
+          </Data>
+          <Data name="path">
+            <value>D:/Users/konlavach/Desktop/AIA_Meeting/2023_06_23/Study_Sites/Survey_Points/Cottbus/Cottbus_Nutzberg_9Points.kml|layername=Cottbus_Nutzberg_9Points</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            14.3995838,51.7335827,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <description><![CDATA[description: <br>tessellate: -1<br>extrude: 0<br>visibility: -1<br>id: 1<br>left: 459439.871738326<br>top: 5732890.39333274<br>right: 459564.871738326<br>bottom: 5733015.39333274<br>layer: Cottbus_SmallTown_9Points<br>path: D:/Users/konlavach/Desktop/AIA_Meeting/2023_06_23/Study_Sites/Survey_Points/Cottbus/Cottbus_SmallTown_9Points.kml|layername=Cottbus_SmallTown_9Points]]></description>
+        <styleUrl>#icon-1535-0097A7-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="tessellate">
+            <value>-1</value>
+          </Data>
+          <Data name="extrude">
+            <value>0</value>
+          </Data>
+          <Data name="visibility">
+            <value>-1</value>
+          </Data>
+          <Data name="id">
+            <value>1</value>
+          </Data>
+          <Data name="left">
+            <value>459439.871738326</value>
+          </Data>
+          <Data name="top">
+            <value>5732890.39333274</value>
+          </Data>
+          <Data name="right">
+            <value>459564.871738326</value>
+          </Data>
+          <Data name="bottom">
+            <value>5733015.39333274</value>
+          </Data>
+          <Data name="layer">
+            <value>Cottbus_SmallTown_9Points</value>
+          </Data>
+          <Data name="path">
+            <value>D:/Users/konlavach/Desktop/AIA_Meeting/2023_06_23/Study_Sites/Survey_Points/Cottbus/Cottbus_SmallTown_9Points.kml|layername=Cottbus_SmallTown_9Points</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            14.4111756,51.744718,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <description><![CDATA[description: <br>tessellate: -1<br>extrude: 0<br>visibility: -1<br>id: 2<br>left: 459439.871738326<br>top: 5732765.39333274<br>right: 459564.871738326<br>bottom: 5732890.39333274<br>layer: Cottbus_SmallTown_9Points<br>path: D:/Users/konlavach/Desktop/AIA_Meeting/2023_06_23/Study_Sites/Survey_Points/Cottbus/Cottbus_SmallTown_9Points.kml|layername=Cottbus_SmallTown_9Points]]></description>
+        <styleUrl>#icon-1535-0097A7-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="tessellate">
+            <value>-1</value>
+          </Data>
+          <Data name="extrude">
+            <value>0</value>
+          </Data>
+          <Data name="visibility">
+            <value>-1</value>
+          </Data>
+          <Data name="id">
+            <value>2</value>
+          </Data>
+          <Data name="left">
+            <value>459439.871738326</value>
+          </Data>
+          <Data name="top">
+            <value>5732765.39333274</value>
+          </Data>
+          <Data name="right">
+            <value>459564.871738326</value>
+          </Data>
+          <Data name="bottom">
+            <value>5732890.39333274</value>
+          </Data>
+          <Data name="layer">
+            <value>Cottbus_SmallTown_9Points</value>
+          </Data>
+          <Data name="path">
+            <value>D:/Users/konlavach/Desktop/AIA_Meeting/2023_06_23/Study_Sites/Survey_Points/Cottbus/Cottbus_SmallTown_9Points.kml|layername=Cottbus_SmallTown_9Points</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            14.4129767,51.7444416,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <description><![CDATA[description: <br>tessellate: -1<br>extrude: 0<br>visibility: -1<br>id: 3<br>left: 459439.871738326<br>top: 5732640.39333274<br>right: 459564.871738326<br>bottom: 5732765.39333274<br>layer: Cottbus_SmallTown_9Points<br>path: D:/Users/konlavach/Desktop/AIA_Meeting/2023_06_23/Study_Sites/Survey_Points/Cottbus/Cottbus_SmallTown_9Points.kml|layername=Cottbus_SmallTown_9Points]]></description>
+        <styleUrl>#icon-1535-0097A7-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="tessellate">
+            <value>-1</value>
+          </Data>
+          <Data name="extrude">
+            <value>0</value>
+          </Data>
+          <Data name="visibility">
+            <value>-1</value>
+          </Data>
+          <Data name="id">
+            <value>3</value>
+          </Data>
+          <Data name="left">
+            <value>459439.871738326</value>
+          </Data>
+          <Data name="top">
+            <value>5732640.39333274</value>
+          </Data>
+          <Data name="right">
+            <value>459564.871738326</value>
+          </Data>
+          <Data name="bottom">
+            <value>5732765.39333274</value>
+          </Data>
+          <Data name="layer">
+            <value>Cottbus_SmallTown_9Points</value>
+          </Data>
+          <Data name="path">
+            <value>D:/Users/konlavach/Desktop/AIA_Meeting/2023_06_23/Study_Sites/Survey_Points/Cottbus/Cottbus_SmallTown_9Points.kml|layername=Cottbus_SmallTown_9Points</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            14.4111986,51.7442235,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <description><![CDATA[description: <br>tessellate: -1<br>extrude: 0<br>visibility: -1<br>id: 4<br>left: 459564.871738326<br>top: 5732890.39333274<br>right: 459689.871738326<br>bottom: 5733015.39333274<br>layer: Cottbus_SmallTown_9Points<br>path: D:/Users/konlavach/Desktop/AIA_Meeting/2023_06_23/Study_Sites/Survey_Points/Cottbus/Cottbus_SmallTown_9Points.kml|layername=Cottbus_SmallTown_9Points]]></description>
+        <styleUrl>#icon-1535-0097A7-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="tessellate">
+            <value>-1</value>
+          </Data>
+          <Data name="extrude">
+            <value>0</value>
+          </Data>
+          <Data name="visibility">
+            <value>-1</value>
+          </Data>
+          <Data name="id">
+            <value>4</value>
+          </Data>
+          <Data name="left">
+            <value>459564.871738326</value>
+          </Data>
+          <Data name="top">
+            <value>5732890.39333274</value>
+          </Data>
+          <Data name="right">
+            <value>459689.871738326</value>
+          </Data>
+          <Data name="bottom">
+            <value>5733015.39333274</value>
+          </Data>
+          <Data name="layer">
+            <value>Cottbus_SmallTown_9Points</value>
+          </Data>
+          <Data name="path">
+            <value>D:/Users/konlavach/Desktop/AIA_Meeting/2023_06_23/Study_Sites/Survey_Points/Cottbus/Cottbus_SmallTown_9Points.kml|layername=Cottbus_SmallTown_9Points</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            14.413909,51.7455703,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <description><![CDATA[description: <br>tessellate: -1<br>extrude: 0<br>visibility: -1<br>id: 5<br>left: 459564.871738326<br>top: 5732765.39333274<br>right: 459689.871738326<br>bottom: 5732890.39333274<br>layer: Cottbus_SmallTown_9Points<br>path: D:/Users/konlavach/Desktop/AIA_Meeting/2023_06_23/Study_Sites/Survey_Points/Cottbus/Cottbus_SmallTown_9Points.kml|layername=Cottbus_SmallTown_9Points]]></description>
+        <styleUrl>#icon-1535-0097A7-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="tessellate">
+            <value>-1</value>
+          </Data>
+          <Data name="extrude">
+            <value>0</value>
+          </Data>
+          <Data name="visibility">
+            <value>-1</value>
+          </Data>
+          <Data name="id">
+            <value>5</value>
+          </Data>
+          <Data name="left">
+            <value>459564.871738326</value>
+          </Data>
+          <Data name="top">
+            <value>5732765.39333274</value>
+          </Data>
+          <Data name="right">
+            <value>459689.871738326</value>
+          </Data>
+          <Data name="bottom">
+            <value>5732890.39333274</value>
+          </Data>
+          <Data name="layer">
+            <value>Cottbus_SmallTown_9Points</value>
+          </Data>
+          <Data name="path">
+            <value>D:/Users/konlavach/Desktop/AIA_Meeting/2023_06_23/Study_Sites/Survey_Points/Cottbus/Cottbus_SmallTown_9Points.kml|layername=Cottbus_SmallTown_9Points</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            14.4143907,51.7443011,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <description><![CDATA[description: <br>tessellate: -1<br>extrude: 0<br>visibility: -1<br>id: 6<br>left: 459564.871738326<br>top: 5732640.39333274<br>right: 459689.871738326<br>bottom: 5732765.39333274<br>layer: Cottbus_SmallTown_9Points<br>path: D:/Users/konlavach/Desktop/AIA_Meeting/2023_06_23/Study_Sites/Survey_Points/Cottbus/Cottbus_SmallTown_9Points.kml|layername=Cottbus_SmallTown_9Points]]></description>
+        <styleUrl>#icon-1535-0097A7-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="tessellate">
+            <value>-1</value>
+          </Data>
+          <Data name="extrude">
+            <value>0</value>
+          </Data>
+          <Data name="visibility">
+            <value>-1</value>
+          </Data>
+          <Data name="id">
+            <value>6</value>
+          </Data>
+          <Data name="left">
+            <value>459564.871738326</value>
+          </Data>
+          <Data name="top">
+            <value>5732640.39333274</value>
+          </Data>
+          <Data name="right">
+            <value>459689.871738326</value>
+          </Data>
+          <Data name="bottom">
+            <value>5732765.39333274</value>
+          </Data>
+          <Data name="layer">
+            <value>Cottbus_SmallTown_9Points</value>
+          </Data>
+          <Data name="path">
+            <value>D:/Users/konlavach/Desktop/AIA_Meeting/2023_06_23/Study_Sites/Survey_Points/Cottbus/Cottbus_SmallTown_9Points.kml|layername=Cottbus_SmallTown_9Points</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            14.4141311,51.7432402,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <description><![CDATA[description: <br>tessellate: -1<br>extrude: 0<br>visibility: -1<br>id: 7<br>left: 459689.871738326<br>top: 5732890.39333274<br>right: 459814.871738326<br>bottom: 5733015.39333274<br>layer: Cottbus_SmallTown_9Points<br>path: D:/Users/konlavach/Desktop/AIA_Meeting/2023_06_23/Study_Sites/Survey_Points/Cottbus/Cottbus_SmallTown_9Points.kml|layername=Cottbus_SmallTown_9Points]]></description>
+        <styleUrl>#icon-1535-0097A7-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="tessellate">
+            <value>-1</value>
+          </Data>
+          <Data name="extrude">
+            <value>0</value>
+          </Data>
+          <Data name="visibility">
+            <value>-1</value>
+          </Data>
+          <Data name="id">
+            <value>7</value>
+          </Data>
+          <Data name="left">
+            <value>459689.871738326</value>
+          </Data>
+          <Data name="top">
+            <value>5732890.39333274</value>
+          </Data>
+          <Data name="right">
+            <value>459814.871738326</value>
+          </Data>
+          <Data name="bottom">
+            <value>5733015.39333274</value>
+          </Data>
+          <Data name="layer">
+            <value>Cottbus_SmallTown_9Points</value>
+          </Data>
+          <Data name="path">
+            <value>D:/Users/konlavach/Desktop/AIA_Meeting/2023_06_23/Study_Sites/Survey_Points/Cottbus/Cottbus_SmallTown_9Points.kml|layername=Cottbus_SmallTown_9Points</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            14.4162551,51.7454531,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <description><![CDATA[description: <br>tessellate: -1<br>extrude: 0<br>visibility: -1<br>id: 8<br>left: 459689.871738326<br>top: 5732765.39333274<br>right: 459814.871738326<br>bottom: 5732890.39333274<br>layer: Cottbus_SmallTown_9Points<br>path: D:/Users/konlavach/Desktop/AIA_Meeting/2023_06_23/Study_Sites/Survey_Points/Cottbus/Cottbus_SmallTown_9Points.kml|layername=Cottbus_SmallTown_9Points]]></description>
+        <styleUrl>#icon-1535-0097A7-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="tessellate">
+            <value>-1</value>
+          </Data>
+          <Data name="extrude">
+            <value>0</value>
+          </Data>
+          <Data name="visibility">
+            <value>-1</value>
+          </Data>
+          <Data name="id">
+            <value>8</value>
+          </Data>
+          <Data name="left">
+            <value>459689.871738326</value>
+          </Data>
+          <Data name="top">
+            <value>5732765.39333274</value>
+          </Data>
+          <Data name="right">
+            <value>459814.871738326</value>
+          </Data>
+          <Data name="bottom">
+            <value>5732890.39333274</value>
+          </Data>
+          <Data name="layer">
+            <value>Cottbus_SmallTown_9Points</value>
+          </Data>
+          <Data name="path">
+            <value>D:/Users/konlavach/Desktop/AIA_Meeting/2023_06_23/Study_Sites/Survey_Points/Cottbus/Cottbus_SmallTown_9Points.kml|layername=Cottbus_SmallTown_9Points</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            14.4158493,51.7441175,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <description><![CDATA[description: <br>tessellate: -1<br>extrude: 0<br>visibility: -1<br>id: 9<br>left: 459689.871738326<br>top: 5732640.39333274<br>right: 459814.871738326<br>bottom: 5732765.39333274<br>layer: Cottbus_SmallTown_9Points<br>path: D:/Users/konlavach/Desktop/AIA_Meeting/2023_06_23/Study_Sites/Survey_Points/Cottbus/Cottbus_SmallTown_9Points.kml|layername=Cottbus_SmallTown_9Points]]></description>
+        <styleUrl>#icon-1535-0097A7-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="tessellate">
+            <value>-1</value>
+          </Data>
+          <Data name="extrude">
+            <value>0</value>
+          </Data>
+          <Data name="visibility">
+            <value>-1</value>
+          </Data>
+          <Data name="id">
+            <value>9</value>
+          </Data>
+          <Data name="left">
+            <value>459689.871738326</value>
+          </Data>
+          <Data name="top">
+            <value>5732640.39333274</value>
+          </Data>
+          <Data name="right">
+            <value>459814.871738326</value>
+          </Data>
+          <Data name="bottom">
+            <value>5732765.39333274</value>
+          </Data>
+          <Data name="layer">
+            <value>Cottbus_SmallTown_9Points</value>
+          </Data>
+          <Data name="path">
+            <value>D:/Users/konlavach/Desktop/AIA_Meeting/2023_06_23/Study_Sites/Survey_Points/Cottbus/Cottbus_SmallTown_9Points.kml|layername=Cottbus_SmallTown_9Points</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            14.4174991,51.7437267,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

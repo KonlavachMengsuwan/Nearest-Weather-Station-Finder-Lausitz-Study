@@ -1,0 +1,1977 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Konlavach: AgroBaLa Site</name>
+    <description><![CDATA[Survey Date: 15.08.2023<br>By: Konlavach Mengsuwan]]></description>
+    <Style id="icon-1535-006064-labelson">
+      <IconStyle>
+        <color>ff646000</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="icon-1535-097138-labelson">
+      <IconStyle>
+        <color>ff387109</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="icon-1535-817717-labelson">
+      <IconStyle>
+        <color>ff177781</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="icon-1535-FBC02D-labelson">
+      <IconStyle>
+        <color>ff2dc0fb</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="poly-558B2F-8001-0-normal">
+      <LineStyle>
+        <color>ff2f8b55</color>
+        <width>8.001</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>002f8b55</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <Style id="poly-558B2F-8001-0-highlight">
+      <LineStyle>
+        <color>ff2f8b55</color>
+        <width>12.0015</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>002f8b55</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <StyleMap id="poly-558B2F-8001-0">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#poly-558B2F-8001-0-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#poly-558B2F-8001-0-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="poly-817717-8300-0-normal">
+      <LineStyle>
+        <color>ff177781</color>
+        <width>8.3</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>00177781</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <Style id="poly-817717-8300-0-highlight">
+      <LineStyle>
+        <color>ff177781</color>
+        <width>12.45</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>00177781</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <StyleMap id="poly-817717-8300-0">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#poly-817717-8300-0-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#poly-817717-8300-0-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="poly-F57C00-7901-0-normal">
+      <LineStyle>
+        <color>ff007cf5</color>
+        <width>7.901</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>00007cf5</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <Style id="poly-F57C00-7901-0-highlight">
+      <LineStyle>
+        <color>ff007cf5</color>
+        <width>11.8515</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>00007cf5</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <StyleMap id="poly-F57C00-7901-0">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#poly-F57C00-7901-0-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#poly-F57C00-7901-0-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="poly-FF5252-8300-0-normal">
+      <LineStyle>
+        <color>ff5252ff</color>
+        <width>8.3</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>005252ff</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <Style id="poly-FF5252-8300-0-highlight">
+      <LineStyle>
+        <color>ff5252ff</color>
+        <width>12.45</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>005252ff</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <StyleMap id="poly-FF5252-8300-0">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#poly-FF5252-8300-0-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#poly-FF5252-8300-0-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>LIL_KliBioTo_StudySites2023</name>
+      <Placemark>
+        <name>AgroBaLa - Peickwitz</name>
+        <description><![CDATA[description: <br>id: 4<br>Block_Name: AgroBaLa - Peickwitz<br>Site_Name: AgroBaLa - Peickwitz<br>area: 250000<br>perimeter: 2000<br>layer: LIL-KliBioTo-2023_AgroBaLa-Peickwitz AgroBaLa_Peickwitz_Extents<br>path: D:/Users/konlavach/Desktop/Study_Plan/2023_06_07_Updated_Request Price Quotation/Cottbus/LIL-KliBioTo-2023_AgroBaLa-Peickwitz.kml|layername=AgroBaLa_Peickwitz_Extents]]></description>
+        <styleUrl>#poly-817717-8300-0</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="id">
+            <value>4</value>
+          </Data>
+          <Data name="Block_Name">
+            <value>AgroBaLa - Peickwitz</value>
+          </Data>
+          <Data name="Site_Name">
+            <value>AgroBaLa - Peickwitz</value>
+          </Data>
+          <Data name="area">
+            <value>250000</value>
+          </Data>
+          <Data name="perimeter">
+            <value>2000</value>
+          </Data>
+          <Data name="layer">
+            <value>LIL-KliBioTo-2023_AgroBaLa-Peickwitz AgroBaLa_Peickwitz_Extents</value>
+          </Data>
+          <Data name="path">
+            <value>D:/Users/konlavach/Desktop/Study_Plan/2023_06_07_Updated_Request Price Quotation/Cottbus/LIL-KliBioTo-2023_AgroBaLa-Peickwitz.kml|layername=AgroBaLa_Peickwitz_Extents</value>
+          </Data>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                13.975996,51.462081,0
+                13.9688,51.462018,0
+                13.968901,51.457523,0
+                13.976097,51.457586,0
+                13.975996,51.462081,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>AgroBaLa_IsolatedTreeConservation</name>
+        <description><![CDATA[description: <br>id: 5<br>Block_Name: Isolated Tree Conservation<br>Site_Name: AgroBaLa - Peickwitz<br>area: 250000<br>perimeter: 2000<br>layer: LIL-KliBioTo-2023_AgroBaLa-Peickwitz AgroBaLa_Peickwitz_Extents<br>path: D:/Users/konlavach/Desktop/Study_Plan/2023_06_07_Updated_Request Price Quotation/Cottbus/LIL-KliBioTo-2023_AgroBaLa-Peickwitz.kml|layername=AgroBaLa_Peickwitz_Extents]]></description>
+        <styleUrl>#poly-558B2F-8001-0</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="id">
+            <value>5</value>
+          </Data>
+          <Data name="Block_Name">
+            <value>Isolated Tree Conservation</value>
+          </Data>
+          <Data name="Site_Name">
+            <value>AgroBaLa - Peickwitz</value>
+          </Data>
+          <Data name="area">
+            <value>250000</value>
+          </Data>
+          <Data name="perimeter">
+            <value>2000</value>
+          </Data>
+          <Data name="layer">
+            <value>LIL-KliBioTo-2023_AgroBaLa-Peickwitz AgroBaLa_Peickwitz_Extents</value>
+          </Data>
+          <Data name="path">
+            <value>D:/Users/konlavach/Desktop/Study_Plan/2023_06_07_Updated_Request Price Quotation/Cottbus/LIL-KliBioTo-2023_AgroBaLa-Peickwitz.kml|layername=AgroBaLa_Peickwitz_Extents</value>
+          </Data>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                13.978758,51.457845,0
+                13.971563,51.457782,0
+                13.971664,51.453287,0
+                13.978859,51.453349,0
+                13.978758,51.457845,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>AgroBaLa_OpenSpaceField</name>
+        <description><![CDATA[description: <br>id: 6<br>Block_Name: Open space field<br>Site_Name: AgroBaLa - Peickwitz<br>area: 249999.999511719<br>perimeter: 2000<br>layer: LIL-KliBioTo-2023_AgroBaLa-Peickwitz AgroBaLa_Peickwitz_Extents<br>path: D:/Users/konlavach/Desktop/Study_Plan/2023_06_07_Updated_Request Price Quotation/Cottbus/LIL-KliBioTo-2023_AgroBaLa-Peickwitz.kml|layername=AgroBaLa_Peickwitz_Extents]]></description>
+        <styleUrl>#poly-F57C00-7901-0</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="id">
+            <value>6</value>
+          </Data>
+          <Data name="Block_Name">
+            <value>Open space field</value>
+          </Data>
+          <Data name="Site_Name">
+            <value>AgroBaLa - Peickwitz</value>
+          </Data>
+          <Data name="area">
+            <value>249999.999511719</value>
+          </Data>
+          <Data name="perimeter">
+            <value>2000</value>
+          </Data>
+          <Data name="layer">
+            <value>LIL-KliBioTo-2023_AgroBaLa-Peickwitz AgroBaLa_Peickwitz_Extents</value>
+          </Data>
+          <Data name="path">
+            <value>D:/Users/konlavach/Desktop/Study_Plan/2023_06_07_Updated_Request Price Quotation/Cottbus/LIL-KliBioTo-2023_AgroBaLa-Peickwitz.kml|layername=AgroBaLa_Peickwitz_Extents</value>
+          </Data>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                13.968012,51.460385,0
+                13.960816,51.460322,0
+                13.960918,51.455826,0
+                13.968113,51.45589,0
+                13.968012,51.460385,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>AgroBaLa_PV </name>
+        <description><![CDATA[description: <br>id: 7<br>Block_Name: PV<br>Site_Name: AgroBaLa - Peickwitz<br>area: 249999.999511719<br>perimeter: 2000<br>layer: LIL-KliBioTo-2023_AgroBaLa-Peickwitz AgroBaLa_Peickwitz_Extents<br>path: D:/Users/konlavach/Desktop/Study_Plan/2023_06_07_Updated_Request Price Quotation/Cottbus/LIL-KliBioTo-2023_AgroBaLa-Peickwitz.kml|layername=AgroBaLa_Peickwitz_Extents]]></description>
+        <styleUrl>#poly-FF5252-8300-0</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="id">
+            <value>7</value>
+          </Data>
+          <Data name="Block_Name">
+            <value>PV</value>
+          </Data>
+          <Data name="Site_Name">
+            <value>AgroBaLa - Peickwitz</value>
+          </Data>
+          <Data name="area">
+            <value>249999.999511719</value>
+          </Data>
+          <Data name="perimeter">
+            <value>2000</value>
+          </Data>
+          <Data name="layer">
+            <value>LIL-KliBioTo-2023_AgroBaLa-Peickwitz AgroBaLa_Peickwitz_Extents</value>
+          </Data>
+          <Data name="path">
+            <value>D:/Users/konlavach/Desktop/Study_Plan/2023_06_07_Updated_Request Price Quotation/Cottbus/LIL-KliBioTo-2023_AgroBaLa-Peickwitz.kml|layername=AgroBaLa_Peickwitz_Extents</value>
+          </Data>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                13.98715,51.451735,0
+                13.979955,51.451673,0
+                13.980055,51.447177,0
+                13.987249,51.44724,0
+                13.98715,51.451735,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Survey_Points_2023_ALL</name>
+      <Placemark>
+        <name/>
+        <description><![CDATA[description: <br>tessellate: -1<br>extrude: 0<br>visibility: -1<br>id: 1<br>left: 428666.267311998<br>top: 5701117.53420139<br>right: 428791.267311998<br>bottom: 5701242.53420139<br>layer: AgroBaLa_IsolatedTreeConservation_9Points LIL_KliBioTo_StudySites_Extents_AgroBaLa___Isolated_Tree_Conservation_Points<br>path: D:/Users/konlavach/Desktop/AIA_Meeting/2023_06_23/Study_Sites/Survey_Points/AgroBaLa/AgroBaLa_IsolatedTreeConservation_9Points.kml|layername=LIL_KliBioTo_StudySites_Extents_AgroBaLa___Isolated_Tree_Conservation_Points]]></description>
+        <styleUrl>#icon-1535-817717-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="tessellate">
+            <value>-1</value>
+          </Data>
+          <Data name="extrude">
+            <value>0</value>
+          </Data>
+          <Data name="visibility">
+            <value>-1</value>
+          </Data>
+          <Data name="id">
+            <value>1</value>
+          </Data>
+          <Data name="left">
+            <value>428666.267311998</value>
+          </Data>
+          <Data name="top">
+            <value>5701117.53420139</value>
+          </Data>
+          <Data name="right">
+            <value>428791.267311998</value>
+          </Data>
+          <Data name="bottom">
+            <value>5701242.53420139</value>
+          </Data>
+          <Data name="layer">
+            <value>AgroBaLa_IsolatedTreeConservation_9Points LIL_KliBioTo_StudySites_Extents_AgroBaLa___Isolated_Tree_Conservation_Points</value>
+          </Data>
+          <Data name="path">
+            <value>D:/Users/konlavach/Desktop/AIA_Meeting/2023_06_23/Study_Sites/Survey_Points/AgroBaLa/AgroBaLa_IsolatedTreeConservation_9Points.kml|layername=LIL_KliBioTo_StudySites_Extents_AgroBaLa___Isolated_Tree_Conservation_Points</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            13.9781773,51.4570059,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <description><![CDATA[description: <br>tessellate: -1<br>extrude: 0<br>visibility: -1<br>id: 2<br>left: 428666.267311998<br>top: 5700992.53420139<br>right: 428791.267311998<br>bottom: 5701117.53420139<br>layer: AgroBaLa_IsolatedTreeConservation_9Points LIL_KliBioTo_StudySites_Extents_AgroBaLa___Isolated_Tree_Conservation_Points<br>path: D:/Users/konlavach/Desktop/AIA_Meeting/2023_06_23/Study_Sites/Survey_Points/AgroBaLa/AgroBaLa_IsolatedTreeConservation_9Points.kml|layername=LIL_KliBioTo_StudySites_Extents_AgroBaLa___Isolated_Tree_Conservation_Points]]></description>
+        <styleUrl>#icon-1535-817717-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="tessellate">
+            <value>-1</value>
+          </Data>
+          <Data name="extrude">
+            <value>0</value>
+          </Data>
+          <Data name="visibility">
+            <value>-1</value>
+          </Data>
+          <Data name="id">
+            <value>2</value>
+          </Data>
+          <Data name="left">
+            <value>428666.267311998</value>
+          </Data>
+          <Data name="top">
+            <value>5700992.53420139</value>
+          </Data>
+          <Data name="right">
+            <value>428791.267311998</value>
+          </Data>
+          <Data name="bottom">
+            <value>5701117.53420139</value>
+          </Data>
+          <Data name="layer">
+            <value>AgroBaLa_IsolatedTreeConservation_9Points LIL_KliBioTo_StudySites_Extents_AgroBaLa___Isolated_Tree_Conservation_Points</value>
+          </Data>
+          <Data name="path">
+            <value>D:/Users/konlavach/Desktop/AIA_Meeting/2023_06_23/Study_Sites/Survey_Points/AgroBaLa/AgroBaLa_IsolatedTreeConservation_9Points.kml|layername=LIL_KliBioTo_StudySites_Extents_AgroBaLa___Isolated_Tree_Conservation_Points</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            13.9779663,51.4553713,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <description><![CDATA[description: <br>tessellate: -1<br>extrude: 0<br>visibility: -1<br>id: 3<br>left: 428666.267311998<br>top: 5700867.53420139<br>right: 428791.267311998<br>bottom: 5700992.53420139<br>layer: AgroBaLa_IsolatedTreeConservation_9Points LIL_KliBioTo_StudySites_Extents_AgroBaLa___Isolated_Tree_Conservation_Points<br>path: D:/Users/konlavach/Desktop/AIA_Meeting/2023_06_23/Study_Sites/Survey_Points/AgroBaLa/AgroBaLa_IsolatedTreeConservation_9Points.kml|layername=LIL_KliBioTo_StudySites_Extents_AgroBaLa___Isolated_Tree_Conservation_Points]]></description>
+        <styleUrl>#icon-1535-817717-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="tessellate">
+            <value>-1</value>
+          </Data>
+          <Data name="extrude">
+            <value>0</value>
+          </Data>
+          <Data name="visibility">
+            <value>-1</value>
+          </Data>
+          <Data name="id">
+            <value>3</value>
+          </Data>
+          <Data name="left">
+            <value>428666.267311998</value>
+          </Data>
+          <Data name="top">
+            <value>5700867.53420139</value>
+          </Data>
+          <Data name="right">
+            <value>428791.267311998</value>
+          </Data>
+          <Data name="bottom">
+            <value>5700992.53420139</value>
+          </Data>
+          <Data name="layer">
+            <value>AgroBaLa_IsolatedTreeConservation_9Points LIL_KliBioTo_StudySites_Extents_AgroBaLa___Isolated_Tree_Conservation_Points</value>
+          </Data>
+          <Data name="path">
+            <value>D:/Users/konlavach/Desktop/AIA_Meeting/2023_06_23/Study_Sites/Survey_Points/AgroBaLa/AgroBaLa_IsolatedTreeConservation_9Points.kml|layername=LIL_KliBioTo_StudySites_Extents_AgroBaLa___Isolated_Tree_Conservation_Points</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            13.9785666,51.4538955,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <description><![CDATA[description: <br>tessellate: -1<br>extrude: 0<br>visibility: -1<br>id: 4<br>left: 428791.267311998<br>top: 5701117.53420139<br>right: 428916.267311998<br>bottom: 5701242.53420139<br>layer: AgroBaLa_IsolatedTreeConservation_9Points LIL_KliBioTo_StudySites_Extents_AgroBaLa___Isolated_Tree_Conservation_Points<br>path: D:/Users/konlavach/Desktop/AIA_Meeting/2023_06_23/Study_Sites/Survey_Points/AgroBaLa/AgroBaLa_IsolatedTreeConservation_9Points.kml|layername=LIL_KliBioTo_StudySites_Extents_AgroBaLa___Isolated_Tree_Conservation_Points]]></description>
+        <styleUrl>#icon-1535-817717-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="tessellate">
+            <value>-1</value>
+          </Data>
+          <Data name="extrude">
+            <value>0</value>
+          </Data>
+          <Data name="visibility">
+            <value>-1</value>
+          </Data>
+          <Data name="id">
+            <value>4</value>
+          </Data>
+          <Data name="left">
+            <value>428791.267311998</value>
+          </Data>
+          <Data name="top">
+            <value>5701117.53420139</value>
+          </Data>
+          <Data name="right">
+            <value>428916.267311998</value>
+          </Data>
+          <Data name="bottom">
+            <value>5701242.53420139</value>
+          </Data>
+          <Data name="layer">
+            <value>AgroBaLa_IsolatedTreeConservation_9Points LIL_KliBioTo_StudySites_Extents_AgroBaLa___Isolated_Tree_Conservation_Points</value>
+          </Data>
+          <Data name="path">
+            <value>D:/Users/konlavach/Desktop/AIA_Meeting/2023_06_23/Study_Sites/Survey_Points/AgroBaLa/AgroBaLa_IsolatedTreeConservation_9Points.kml|layername=LIL_KliBioTo_StudySites_Extents_AgroBaLa___Isolated_Tree_Conservation_Points</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            13.9782896,51.4573652,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <description><![CDATA[description: <br>tessellate: -1<br>extrude: 0<br>visibility: -1<br>id: 5<br>left: 428791.267311998<br>top: 5700992.53420139<br>right: 428916.267311998<br>bottom: 5701117.53420139<br>layer: AgroBaLa_IsolatedTreeConservation_9Points LIL_KliBioTo_StudySites_Extents_AgroBaLa___Isolated_Tree_Conservation_Points<br>path: D:/Users/konlavach/Desktop/AIA_Meeting/2023_06_23/Study_Sites/Survey_Points/AgroBaLa/AgroBaLa_IsolatedTreeConservation_9Points.kml|layername=LIL_KliBioTo_StudySites_Extents_AgroBaLa___Isolated_Tree_Conservation_Points]]></description>
+        <styleUrl>#icon-1535-817717-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="tessellate">
+            <value>-1</value>
+          </Data>
+          <Data name="extrude">
+            <value>0</value>
+          </Data>
+          <Data name="visibility">
+            <value>-1</value>
+          </Data>
+          <Data name="id">
+            <value>5</value>
+          </Data>
+          <Data name="left">
+            <value>428791.267311998</value>
+          </Data>
+          <Data name="top">
+            <value>5700992.53420139</value>
+          </Data>
+          <Data name="right">
+            <value>428916.267311998</value>
+          </Data>
+          <Data name="bottom">
+            <value>5701117.53420139</value>
+          </Data>
+          <Data name="layer">
+            <value>AgroBaLa_IsolatedTreeConservation_9Points LIL_KliBioTo_StudySites_Extents_AgroBaLa___Isolated_Tree_Conservation_Points</value>
+          </Data>
+          <Data name="path">
+            <value>D:/Users/konlavach/Desktop/AIA_Meeting/2023_06_23/Study_Sites/Survey_Points/AgroBaLa/AgroBaLa_IsolatedTreeConservation_9Points.kml|layername=LIL_KliBioTo_StudySites_Extents_AgroBaLa___Isolated_Tree_Conservation_Points</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            13.9778234,51.4561327,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <description><![CDATA[description: <br>tessellate: -1<br>extrude: 0<br>visibility: -1<br>id: 6<br>left: 428791.267311998<br>top: 5700867.53420139<br>right: 428916.267311998<br>bottom: 5700992.53420139<br>layer: AgroBaLa_IsolatedTreeConservation_9Points LIL_KliBioTo_StudySites_Extents_AgroBaLa___Isolated_Tree_Conservation_Points<br>path: D:/Users/konlavach/Desktop/AIA_Meeting/2023_06_23/Study_Sites/Survey_Points/AgroBaLa/AgroBaLa_IsolatedTreeConservation_9Points.kml|layername=LIL_KliBioTo_StudySites_Extents_AgroBaLa___Isolated_Tree_Conservation_Points]]></description>
+        <styleUrl>#icon-1535-817717-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="tessellate">
+            <value>-1</value>
+          </Data>
+          <Data name="extrude">
+            <value>0</value>
+          </Data>
+          <Data name="visibility">
+            <value>-1</value>
+          </Data>
+          <Data name="id">
+            <value>6</value>
+          </Data>
+          <Data name="left">
+            <value>428791.267311998</value>
+          </Data>
+          <Data name="top">
+            <value>5700867.53420139</value>
+          </Data>
+          <Data name="right">
+            <value>428916.267311998</value>
+          </Data>
+          <Data name="bottom">
+            <value>5700992.53420139</value>
+          </Data>
+          <Data name="layer">
+            <value>AgroBaLa_IsolatedTreeConservation_9Points LIL_KliBioTo_StudySites_Extents_AgroBaLa___Isolated_Tree_Conservation_Points</value>
+          </Data>
+          <Data name="path">
+            <value>D:/Users/konlavach/Desktop/AIA_Meeting/2023_06_23/Study_Sites/Survey_Points/AgroBaLa/AgroBaLa_IsolatedTreeConservation_9Points.kml|layername=LIL_KliBioTo_StudySites_Extents_AgroBaLa___Isolated_Tree_Conservation_Points</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            13.9781059,51.4550447,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <description><![CDATA[description: <br>tessellate: -1<br>extrude: 0<br>visibility: -1<br>id: 7<br>left: 428916.267311998<br>top: 5701117.53420139<br>right: 429041.267311998<br>bottom: 5701242.53420139<br>layer: AgroBaLa_IsolatedTreeConservation_9Points LIL_KliBioTo_StudySites_Extents_AgroBaLa___Isolated_Tree_Conservation_Points<br>path: D:/Users/konlavach/Desktop/AIA_Meeting/2023_06_23/Study_Sites/Survey_Points/AgroBaLa/AgroBaLa_IsolatedTreeConservation_9Points.kml|layername=LIL_KliBioTo_StudySites_Extents_AgroBaLa___Isolated_Tree_Conservation_Points]]></description>
+        <styleUrl>#icon-1535-817717-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="tessellate">
+            <value>-1</value>
+          </Data>
+          <Data name="extrude">
+            <value>0</value>
+          </Data>
+          <Data name="visibility">
+            <value>-1</value>
+          </Data>
+          <Data name="id">
+            <value>7</value>
+          </Data>
+          <Data name="left">
+            <value>428916.267311998</value>
+          </Data>
+          <Data name="top">
+            <value>5701117.53420139</value>
+          </Data>
+          <Data name="right">
+            <value>429041.267311998</value>
+          </Data>
+          <Data name="bottom">
+            <value>5701242.53420139</value>
+          </Data>
+          <Data name="layer">
+            <value>AgroBaLa_IsolatedTreeConservation_9Points LIL_KliBioTo_StudySites_Extents_AgroBaLa___Isolated_Tree_Conservation_Points</value>
+          </Data>
+          <Data name="path">
+            <value>D:/Users/konlavach/Desktop/AIA_Meeting/2023_06_23/Study_Sites/Survey_Points/AgroBaLa/AgroBaLa_IsolatedTreeConservation_9Points.kml|layername=LIL_KliBioTo_StudySites_Extents_AgroBaLa___Isolated_Tree_Conservation_Points</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            13.9780555,51.4567068,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <description><![CDATA[description: <br>tessellate: -1<br>extrude: 0<br>visibility: -1<br>id: 8<br>left: 428916.267311998<br>top: 5700992.53420139<br>right: 429041.267311998<br>bottom: 5701117.53420139<br>layer: AgroBaLa_IsolatedTreeConservation_9Points LIL_KliBioTo_StudySites_Extents_AgroBaLa___Isolated_Tree_Conservation_Points<br>path: D:/Users/konlavach/Desktop/AIA_Meeting/2023_06_23/Study_Sites/Survey_Points/AgroBaLa/AgroBaLa_IsolatedTreeConservation_9Points.kml|layername=LIL_KliBioTo_StudySites_Extents_AgroBaLa___Isolated_Tree_Conservation_Points]]></description>
+        <styleUrl>#icon-1535-817717-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="tessellate">
+            <value>-1</value>
+          </Data>
+          <Data name="extrude">
+            <value>0</value>
+          </Data>
+          <Data name="visibility">
+            <value>-1</value>
+          </Data>
+          <Data name="id">
+            <value>8</value>
+          </Data>
+          <Data name="left">
+            <value>428916.267311998</value>
+          </Data>
+          <Data name="top">
+            <value>5700992.53420139</value>
+          </Data>
+          <Data name="right">
+            <value>429041.267311998</value>
+          </Data>
+          <Data name="bottom">
+            <value>5701117.53420139</value>
+          </Data>
+          <Data name="layer">
+            <value>AgroBaLa_IsolatedTreeConservation_9Points LIL_KliBioTo_StudySites_Extents_AgroBaLa___Isolated_Tree_Conservation_Points</value>
+          </Data>
+          <Data name="path">
+            <value>D:/Users/konlavach/Desktop/AIA_Meeting/2023_06_23/Study_Sites/Survey_Points/AgroBaLa/AgroBaLa_IsolatedTreeConservation_9Points.kml|layername=LIL_KliBioTo_StudySites_Extents_AgroBaLa___Isolated_Tree_Conservation_Points</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            13.9778257,51.4557115,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <description><![CDATA[description: <br>tessellate: -1<br>extrude: 0<br>visibility: -1<br>id: 9<br>left: 428916.267311998<br>top: 5700867.53420139<br>right: 429041.267311998<br>bottom: 5700992.53420139<br>layer: AgroBaLa_IsolatedTreeConservation_9Points LIL_KliBioTo_StudySites_Extents_AgroBaLa___Isolated_Tree_Conservation_Points<br>path: D:/Users/konlavach/Desktop/AIA_Meeting/2023_06_23/Study_Sites/Survey_Points/AgroBaLa/AgroBaLa_IsolatedTreeConservation_9Points.kml|layername=LIL_KliBioTo_StudySites_Extents_AgroBaLa___Isolated_Tree_Conservation_Points]]></description>
+        <styleUrl>#icon-1535-817717-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="tessellate">
+            <value>-1</value>
+          </Data>
+          <Data name="extrude">
+            <value>0</value>
+          </Data>
+          <Data name="visibility">
+            <value>-1</value>
+          </Data>
+          <Data name="id">
+            <value>9</value>
+          </Data>
+          <Data name="left">
+            <value>428916.267311998</value>
+          </Data>
+          <Data name="top">
+            <value>5700867.53420139</value>
+          </Data>
+          <Data name="right">
+            <value>429041.267311998</value>
+          </Data>
+          <Data name="bottom">
+            <value>5700992.53420139</value>
+          </Data>
+          <Data name="layer">
+            <value>AgroBaLa_IsolatedTreeConservation_9Points LIL_KliBioTo_StudySites_Extents_AgroBaLa___Isolated_Tree_Conservation_Points</value>
+          </Data>
+          <Data name="path">
+            <value>D:/Users/konlavach/Desktop/AIA_Meeting/2023_06_23/Study_Sites/Survey_Points/AgroBaLa/AgroBaLa_IsolatedTreeConservation_9Points.kml|layername=LIL_KliBioTo_StudySites_Extents_AgroBaLa___Isolated_Tree_Conservation_Points</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            13.9783814,51.454393,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <description><![CDATA[description: <br>tessellate: -1<br>extrude: 0<br>visibility: -1<br>id: 1<br>left: 427923.555472719<br>top: 5701410.59327783<br>right: 428048.555472719<br>bottom: 5701535.59327783<br>layer: AgroBaLa_OpenSpaceField_9Points LIL_KliBioTo_StudySites_Extents_AgroBaLa___Open_space_field_Points<br>path: D:/Users/konlavach/Desktop/AIA_Meeting/2023_06_23/Study_Sites/Survey_Points/AgroBaLa/AgroBaLa_OpenSpaceField_9Points.kml|layername=LIL_KliBioTo_StudySites_Extents_AgroBaLa___Open_space_field_Points]]></description>
+        <styleUrl>#icon-1535-006064-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="tessellate">
+            <value>-1</value>
+          </Data>
+          <Data name="extrude">
+            <value>0</value>
+          </Data>
+          <Data name="visibility">
+            <value>-1</value>
+          </Data>
+          <Data name="id">
+            <value>1</value>
+          </Data>
+          <Data name="left">
+            <value>427923.555472719</value>
+          </Data>
+          <Data name="top">
+            <value>5701410.59327783</value>
+          </Data>
+          <Data name="right">
+            <value>428048.555472719</value>
+          </Data>
+          <Data name="bottom">
+            <value>5701535.59327783</value>
+          </Data>
+          <Data name="layer">
+            <value>AgroBaLa_OpenSpaceField_9Points LIL_KliBioTo_StudySites_Extents_AgroBaLa___Open_space_field_Points</value>
+          </Data>
+          <Data name="path">
+            <value>D:/Users/konlavach/Desktop/AIA_Meeting/2023_06_23/Study_Sites/Survey_Points/AgroBaLa/AgroBaLa_OpenSpaceField_9Points.kml|layername=LIL_KliBioTo_StudySites_Extents_AgroBaLa___Open_space_field_Points</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            13.9614158,51.4591858,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <description><![CDATA[description: <br>tessellate: -1<br>extrude: 0<br>visibility: -1<br>id: 2<br>left: 427923.555472719<br>top: 5701285.59327783<br>right: 428048.555472719<br>bottom: 5701410.59327783<br>layer: AgroBaLa_OpenSpaceField_9Points LIL_KliBioTo_StudySites_Extents_AgroBaLa___Open_space_field_Points<br>path: D:/Users/konlavach/Desktop/AIA_Meeting/2023_06_23/Study_Sites/Survey_Points/AgroBaLa/AgroBaLa_OpenSpaceField_9Points.kml|layername=LIL_KliBioTo_StudySites_Extents_AgroBaLa___Open_space_field_Points]]></description>
+        <styleUrl>#icon-1535-006064-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="tessellate">
+            <value>-1</value>
+          </Data>
+          <Data name="extrude">
+            <value>0</value>
+          </Data>
+          <Data name="visibility">
+            <value>-1</value>
+          </Data>
+          <Data name="id">
+            <value>2</value>
+          </Data>
+          <Data name="left">
+            <value>427923.555472719</value>
+          </Data>
+          <Data name="top">
+            <value>5701285.59327783</value>
+          </Data>
+          <Data name="right">
+            <value>428048.555472719</value>
+          </Data>
+          <Data name="bottom">
+            <value>5701410.59327783</value>
+          </Data>
+          <Data name="layer">
+            <value>AgroBaLa_OpenSpaceField_9Points LIL_KliBioTo_StudySites_Extents_AgroBaLa___Open_space_field_Points</value>
+          </Data>
+          <Data name="path">
+            <value>D:/Users/konlavach/Desktop/AIA_Meeting/2023_06_23/Study_Sites/Survey_Points/AgroBaLa/AgroBaLa_OpenSpaceField_9Points.kml|layername=LIL_KliBioTo_StudySites_Extents_AgroBaLa___Open_space_field_Points</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            13.9626438,51.4587505,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <description><![CDATA[description: <br>tessellate: -1<br>extrude: 0<br>visibility: -1<br>id: 3<br>left: 427923.555472719<br>top: 5701160.59327783<br>right: 428048.555472719<br>bottom: 5701285.59327783<br>layer: AgroBaLa_OpenSpaceField_9Points LIL_KliBioTo_StudySites_Extents_AgroBaLa___Open_space_field_Points<br>path: D:/Users/konlavach/Desktop/AIA_Meeting/2023_06_23/Study_Sites/Survey_Points/AgroBaLa/AgroBaLa_OpenSpaceField_9Points.kml|layername=LIL_KliBioTo_StudySites_Extents_AgroBaLa___Open_space_field_Points]]></description>
+        <styleUrl>#icon-1535-006064-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="tessellate">
+            <value>-1</value>
+          </Data>
+          <Data name="extrude">
+            <value>0</value>
+          </Data>
+          <Data name="visibility">
+            <value>-1</value>
+          </Data>
+          <Data name="id">
+            <value>3</value>
+          </Data>
+          <Data name="left">
+            <value>427923.555472719</value>
+          </Data>
+          <Data name="top">
+            <value>5701160.59327783</value>
+          </Data>
+          <Data name="right">
+            <value>428048.555472719</value>
+          </Data>
+          <Data name="bottom">
+            <value>5701285.59327783</value>
+          </Data>
+          <Data name="layer">
+            <value>AgroBaLa_OpenSpaceField_9Points LIL_KliBioTo_StudySites_Extents_AgroBaLa___Open_space_field_Points</value>
+          </Data>
+          <Data name="path">
+            <value>D:/Users/konlavach/Desktop/AIA_Meeting/2023_06_23/Study_Sites/Survey_Points/AgroBaLa/AgroBaLa_OpenSpaceField_9Points.kml|layername=LIL_KliBioTo_StudySites_Extents_AgroBaLa___Open_space_field_Points</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            13.9644495,51.4580919,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <description><![CDATA[description: <br>tessellate: -1<br>extrude: 0<br>visibility: -1<br>id: 4<br>left: 428048.555472719<br>top: 5701410.59327783<br>right: 428173.555472719<br>bottom: 5701535.59327783<br>layer: AgroBaLa_OpenSpaceField_9Points LIL_KliBioTo_StudySites_Extents_AgroBaLa___Open_space_field_Points<br>path: D:/Users/konlavach/Desktop/AIA_Meeting/2023_06_23/Study_Sites/Survey_Points/AgroBaLa/AgroBaLa_OpenSpaceField_9Points.kml|layername=LIL_KliBioTo_StudySites_Extents_AgroBaLa___Open_space_field_Points]]></description>
+        <styleUrl>#icon-1535-006064-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="tessellate">
+            <value>-1</value>
+          </Data>
+          <Data name="extrude">
+            <value>0</value>
+          </Data>
+          <Data name="visibility">
+            <value>-1</value>
+          </Data>
+          <Data name="id">
+            <value>4</value>
+          </Data>
+          <Data name="left">
+            <value>428048.555472719</value>
+          </Data>
+          <Data name="top">
+            <value>5701410.59327783</value>
+          </Data>
+          <Data name="right">
+            <value>428173.555472719</value>
+          </Data>
+          <Data name="bottom">
+            <value>5701535.59327783</value>
+          </Data>
+          <Data name="layer">
+            <value>AgroBaLa_OpenSpaceField_9Points LIL_KliBioTo_StudySites_Extents_AgroBaLa___Open_space_field_Points</value>
+          </Data>
+          <Data name="path">
+            <value>D:/Users/konlavach/Desktop/AIA_Meeting/2023_06_23/Study_Sites/Survey_Points/AgroBaLa/AgroBaLa_OpenSpaceField_9Points.kml|layername=LIL_KliBioTo_StudySites_Extents_AgroBaLa___Open_space_field_Points</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            13.9636976,51.458377,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <description><![CDATA[description: <br>tessellate: -1<br>extrude: 0<br>visibility: -1<br>id: 5<br>left: 428048.555472719<br>top: 5701285.59327783<br>right: 428173.555472719<br>bottom: 5701410.59327783<br>layer: AgroBaLa_OpenSpaceField_9Points LIL_KliBioTo_StudySites_Extents_AgroBaLa___Open_space_field_Points<br>path: D:/Users/konlavach/Desktop/AIA_Meeting/2023_06_23/Study_Sites/Survey_Points/AgroBaLa/AgroBaLa_OpenSpaceField_9Points.kml|layername=LIL_KliBioTo_StudySites_Extents_AgroBaLa___Open_space_field_Points]]></description>
+        <styleUrl>#icon-1535-006064-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="tessellate">
+            <value>-1</value>
+          </Data>
+          <Data name="extrude">
+            <value>0</value>
+          </Data>
+          <Data name="visibility">
+            <value>-1</value>
+          </Data>
+          <Data name="id">
+            <value>5</value>
+          </Data>
+          <Data name="left">
+            <value>428048.555472719</value>
+          </Data>
+          <Data name="top">
+            <value>5701285.59327783</value>
+          </Data>
+          <Data name="right">
+            <value>428173.555472719</value>
+          </Data>
+          <Data name="bottom">
+            <value>5701410.59327783</value>
+          </Data>
+          <Data name="layer">
+            <value>AgroBaLa_OpenSpaceField_9Points LIL_KliBioTo_StudySites_Extents_AgroBaLa___Open_space_field_Points</value>
+          </Data>
+          <Data name="path">
+            <value>D:/Users/konlavach/Desktop/AIA_Meeting/2023_06_23/Study_Sites/Survey_Points/AgroBaLa/AgroBaLa_OpenSpaceField_9Points.kml|layername=LIL_KliBioTo_StudySites_Extents_AgroBaLa___Open_space_field_Points</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            13.9651335,51.4588474,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <description><![CDATA[description: <br>tessellate: -1<br>extrude: 0<br>visibility: -1<br>id: 6<br>left: 428048.555472719<br>top: 5701160.59327783<br>right: 428173.555472719<br>bottom: 5701285.59327783<br>layer: AgroBaLa_OpenSpaceField_9Points LIL_KliBioTo_StudySites_Extents_AgroBaLa___Open_space_field_Points<br>path: D:/Users/konlavach/Desktop/AIA_Meeting/2023_06_23/Study_Sites/Survey_Points/AgroBaLa/AgroBaLa_OpenSpaceField_9Points.kml|layername=LIL_KliBioTo_StudySites_Extents_AgroBaLa___Open_space_field_Points]]></description>
+        <styleUrl>#icon-1535-006064-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="tessellate">
+            <value>-1</value>
+          </Data>
+          <Data name="extrude">
+            <value>0</value>
+          </Data>
+          <Data name="visibility">
+            <value>-1</value>
+          </Data>
+          <Data name="id">
+            <value>6</value>
+          </Data>
+          <Data name="left">
+            <value>428048.555472719</value>
+          </Data>
+          <Data name="top">
+            <value>5701160.59327783</value>
+          </Data>
+          <Data name="right">
+            <value>428173.555472719</value>
+          </Data>
+          <Data name="bottom">
+            <value>5701285.59327783</value>
+          </Data>
+          <Data name="layer">
+            <value>AgroBaLa_OpenSpaceField_9Points LIL_KliBioTo_StudySites_Extents_AgroBaLa___Open_space_field_Points</value>
+          </Data>
+          <Data name="path">
+            <value>D:/Users/konlavach/Desktop/AIA_Meeting/2023_06_23/Study_Sites/Survey_Points/AgroBaLa/AgroBaLa_OpenSpaceField_9Points.kml|layername=LIL_KliBioTo_StudySites_Extents_AgroBaLa___Open_space_field_Points</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            13.9652614,51.457767,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <description><![CDATA[description: <br>tessellate: -1<br>extrude: 0<br>visibility: -1<br>id: 7<br>left: 428173.555472719<br>top: 5701410.59327783<br>right: 428298.555472719<br>bottom: 5701535.59327783<br>layer: AgroBaLa_OpenSpaceField_9Points LIL_KliBioTo_StudySites_Extents_AgroBaLa___Open_space_field_Points<br>path: D:/Users/konlavach/Desktop/AIA_Meeting/2023_06_23/Study_Sites/Survey_Points/AgroBaLa/AgroBaLa_OpenSpaceField_9Points.kml|layername=LIL_KliBioTo_StudySites_Extents_AgroBaLa___Open_space_field_Points]]></description>
+        <styleUrl>#icon-1535-006064-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="tessellate">
+            <value>-1</value>
+          </Data>
+          <Data name="extrude">
+            <value>0</value>
+          </Data>
+          <Data name="visibility">
+            <value>-1</value>
+          </Data>
+          <Data name="id">
+            <value>7</value>
+          </Data>
+          <Data name="left">
+            <value>428173.555472719</value>
+          </Data>
+          <Data name="top">
+            <value>5701410.59327783</value>
+          </Data>
+          <Data name="right">
+            <value>428298.555472719</value>
+          </Data>
+          <Data name="bottom">
+            <value>5701535.59327783</value>
+          </Data>
+          <Data name="layer">
+            <value>AgroBaLa_OpenSpaceField_9Points LIL_KliBioTo_StudySites_Extents_AgroBaLa___Open_space_field_Points</value>
+          </Data>
+          <Data name="path">
+            <value>D:/Users/konlavach/Desktop/AIA_Meeting/2023_06_23/Study_Sites/Survey_Points/AgroBaLa/AgroBaLa_OpenSpaceField_9Points.kml|layername=LIL_KliBioTo_StudySites_Extents_AgroBaLa___Open_space_field_Points</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            13.9660384,51.4597876,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <description><![CDATA[description: <br>tessellate: -1<br>extrude: 0<br>visibility: -1<br>id: 8<br>left: 428173.555472719<br>top: 5701285.59327783<br>right: 428298.555472719<br>bottom: 5701410.59327783<br>layer: AgroBaLa_OpenSpaceField_9Points LIL_KliBioTo_StudySites_Extents_AgroBaLa___Open_space_field_Points<br>path: D:/Users/konlavach/Desktop/AIA_Meeting/2023_06_23/Study_Sites/Survey_Points/AgroBaLa/AgroBaLa_OpenSpaceField_9Points.kml|layername=LIL_KliBioTo_StudySites_Extents_AgroBaLa___Open_space_field_Points]]></description>
+        <styleUrl>#icon-1535-006064-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="tessellate">
+            <value>-1</value>
+          </Data>
+          <Data name="extrude">
+            <value>0</value>
+          </Data>
+          <Data name="visibility">
+            <value>-1</value>
+          </Data>
+          <Data name="id">
+            <value>8</value>
+          </Data>
+          <Data name="left">
+            <value>428173.555472719</value>
+          </Data>
+          <Data name="top">
+            <value>5701285.59327783</value>
+          </Data>
+          <Data name="right">
+            <value>428298.555472719</value>
+          </Data>
+          <Data name="bottom">
+            <value>5701410.59327783</value>
+          </Data>
+          <Data name="layer">
+            <value>AgroBaLa_OpenSpaceField_9Points LIL_KliBioTo_StudySites_Extents_AgroBaLa___Open_space_field_Points</value>
+          </Data>
+          <Data name="path">
+            <value>D:/Users/konlavach/Desktop/AIA_Meeting/2023_06_23/Study_Sites/Survey_Points/AgroBaLa/AgroBaLa_OpenSpaceField_9Points.kml|layername=LIL_KliBioTo_StudySites_Extents_AgroBaLa___Open_space_field_Points</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            13.9655672,51.4592845,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <description><![CDATA[description: <br>tessellate: -1<br>extrude: 0<br>visibility: -1<br>id: 9<br>left: 428173.555472719<br>top: 5701160.59327783<br>right: 428298.555472719<br>bottom: 5701285.59327783<br>layer: AgroBaLa_OpenSpaceField_9Points LIL_KliBioTo_StudySites_Extents_AgroBaLa___Open_space_field_Points<br>path: D:/Users/konlavach/Desktop/AIA_Meeting/2023_06_23/Study_Sites/Survey_Points/AgroBaLa/AgroBaLa_OpenSpaceField_9Points.kml|layername=LIL_KliBioTo_StudySites_Extents_AgroBaLa___Open_space_field_Points]]></description>
+        <styleUrl>#icon-1535-006064-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="tessellate">
+            <value>-1</value>
+          </Data>
+          <Data name="extrude">
+            <value>0</value>
+          </Data>
+          <Data name="visibility">
+            <value>-1</value>
+          </Data>
+          <Data name="id">
+            <value>9</value>
+          </Data>
+          <Data name="left">
+            <value>428173.555472719</value>
+          </Data>
+          <Data name="top">
+            <value>5701160.59327783</value>
+          </Data>
+          <Data name="right">
+            <value>428298.555472719</value>
+          </Data>
+          <Data name="bottom">
+            <value>5701285.59327783</value>
+          </Data>
+          <Data name="layer">
+            <value>AgroBaLa_OpenSpaceField_9Points LIL_KliBioTo_StudySites_Extents_AgroBaLa___Open_space_field_Points</value>
+          </Data>
+          <Data name="path">
+            <value>D:/Users/konlavach/Desktop/AIA_Meeting/2023_06_23/Study_Sites/Survey_Points/AgroBaLa/AgroBaLa_OpenSpaceField_9Points.kml|layername=LIL_KliBioTo_StudySites_Extents_AgroBaLa___Open_space_field_Points</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            13.9660026,51.4575156,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <description><![CDATA[description: <br>tessellate: -1<br>extrude: 0<br>visibility: -1<br>id: 1<br>left: 428480.915190935<br>top: 5701591.39602735<br>right: 428605.915190935<br>bottom: 5701716.39602735<br>layer: AgroBaLa_Peickwitz_9Points LIL_KliBioTo_StudySites_Extents_AgroBaLa___Peickwitz_Points<br>path: D:/Users/konlavach/Desktop/AIA_Meeting/2023_06_23/Study_Sites/Survey_Points/AgroBaLa/AgroBaLa_Peickwitz_9Points.kml|layername=LIL_KliBioTo_StudySites_Extents_AgroBaLa___Peickwitz_Points]]></description>
+        <styleUrl>#icon-1535-097138-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="tessellate">
+            <value>-1</value>
+          </Data>
+          <Data name="extrude">
+            <value>0</value>
+          </Data>
+          <Data name="visibility">
+            <value>-1</value>
+          </Data>
+          <Data name="id">
+            <value>1</value>
+          </Data>
+          <Data name="left">
+            <value>428480.915190935</value>
+          </Data>
+          <Data name="top">
+            <value>5701591.39602735</value>
+          </Data>
+          <Data name="right">
+            <value>428605.915190935</value>
+          </Data>
+          <Data name="bottom">
+            <value>5701716.39602735</value>
+          </Data>
+          <Data name="layer">
+            <value>AgroBaLa_Peickwitz_9Points LIL_KliBioTo_StudySites_Extents_AgroBaLa___Peickwitz_Points</value>
+          </Data>
+          <Data name="path">
+            <value>D:/Users/konlavach/Desktop/AIA_Meeting/2023_06_23/Study_Sites/Survey_Points/AgroBaLa/AgroBaLa_Peickwitz_9Points.kml|layername=LIL_KliBioTo_StudySites_Extents_AgroBaLa___Peickwitz_Points</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            13.970462,51.460263,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <description><![CDATA[description: <br>tessellate: -1<br>extrude: 0<br>visibility: -1<br>id: 2<br>left: 428480.915190935<br>top: 5701466.39602735<br>right: 428605.915190935<br>bottom: 5701591.39602735<br>layer: AgroBaLa_Peickwitz_9Points LIL_KliBioTo_StudySites_Extents_AgroBaLa___Peickwitz_Points<br>path: D:/Users/konlavach/Desktop/AIA_Meeting/2023_06_23/Study_Sites/Survey_Points/AgroBaLa/AgroBaLa_Peickwitz_9Points.kml|layername=LIL_KliBioTo_StudySites_Extents_AgroBaLa___Peickwitz_Points]]></description>
+        <styleUrl>#icon-1535-097138-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="tessellate">
+            <value>-1</value>
+          </Data>
+          <Data name="extrude">
+            <value>0</value>
+          </Data>
+          <Data name="visibility">
+            <value>-1</value>
+          </Data>
+          <Data name="id">
+            <value>2</value>
+          </Data>
+          <Data name="left">
+            <value>428480.915190935</value>
+          </Data>
+          <Data name="top">
+            <value>5701466.39602735</value>
+          </Data>
+          <Data name="right">
+            <value>428605.915190935</value>
+          </Data>
+          <Data name="bottom">
+            <value>5701591.39602735</value>
+          </Data>
+          <Data name="layer">
+            <value>AgroBaLa_Peickwitz_9Points LIL_KliBioTo_StudySites_Extents_AgroBaLa___Peickwitz_Points</value>
+          </Data>
+          <Data name="path">
+            <value>D:/Users/konlavach/Desktop/AIA_Meeting/2023_06_23/Study_Sites/Survey_Points/AgroBaLa/AgroBaLa_Peickwitz_9Points.kml|layername=LIL_KliBioTo_StudySites_Extents_AgroBaLa___Peickwitz_Points</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            13.970483,51.459789,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <description><![CDATA[description: <br>tessellate: -1<br>extrude: 0<br>visibility: -1<br>id: 3<br>left: 428480.915190935<br>top: 5701341.39602735<br>right: 428605.915190935<br>bottom: 5701466.39602735<br>layer: AgroBaLa_Peickwitz_9Points LIL_KliBioTo_StudySites_Extents_AgroBaLa___Peickwitz_Points<br>path: D:/Users/konlavach/Desktop/AIA_Meeting/2023_06_23/Study_Sites/Survey_Points/AgroBaLa/AgroBaLa_Peickwitz_9Points.kml|layername=LIL_KliBioTo_StudySites_Extents_AgroBaLa___Peickwitz_Points]]></description>
+        <styleUrl>#icon-1535-097138-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="tessellate">
+            <value>-1</value>
+          </Data>
+          <Data name="extrude">
+            <value>0</value>
+          </Data>
+          <Data name="visibility">
+            <value>-1</value>
+          </Data>
+          <Data name="id">
+            <value>3</value>
+          </Data>
+          <Data name="left">
+            <value>428480.915190935</value>
+          </Data>
+          <Data name="top">
+            <value>5701341.39602735</value>
+          </Data>
+          <Data name="right">
+            <value>428605.915190935</value>
+          </Data>
+          <Data name="bottom">
+            <value>5701466.39602735</value>
+          </Data>
+          <Data name="layer">
+            <value>AgroBaLa_Peickwitz_9Points LIL_KliBioTo_StudySites_Extents_AgroBaLa___Peickwitz_Points</value>
+          </Data>
+          <Data name="path">
+            <value>D:/Users/konlavach/Desktop/AIA_Meeting/2023_06_23/Study_Sites/Survey_Points/AgroBaLa/AgroBaLa_Peickwitz_9Points.kml|layername=LIL_KliBioTo_StudySites_Extents_AgroBaLa___Peickwitz_Points</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            13.970572,51.458725,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <description><![CDATA[description: <br>tessellate: -1<br>extrude: 0<br>visibility: -1<br>id: 4<br>left: 428605.915190935<br>top: 5701591.39602735<br>right: 428730.915190935<br>bottom: 5701716.39602735<br>layer: AgroBaLa_Peickwitz_9Points LIL_KliBioTo_StudySites_Extents_AgroBaLa___Peickwitz_Points<br>path: D:/Users/konlavach/Desktop/AIA_Meeting/2023_06_23/Study_Sites/Survey_Points/AgroBaLa/AgroBaLa_Peickwitz_9Points.kml|layername=LIL_KliBioTo_StudySites_Extents_AgroBaLa___Peickwitz_Points]]></description>
+        <styleUrl>#icon-1535-097138-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="tessellate">
+            <value>-1</value>
+          </Data>
+          <Data name="extrude">
+            <value>0</value>
+          </Data>
+          <Data name="visibility">
+            <value>-1</value>
+          </Data>
+          <Data name="id">
+            <value>4</value>
+          </Data>
+          <Data name="left">
+            <value>428605.915190935</value>
+          </Data>
+          <Data name="top">
+            <value>5701591.39602735</value>
+          </Data>
+          <Data name="right">
+            <value>428730.915190935</value>
+          </Data>
+          <Data name="bottom">
+            <value>5701716.39602735</value>
+          </Data>
+          <Data name="layer">
+            <value>AgroBaLa_Peickwitz_9Points LIL_KliBioTo_StudySites_Extents_AgroBaLa___Peickwitz_Points</value>
+          </Data>
+          <Data name="path">
+            <value>D:/Users/konlavach/Desktop/AIA_Meeting/2023_06_23/Study_Sites/Survey_Points/AgroBaLa/AgroBaLa_Peickwitz_9Points.kml|layername=LIL_KliBioTo_StudySites_Extents_AgroBaLa___Peickwitz_Points</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            13.972301,51.460316,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <description><![CDATA[description: <br>tessellate: -1<br>extrude: 0<br>visibility: -1<br>id: 5<br>left: 428605.915190935<br>top: 5701466.39602735<br>right: 428730.915190935<br>bottom: 5701591.39602735<br>layer: AgroBaLa_Peickwitz_9Points LIL_KliBioTo_StudySites_Extents_AgroBaLa___Peickwitz_Points<br>path: D:/Users/konlavach/Desktop/AIA_Meeting/2023_06_23/Study_Sites/Survey_Points/AgroBaLa/AgroBaLa_Peickwitz_9Points.kml|layername=LIL_KliBioTo_StudySites_Extents_AgroBaLa___Peickwitz_Points]]></description>
+        <styleUrl>#icon-1535-097138-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="tessellate">
+            <value>-1</value>
+          </Data>
+          <Data name="extrude">
+            <value>0</value>
+          </Data>
+          <Data name="visibility">
+            <value>-1</value>
+          </Data>
+          <Data name="id">
+            <value>5</value>
+          </Data>
+          <Data name="left">
+            <value>428605.915190935</value>
+          </Data>
+          <Data name="top">
+            <value>5701466.39602735</value>
+          </Data>
+          <Data name="right">
+            <value>428730.915190935</value>
+          </Data>
+          <Data name="bottom">
+            <value>5701591.39602735</value>
+          </Data>
+          <Data name="layer">
+            <value>AgroBaLa_Peickwitz_9Points LIL_KliBioTo_StudySites_Extents_AgroBaLa___Peickwitz_Points</value>
+          </Data>
+          <Data name="path">
+            <value>D:/Users/konlavach/Desktop/AIA_Meeting/2023_06_23/Study_Sites/Survey_Points/AgroBaLa/AgroBaLa_Peickwitz_9Points.kml|layername=LIL_KliBioTo_StudySites_Extents_AgroBaLa___Peickwitz_Points</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            13.972346,51.459864,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <description><![CDATA[description: <br>tessellate: -1<br>extrude: 0<br>visibility: -1<br>id: 6<br>left: 428605.915190935<br>top: 5701341.39602735<br>right: 428730.915190935<br>bottom: 5701466.39602735<br>layer: AgroBaLa_Peickwitz_9Points LIL_KliBioTo_StudySites_Extents_AgroBaLa___Peickwitz_Points<br>path: D:/Users/konlavach/Desktop/AIA_Meeting/2023_06_23/Study_Sites/Survey_Points/AgroBaLa/AgroBaLa_Peickwitz_9Points.kml|layername=LIL_KliBioTo_StudySites_Extents_AgroBaLa___Peickwitz_Points]]></description>
+        <styleUrl>#icon-1535-097138-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="tessellate">
+            <value>-1</value>
+          </Data>
+          <Data name="extrude">
+            <value>0</value>
+          </Data>
+          <Data name="visibility">
+            <value>-1</value>
+          </Data>
+          <Data name="id">
+            <value>6</value>
+          </Data>
+          <Data name="left">
+            <value>428605.915190935</value>
+          </Data>
+          <Data name="top">
+            <value>5701341.39602735</value>
+          </Data>
+          <Data name="right">
+            <value>428730.915190935</value>
+          </Data>
+          <Data name="bottom">
+            <value>5701466.39602735</value>
+          </Data>
+          <Data name="layer">
+            <value>AgroBaLa_Peickwitz_9Points LIL_KliBioTo_StudySites_Extents_AgroBaLa___Peickwitz_Points</value>
+          </Data>
+          <Data name="path">
+            <value>D:/Users/konlavach/Desktop/AIA_Meeting/2023_06_23/Study_Sites/Survey_Points/AgroBaLa/AgroBaLa_Peickwitz_9Points.kml|layername=LIL_KliBioTo_StudySites_Extents_AgroBaLa___Peickwitz_Points</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            13.972371,51.458741,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <description><![CDATA[description: <br>tessellate: -1<br>extrude: 0<br>visibility: -1<br>id: 7<br>left: 428730.915190935<br>top: 5701591.39602735<br>right: 428855.915190935<br>bottom: 5701716.39602735<br>layer: AgroBaLa_Peickwitz_9Points LIL_KliBioTo_StudySites_Extents_AgroBaLa___Peickwitz_Points<br>path: D:/Users/konlavach/Desktop/AIA_Meeting/2023_06_23/Study_Sites/Survey_Points/AgroBaLa/AgroBaLa_Peickwitz_9Points.kml|layername=LIL_KliBioTo_StudySites_Extents_AgroBaLa___Peickwitz_Points]]></description>
+        <styleUrl>#icon-1535-097138-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="tessellate">
+            <value>-1</value>
+          </Data>
+          <Data name="extrude">
+            <value>0</value>
+          </Data>
+          <Data name="visibility">
+            <value>-1</value>
+          </Data>
+          <Data name="id">
+            <value>7</value>
+          </Data>
+          <Data name="left">
+            <value>428730.915190935</value>
+          </Data>
+          <Data name="top">
+            <value>5701591.39602735</value>
+          </Data>
+          <Data name="right">
+            <value>428855.915190935</value>
+          </Data>
+          <Data name="bottom">
+            <value>5701716.39602735</value>
+          </Data>
+          <Data name="layer">
+            <value>AgroBaLa_Peickwitz_9Points LIL_KliBioTo_StudySites_Extents_AgroBaLa___Peickwitz_Points</value>
+          </Data>
+          <Data name="path">
+            <value>D:/Users/konlavach/Desktop/AIA_Meeting/2023_06_23/Study_Sites/Survey_Points/AgroBaLa/AgroBaLa_Peickwitz_9Points.kml|layername=LIL_KliBioTo_StudySites_Extents_AgroBaLa___Peickwitz_Points</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            13.974071,51.460354,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <description><![CDATA[description: <br>tessellate: -1<br>extrude: 0<br>visibility: -1<br>id: 8<br>left: 428730.915190935<br>top: 5701466.39602735<br>right: 428855.915190935<br>bottom: 5701591.39602735<br>layer: AgroBaLa_Peickwitz_9Points LIL_KliBioTo_StudySites_Extents_AgroBaLa___Peickwitz_Points<br>path: D:/Users/konlavach/Desktop/AIA_Meeting/2023_06_23/Study_Sites/Survey_Points/AgroBaLa/AgroBaLa_Peickwitz_9Points.kml|layername=LIL_KliBioTo_StudySites_Extents_AgroBaLa___Peickwitz_Points]]></description>
+        <styleUrl>#icon-1535-097138-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="tessellate">
+            <value>-1</value>
+          </Data>
+          <Data name="extrude">
+            <value>0</value>
+          </Data>
+          <Data name="visibility">
+            <value>-1</value>
+          </Data>
+          <Data name="id">
+            <value>8</value>
+          </Data>
+          <Data name="left">
+            <value>428730.915190935</value>
+          </Data>
+          <Data name="top">
+            <value>5701466.39602735</value>
+          </Data>
+          <Data name="right">
+            <value>428855.915190935</value>
+          </Data>
+          <Data name="bottom">
+            <value>5701591.39602735</value>
+          </Data>
+          <Data name="layer">
+            <value>AgroBaLa_Peickwitz_9Points LIL_KliBioTo_StudySites_Extents_AgroBaLa___Peickwitz_Points</value>
+          </Data>
+          <Data name="path">
+            <value>D:/Users/konlavach/Desktop/AIA_Meeting/2023_06_23/Study_Sites/Survey_Points/AgroBaLa/AgroBaLa_Peickwitz_9Points.kml|layername=LIL_KliBioTo_StudySites_Extents_AgroBaLa___Peickwitz_Points</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            13.974145,51.45988,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <description><![CDATA[description: <br>tessellate: -1<br>extrude: 0<br>visibility: -1<br>id: 9<br>left: 428730.915190935<br>top: 5701341.39602735<br>right: 428855.915190935<br>bottom: 5701466.39602735<br>layer: AgroBaLa_Peickwitz_9Points LIL_KliBioTo_StudySites_Extents_AgroBaLa___Peickwitz_Points<br>path: D:/Users/konlavach/Desktop/AIA_Meeting/2023_06_23/Study_Sites/Survey_Points/AgroBaLa/AgroBaLa_Peickwitz_9Points.kml|layername=LIL_KliBioTo_StudySites_Extents_AgroBaLa___Peickwitz_Points]]></description>
+        <styleUrl>#icon-1535-097138-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="tessellate">
+            <value>-1</value>
+          </Data>
+          <Data name="extrude">
+            <value>0</value>
+          </Data>
+          <Data name="visibility">
+            <value>-1</value>
+          </Data>
+          <Data name="id">
+            <value>9</value>
+          </Data>
+          <Data name="left">
+            <value>428730.915190935</value>
+          </Data>
+          <Data name="top">
+            <value>5701341.39602735</value>
+          </Data>
+          <Data name="right">
+            <value>428855.915190935</value>
+          </Data>
+          <Data name="bottom">
+            <value>5701466.39602735</value>
+          </Data>
+          <Data name="layer">
+            <value>AgroBaLa_Peickwitz_9Points LIL_KliBioTo_StudySites_Extents_AgroBaLa___Peickwitz_Points</value>
+          </Data>
+          <Data name="path">
+            <value>D:/Users/konlavach/Desktop/AIA_Meeting/2023_06_23/Study_Sites/Survey_Points/AgroBaLa/AgroBaLa_Peickwitz_9Points.kml|layername=LIL_KliBioTo_StudySites_Extents_AgroBaLa___Peickwitz_Points</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            13.9741231,51.4587635,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <description><![CDATA[description: <br>tessellate: -1<br>extrude: 0<br>visibility: -1<br>id: 1<br>left: 429239.907317138<br>top: 5700429.92369506<br>right: 429364.907317138<br>bottom: 5700554.92369506<br>layer: AgroBaLa_PV_9Points LIL_KliBioTo_StudySites_Extents_AgroBaLa___PV_Points<br>path: D:/Users/konlavach/Desktop/AIA_Meeting/2023_06_23/Study_Sites/Survey_Points/AgroBaLa/AgroBaLa_PV_9Points.kml|layername=LIL_KliBioTo_StudySites_Extents_AgroBaLa___PV_Points]]></description>
+        <styleUrl>#icon-1535-FBC02D-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="tessellate">
+            <value>-1</value>
+          </Data>
+          <Data name="extrude">
+            <value>0</value>
+          </Data>
+          <Data name="visibility">
+            <value>-1</value>
+          </Data>
+          <Data name="id">
+            <value>1</value>
+          </Data>
+          <Data name="left">
+            <value>429239.907317138</value>
+          </Data>
+          <Data name="top">
+            <value>5700429.92369506</value>
+          </Data>
+          <Data name="right">
+            <value>429364.907317138</value>
+          </Data>
+          <Data name="bottom">
+            <value>5700554.92369506</value>
+          </Data>
+          <Data name="layer">
+            <value>AgroBaLa_PV_9Points LIL_KliBioTo_StudySites_Extents_AgroBaLa___PV_Points</value>
+          </Data>
+          <Data name="path">
+            <value>D:/Users/konlavach/Desktop/AIA_Meeting/2023_06_23/Study_Sites/Survey_Points/AgroBaLa/AgroBaLa_PV_9Points.kml|layername=LIL_KliBioTo_StudySites_Extents_AgroBaLa___PV_Points</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            13.9826721,51.4505274,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <description><![CDATA[description: <br>tessellate: -1<br>extrude: 0<br>visibility: -1<br>id: 2<br>left: 429239.907317138<br>top: 5700304.92369506<br>right: 429364.907317138<br>bottom: 5700429.92369506<br>layer: AgroBaLa_PV_9Points LIL_KliBioTo_StudySites_Extents_AgroBaLa___PV_Points<br>path: D:/Users/konlavach/Desktop/AIA_Meeting/2023_06_23/Study_Sites/Survey_Points/AgroBaLa/AgroBaLa_PV_9Points.kml|layername=LIL_KliBioTo_StudySites_Extents_AgroBaLa___PV_Points]]></description>
+        <styleUrl>#icon-1535-FBC02D-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="tessellate">
+            <value>-1</value>
+          </Data>
+          <Data name="extrude">
+            <value>0</value>
+          </Data>
+          <Data name="visibility">
+            <value>-1</value>
+          </Data>
+          <Data name="id">
+            <value>2</value>
+          </Data>
+          <Data name="left">
+            <value>429239.907317138</value>
+          </Data>
+          <Data name="top">
+            <value>5700304.92369506</value>
+          </Data>
+          <Data name="right">
+            <value>429364.907317138</value>
+          </Data>
+          <Data name="bottom">
+            <value>5700429.92369506</value>
+          </Data>
+          <Data name="layer">
+            <value>AgroBaLa_PV_9Points LIL_KliBioTo_StudySites_Extents_AgroBaLa___PV_Points</value>
+          </Data>
+          <Data name="path">
+            <value>D:/Users/konlavach/Desktop/AIA_Meeting/2023_06_23/Study_Sites/Survey_Points/AgroBaLa/AgroBaLa_PV_9Points.kml|layername=LIL_KliBioTo_StudySites_Extents_AgroBaLa___PV_Points</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            13.981702,51.449502,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <description><![CDATA[description: <br>tessellate: -1<br>extrude: 0<br>visibility: -1<br>id: 3<br>left: 429239.907317138<br>top: 5700179.92369506<br>right: 429364.907317138<br>bottom: 5700304.92369506<br>layer: AgroBaLa_PV_9Points LIL_KliBioTo_StudySites_Extents_AgroBaLa___PV_Points<br>path: D:/Users/konlavach/Desktop/AIA_Meeting/2023_06_23/Study_Sites/Survey_Points/AgroBaLa/AgroBaLa_PV_9Points.kml|layername=LIL_KliBioTo_StudySites_Extents_AgroBaLa___PV_Points]]></description>
+        <styleUrl>#icon-1535-FBC02D-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="tessellate">
+            <value>-1</value>
+          </Data>
+          <Data name="extrude">
+            <value>0</value>
+          </Data>
+          <Data name="visibility">
+            <value>-1</value>
+          </Data>
+          <Data name="id">
+            <value>3</value>
+          </Data>
+          <Data name="left">
+            <value>429239.907317138</value>
+          </Data>
+          <Data name="top">
+            <value>5700179.92369506</value>
+          </Data>
+          <Data name="right">
+            <value>429364.907317138</value>
+          </Data>
+          <Data name="bottom">
+            <value>5700304.92369506</value>
+          </Data>
+          <Data name="layer">
+            <value>AgroBaLa_PV_9Points LIL_KliBioTo_StudySites_Extents_AgroBaLa___PV_Points</value>
+          </Data>
+          <Data name="path">
+            <value>D:/Users/konlavach/Desktop/AIA_Meeting/2023_06_23/Study_Sites/Survey_Points/AgroBaLa/AgroBaLa_PV_9Points.kml|layername=LIL_KliBioTo_StudySites_Extents_AgroBaLa___PV_Points</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            13.982183,51.4486254,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <description><![CDATA[description: <br>tessellate: -1<br>extrude: 0<br>visibility: -1<br>id: 4<br>left: 429364.907317138<br>top: 5700429.92369506<br>right: 429489.907317138<br>bottom: 5700554.92369506<br>layer: AgroBaLa_PV_9Points LIL_KliBioTo_StudySites_Extents_AgroBaLa___PV_Points<br>path: D:/Users/konlavach/Desktop/AIA_Meeting/2023_06_23/Study_Sites/Survey_Points/AgroBaLa/AgroBaLa_PV_9Points.kml|layername=LIL_KliBioTo_StudySites_Extents_AgroBaLa___PV_Points]]></description>
+        <styleUrl>#icon-1535-FBC02D-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="tessellate">
+            <value>-1</value>
+          </Data>
+          <Data name="extrude">
+            <value>0</value>
+          </Data>
+          <Data name="visibility">
+            <value>-1</value>
+          </Data>
+          <Data name="id">
+            <value>4</value>
+          </Data>
+          <Data name="left">
+            <value>429364.907317138</value>
+          </Data>
+          <Data name="top">
+            <value>5700429.92369506</value>
+          </Data>
+          <Data name="right">
+            <value>429489.907317138</value>
+          </Data>
+          <Data name="bottom">
+            <value>5700554.92369506</value>
+          </Data>
+          <Data name="layer">
+            <value>AgroBaLa_PV_9Points LIL_KliBioTo_StudySites_Extents_AgroBaLa___PV_Points</value>
+          </Data>
+          <Data name="path">
+            <value>D:/Users/konlavach/Desktop/AIA_Meeting/2023_06_23/Study_Sites/Survey_Points/AgroBaLa/AgroBaLa_PV_9Points.kml|layername=LIL_KliBioTo_StudySites_Extents_AgroBaLa___PV_Points</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            13.9836396,51.4506661,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <description><![CDATA[description: <br>tessellate: -1<br>extrude: 0<br>visibility: -1<br>id: 5<br>left: 429364.907317138<br>top: 5700304.92369506<br>right: 429489.907317138<br>bottom: 5700429.92369506<br>layer: AgroBaLa_PV_9Points LIL_KliBioTo_StudySites_Extents_AgroBaLa___PV_Points<br>path: D:/Users/konlavach/Desktop/AIA_Meeting/2023_06_23/Study_Sites/Survey_Points/AgroBaLa/AgroBaLa_PV_9Points.kml|layername=LIL_KliBioTo_StudySites_Extents_AgroBaLa___PV_Points]]></description>
+        <styleUrl>#icon-1535-FBC02D-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="tessellate">
+            <value>-1</value>
+          </Data>
+          <Data name="extrude">
+            <value>0</value>
+          </Data>
+          <Data name="visibility">
+            <value>-1</value>
+          </Data>
+          <Data name="id">
+            <value>5</value>
+          </Data>
+          <Data name="left">
+            <value>429364.907317138</value>
+          </Data>
+          <Data name="top">
+            <value>5700304.92369506</value>
+          </Data>
+          <Data name="right">
+            <value>429489.907317138</value>
+          </Data>
+          <Data name="bottom">
+            <value>5700429.92369506</value>
+          </Data>
+          <Data name="layer">
+            <value>AgroBaLa_PV_9Points LIL_KliBioTo_StudySites_Extents_AgroBaLa___PV_Points</value>
+          </Data>
+          <Data name="path">
+            <value>D:/Users/konlavach/Desktop/AIA_Meeting/2023_06_23/Study_Sites/Survey_Points/AgroBaLa/AgroBaLa_PV_9Points.kml|layername=LIL_KliBioTo_StudySites_Extents_AgroBaLa___PV_Points</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            13.9836888,51.4496016,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <description><![CDATA[description: <br>tessellate: -1<br>extrude: 0<br>visibility: -1<br>id: 6<br>left: 429364.907317138<br>top: 5700179.92369506<br>right: 429489.907317138<br>bottom: 5700304.92369506<br>layer: AgroBaLa_PV_9Points LIL_KliBioTo_StudySites_Extents_AgroBaLa___PV_Points<br>path: D:/Users/konlavach/Desktop/AIA_Meeting/2023_06_23/Study_Sites/Survey_Points/AgroBaLa/AgroBaLa_PV_9Points.kml|layername=LIL_KliBioTo_StudySites_Extents_AgroBaLa___PV_Points]]></description>
+        <styleUrl>#icon-1535-FBC02D-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="tessellate">
+            <value>-1</value>
+          </Data>
+          <Data name="extrude">
+            <value>0</value>
+          </Data>
+          <Data name="visibility">
+            <value>-1</value>
+          </Data>
+          <Data name="id">
+            <value>6</value>
+          </Data>
+          <Data name="left">
+            <value>429364.907317138</value>
+          </Data>
+          <Data name="top">
+            <value>5700179.92369506</value>
+          </Data>
+          <Data name="right">
+            <value>429489.907317138</value>
+          </Data>
+          <Data name="bottom">
+            <value>5700304.92369506</value>
+          </Data>
+          <Data name="layer">
+            <value>AgroBaLa_PV_9Points LIL_KliBioTo_StudySites_Extents_AgroBaLa___PV_Points</value>
+          </Data>
+          <Data name="path">
+            <value>D:/Users/konlavach/Desktop/AIA_Meeting/2023_06_23/Study_Sites/Survey_Points/AgroBaLa/AgroBaLa_PV_9Points.kml|layername=LIL_KliBioTo_StudySites_Extents_AgroBaLa___PV_Points</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            13.983408,51.4489323,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <description><![CDATA[description: <br>tessellate: -1<br>extrude: 0<br>visibility: -1<br>id: 7<br>left: 429489.907317138<br>top: 5700429.92369506<br>right: 429614.907317138<br>bottom: 5700554.92369506<br>layer: AgroBaLa_PV_9Points LIL_KliBioTo_StudySites_Extents_AgroBaLa___PV_Points<br>path: D:/Users/konlavach/Desktop/AIA_Meeting/2023_06_23/Study_Sites/Survey_Points/AgroBaLa/AgroBaLa_PV_9Points.kml|layername=LIL_KliBioTo_StudySites_Extents_AgroBaLa___PV_Points]]></description>
+        <styleUrl>#icon-1535-FBC02D-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="tessellate">
+            <value>-1</value>
+          </Data>
+          <Data name="extrude">
+            <value>0</value>
+          </Data>
+          <Data name="visibility">
+            <value>-1</value>
+          </Data>
+          <Data name="id">
+            <value>7</value>
+          </Data>
+          <Data name="left">
+            <value>429489.907317138</value>
+          </Data>
+          <Data name="top">
+            <value>5700429.92369506</value>
+          </Data>
+          <Data name="right">
+            <value>429614.907317138</value>
+          </Data>
+          <Data name="bottom">
+            <value>5700554.92369506</value>
+          </Data>
+          <Data name="layer">
+            <value>AgroBaLa_PV_9Points LIL_KliBioTo_StudySites_Extents_AgroBaLa___PV_Points</value>
+          </Data>
+          <Data name="path">
+            <value>D:/Users/konlavach/Desktop/AIA_Meeting/2023_06_23/Study_Sites/Survey_Points/AgroBaLa/AgroBaLa_PV_9Points.kml|layername=LIL_KliBioTo_StudySites_Extents_AgroBaLa___PV_Points</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            13.9856281,51.4506169,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <description><![CDATA[description: <br>tessellate: -1<br>extrude: 0<br>visibility: -1<br>id: 8<br>left: 429489.907317138<br>top: 5700304.92369506<br>right: 429614.907317138<br>bottom: 5700429.92369506<br>layer: AgroBaLa_PV_9Points LIL_KliBioTo_StudySites_Extents_AgroBaLa___PV_Points<br>path: D:/Users/konlavach/Desktop/AIA_Meeting/2023_06_23/Study_Sites/Survey_Points/AgroBaLa/AgroBaLa_PV_9Points.kml|layername=LIL_KliBioTo_StudySites_Extents_AgroBaLa___PV_Points]]></description>
+        <styleUrl>#icon-1535-FBC02D-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="tessellate">
+            <value>-1</value>
+          </Data>
+          <Data name="extrude">
+            <value>0</value>
+          </Data>
+          <Data name="visibility">
+            <value>-1</value>
+          </Data>
+          <Data name="id">
+            <value>8</value>
+          </Data>
+          <Data name="left">
+            <value>429489.907317138</value>
+          </Data>
+          <Data name="top">
+            <value>5700304.92369506</value>
+          </Data>
+          <Data name="right">
+            <value>429614.907317138</value>
+          </Data>
+          <Data name="bottom">
+            <value>5700429.92369506</value>
+          </Data>
+          <Data name="layer">
+            <value>AgroBaLa_PV_9Points LIL_KliBioTo_StudySites_Extents_AgroBaLa___PV_Points</value>
+          </Data>
+          <Data name="path">
+            <value>D:/Users/konlavach/Desktop/AIA_Meeting/2023_06_23/Study_Sites/Survey_Points/AgroBaLa/AgroBaLa_PV_9Points.kml|layername=LIL_KliBioTo_StudySites_Extents_AgroBaLa___PV_Points</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            13.9853593,51.4495146,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name/>
+        <description><![CDATA[description: <br>tessellate: -1<br>extrude: 0<br>visibility: -1<br>id: 9<br>left: 429489.907317138<br>top: 5700179.92369506<br>right: 429614.907317138<br>bottom: 5700304.92369506<br>layer: AgroBaLa_PV_9Points LIL_KliBioTo_StudySites_Extents_AgroBaLa___PV_Points<br>path: D:/Users/konlavach/Desktop/AIA_Meeting/2023_06_23/Study_Sites/Survey_Points/AgroBaLa/AgroBaLa_PV_9Points.kml|layername=LIL_KliBioTo_StudySites_Extents_AgroBaLa___PV_Points]]></description>
+        <styleUrl>#icon-1535-FBC02D-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="tessellate">
+            <value>-1</value>
+          </Data>
+          <Data name="extrude">
+            <value>0</value>
+          </Data>
+          <Data name="visibility">
+            <value>-1</value>
+          </Data>
+          <Data name="id">
+            <value>9</value>
+          </Data>
+          <Data name="left">
+            <value>429489.907317138</value>
+          </Data>
+          <Data name="top">
+            <value>5700179.92369506</value>
+          </Data>
+          <Data name="right">
+            <value>429614.907317138</value>
+          </Data>
+          <Data name="bottom">
+            <value>5700304.92369506</value>
+          </Data>
+          <Data name="layer">
+            <value>AgroBaLa_PV_9Points LIL_KliBioTo_StudySites_Extents_AgroBaLa___PV_Points</value>
+          </Data>
+          <Data name="path">
+            <value>D:/Users/konlavach/Desktop/AIA_Meeting/2023_06_23/Study_Sites/Survey_Points/AgroBaLa/AgroBaLa_PV_9Points.kml|layername=LIL_KliBioTo_StudySites_Extents_AgroBaLa___PV_Points</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            13.9852328,51.4488979,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

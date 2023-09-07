@@ -1,0 +1,14 @@
+"","Stations_id","von_datum","bis_datum","Stationshoehe","geoBreite","geoLaenge","Stationsname","Bundesland","res","var","per","hasfile"
+"17934",880,1887-01-01,2022-05-11,69,51.7759,14.3168,"Cottbus","Brandenburg","daily","kl","recent",TRUE
+"8828",427,1957-01-01,2022-05-11,46,52.3807,13.5306,"Berlin Brandenburg","Brandenburg","daily","kl","recent",TRUE
+"59943",3083,1991-10-01,2022-05-11,57,51.9267,13.8797,"Luebben-Blumenfelde","Brandenburg","daily","kl","recent",TRUE
+"20452",1001,1948-07-01,2022-05-11,97,51.6451,13.5747,"Doberlug-Kirchhain","Brandenburg","daily","kl","recent",TRUE
+"44774",2315,2000-06-01,2022-05-11,80,51.7657,13.1666,"Holzdorf (Flugplatz)","Brandenburg","daily","kl","recent",TRUE
+"51004",2627,1996-07-01,2022-05-11,128,51.5554,13.8845,"Schipkau-Klettwitz","Brandenburg","daily","kl","recent",TRUE
+"129158",15911,2021-06-01,2022-05-11,278,51.1348,14.4343,"Grosspostwitz-Denkwitz","Sachsen","daily","kl","recent",TRUE
+"121611",7393,2010-01-01,2022-05-11,116,51.4492,14.2533,"Hoyerswerda","Sachsen","daily","kl","recent",TRUE
+"6334",314,1936-01-01,2022-05-11,234,51.1604,14.5042,"Kubschuetz, Kr. Bautzen","Sachsen","daily","kl","recent",TRUE
+"114511",6129,1999-05-01,2022-05-11,291,51.0593,14.4266,"Sohland/Spree","Sachsen","daily","kl","recent",TRUE
+"43533",2252,1947-01-01,2022-05-11,271,50.8992,14.7456,"Bertsdorf-Hoernitz","Sachsen","daily","kl","recent",TRUE
+"33681",1684,1880-01-01,2022-05-11,239,51.1621,14.9506,"Goerlitz","Sachsen","daily","kl","recent",TRUE
+"67279",3426,1936-05-18,2022-05-11,127,51.566,14.7008,"Muskau, Bad","Sachsen","daily","kl","recent",TRUE
