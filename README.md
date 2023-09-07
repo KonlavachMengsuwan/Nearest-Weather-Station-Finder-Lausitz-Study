@@ -48,6 +48,8 @@ plt.show()
 ```
 
 ![](Lausitz Boundary and Weather Stations.png)<!-- -->
+![alt text](Lausitz Boundary and Weather Stations.png)
+
 
 ## 4. Data Extraction: Study Blocks from KML File
 Extract study block data manually from the provided KML file.
