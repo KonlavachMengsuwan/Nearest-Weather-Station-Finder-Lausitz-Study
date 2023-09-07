@@ -137,18 +137,18 @@ print(summary_df_new_manual)
 ```
 
 ```
-                           Block_Name         Nearest_DWD  Distance (km)
-0                AgroBaLa - Peickwitz  Schipkau-Klettwitz     827.590601
-1   AgroBaLa_IsolatedTreeConservation  Schipkau-Klettwitz     859.385952
-2             AgroBaLa_OpenSpaceField  Schipkau-Klettwitz     802.354061
-3                        AgroBaLa_PV   Schipkau-Klettwitz     924.240790
-4                         Cottbus_BTU             Cottbus      76.124773
-5                    Cottbus_Nutzberg             Cottbus     581.102096
-6                   Cottbus_SmallTown             Cottbus     653.515461
-7             Cottbuser Ostsee - West             Cottbus     406.068250
-8            Cottbuser Ostsee - South             Cottbus     561.289805
-9            Cottbuser Ostsee - North             Cottbus     638.925492
-10         Senftenberg_Rostiger Nagel         Hoyerswerda    1090.178549
-11     Senftenberg_Flooded Vegetation         Hoyerswerda    1239.986323
-12                  Senftenberg_Hafen         Hoyerswerda    1141.104257
+                           Block_Name         Nearest_DWD  
+0                AgroBaLa - Peickwitz  Schipkau-Klettwitz     
+1   AgroBaLa_IsolatedTreeConservation  Schipkau-Klettwitz     
+2             AgroBaLa_OpenSpaceField  Schipkau-Klettwitz     
+3                        AgroBaLa_PV   Schipkau-Klettwitz  
+4                         Cottbus_BTU             Cottbus      
+5                    Cottbus_Nutzberg             Cottbus    
+6                   Cottbus_SmallTown             Cottbus 
+7             Cottbuser Ostsee - West             Cottbus   
+8            Cottbuser Ostsee - South             Cottbus  
+9            Cottbuser Ostsee - North             Cottbus  
+10         Senftenberg_Rostiger Nagel         Hoyerswerda  
+11     Senftenberg_Flooded Vegetation         Hoyerswerda   
+12                  Senftenberg_Hafen         Hoyerswerda   
 ```
