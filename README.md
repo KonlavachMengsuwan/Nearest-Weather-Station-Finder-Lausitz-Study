@@ -127,7 +127,9 @@ plt.show()
 ```
 
 ![](Centroids and Lines to Nearest Weather Stations.png)<!-- -->
-https://github.com/KonlavachMengsuwan/Nearest-Weather-Station-Finder-Lausitz-Study/blob/main/Centroids%20and%20Lines%20to%20Nearest%20Weather%20Stations.png
+
+![alt text]([[https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true](https://github.com/KonlavachMengsuwan/Nearest-Weather-Station-Finder-Lausitz-Study/blob/main/Centroids%20and%20Lines%20to%20Nearest%20Weather%20Stations.png](https://github.com/KonlavachMengsuwan/Nearest-Weather-Station-Finder-Lausitz-Study/blob/main/Centroids%20and%20Lines%20to%20Nearest%20Weather%20Stations.png)))
+
 
 ## 8. Summary
 Finally, print a summary dataframe showing the nearest weather station for each study block and the corresponding distance.
