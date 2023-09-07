@@ -86,7 +86,7 @@ plt.tight_layout()
 plt.show()
 ```
 
-![](Study Blocks with Lausitz Boundary and Weather Stations.png)<!-- -->
+![Study Blocks with Lausitz Boundary and Weather Stations](Study%20Blocks%20with%20Lausitz%20Boundary%20and%20Weather%20Stations.png)
 
 ## 6. Find Nearest Weather Station for Each Study Block
 Define a function to find the nearest weather station for each study block centroid and apply it.
@@ -125,10 +125,7 @@ plt.tight_layout()
 plt.show()
 ```
 
-![](Centroids and Lines to Nearest Weather Stations.png)<!-- -->
-
-![alt text]([[https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true](https://github.com/KonlavachMengsuwan/Nearest-Weather-Station-Finder-Lausitz-Study/blob/main/Centroids%20and%20Lines%20to%20Nearest%20Weather%20Stations.png](https://github.com/KonlavachMengsuwan/Nearest-Weather-Station-Finder-Lausitz-Study/blob/main/Centroids%20and%20Lines%20to%20Nearest%20Weather%20Stations.png)))
-
+![Centroids and Lines to Nearest Weather Stations](Centroids%20and%20Lines%20to%20Nearest%20Weather%20Stations.png
 
 ## 8. Summary
 Finally, print a summary dataframe showing the nearest weather station for each study block and the corresponding distance.
